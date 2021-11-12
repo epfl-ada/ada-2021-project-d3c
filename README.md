@@ -10,7 +10,7 @@
 
 People are used to getting information from the media including newspapers and websites. However, readers might be misguided because different outlets possess dissimilar biases. Previous research may focus on media bias itself, however, we can also utilize the quotations to reveal such bias, which probably reflects hidden inequality and trends in the world. The Quotebank dataset provides us with a good opportunity to implement this idea.
 
-With sufficient quotation and speaker pairs, we hope to find the hidden media bias behind the sentences through the topics they refer to and the speakers’ attributes (e.g. nationality, gender, party, etc.). Furthermore, quotations make it plausible to explore different variables changing patterns (trends) along the time with massive and available NLP techniques. Eventually, we could unite different small blocks of analysis together and give an overview of the media bias. The user will be able to use our visualization tool to do searches about media biases.
+With sufficient quotation-speaker pairs, we hope to find the hidden media bias behind the sentences through the topics they refer to and the speakers’ attributes (e.g. gender, party, etc.). Furthermore, quotations make it plausible to explore different variables changing patterns over time with many available NLP techniques. Eventually, we can unite different small blocks of analysis together and give an overview of the media bias. The user will be able to use our visualization tool to do searches about media biases.
 
 ## Research Questions
 
