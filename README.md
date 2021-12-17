@@ -38,12 +38,12 @@ We plan to continue our research in the following directions, and we list here v
 - **BERT for sentiment analyze.** We use the BERT model to classify quotations to different sentiments. 
 - **Logistic Regression for linguistic analysis.** We use the Logistic Regression to predict the gender for a giving quotation. If the quotation style discrepancy between males and females is not as significant as we expected. then the model we developed would be equivalent to a random assumption (we cannot infer gender from what they say), i.e. 50%. But if the model works better than 50%. it indicates that there is indeed some bias in quotes made by different genders, which is therefore identified by the model as a discriminatory feature.
 
-## Proposed timeline
+## Contributions
 
-- **Xiaoyu Chen**: Study subtopics of News bias, Partisan bias, Gender bias and finish data extraction functions.
-- **Siyi Liu**: Apply data processing pipeline on Quotebank datasets with different years, discover valuable and interesting patterns based on it, and conceptualize the data story.
-- **Xiaotian Su**: Visualize the data including histogram, line-chart, scatterplot, etc. Design the layout and visual style of the website, then realize it.
-- **Xinyu Zhou**: Polish the data story to make it more intuitive and appealing. Check codes and documentation. Prepare the final presentation.
+- **Xiaoyu Chen**: Builds the website pages and modifies the website pages, also checks our data story.
+- **Siyi Liu**: Takes charge of data processing pipeline on Quotebank dataset  (with different years, discover valuable and interesting patterns based on it), and conceptualizes the data story.
+- **Xiaotian Su**: Visualizes the data including histogram, line-chart, scatterplot, etc. Designs the layout and visual style of the website, modifies the weibsite page, and checks our data story.
+- **Xinyu Zhou**: Designs regression models used in this project, conceptualizes the data story, helps Xiaotian visualize the data including Stack-bar and heatmap and modifies the website page.
 
 
 
