@@ -1,11 +1,12 @@
 # Women’s Underrepresentation in the news quotations.
 
-## data story
+## Data Story
 
 Our data story can be found [here](https://chenxiaoyuxd.github.io/)
 
 ## File Description
-
++ `plotly_apps`: files contains plotly with dash used in our data story.
++ `plotly_data`: data used to plot the figures by plotly.
 + `data_analysis-m3.ipynb`: The final analyze of processed QuoteBank data.
 + `data_preprocess.ipynb`: Preprocessing the original QuoteBank data.
 + `generate_mapper.ipynb`: Generate the mapper that map Qids in QuoteBank data into real values.
@@ -29,7 +30,7 @@ In addition, we explore gender bias under self-defined **topics** and **linguist
 We plan to continue our research in the following directions, and we list here various questions to go on exploring under each topic.
 
 + How gender bias is reflected under different topics.
-+ What is the percentage of female politicians mentioned or quoted for each outlet, and the average across outlets?
++ What is the percentage of female politicians mentioned or quoted for each outlet, and the average across news outlets?
 + What kind of topics do different genders focus on?
 + The difference of the media quoting sentences from males and females, and how they change over time.
 + Is gender discrimination aggravating or mitigating over time?
