@@ -1,0 +1,895 @@
+,date,Occurrences,gender,party
+0,2015-01,177561,male,Republican Party
+1,2015-02,165406,male,Republican Party
+2,2015-03,184423,male,Republican Party
+3,2015-04,134833,male,Republican Party
+4,2015-05,114269,male,Republican Party
+5,2015-06,130328,male,Republican Party
+6,2015-07,269866,male,Republican Party
+7,2015-08,385403,male,Republican Party
+8,2015-09,341040,male,Republican Party
+9,2015-10,326582,male,Republican Party
+10,2015-11,284885,male,Republican Party
+11,2015-12,379332,male,Republican Party
+0,2015-01,21594,female,Republican Party
+1,2015-02,18491,female,Republican Party
+2,2015-03,18731,female,Republican Party
+3,2015-04,15784,female,Republican Party
+4,2015-05,10393,female,Republican Party
+5,2015-06,15448,female,Republican Party
+6,2015-07,17803,female,Republican Party
+7,2015-08,37974,female,Republican Party
+8,2015-09,47934,female,Republican Party
+9,2015-10,44558,female,Republican Party
+10,2015-11,21377,female,Republican Party
+11,2015-12,25232,female,Republican Party
+0,2015-01,202109,male,Democratic Party
+1,2015-02,184693,male,Democratic Party
+2,2015-03,277146,male,Democratic Party
+3,2015-04,150275,male,Democratic Party
+4,2015-05,102797,male,Democratic Party
+5,2015-06,109340,male,Democratic Party
+6,2015-07,236423,male,Democratic Party
+7,2015-08,256242,male,Democratic Party
+8,2015-09,253397,male,Democratic Party
+9,2015-10,266192,male,Democratic Party
+10,2015-11,196347,male,Democratic Party
+11,2015-12,271352,male,Democratic Party
+0,2015-01,63738,female,Democratic Party
+1,2015-02,55448,female,Democratic Party
+2,2015-03,71767,female,Democratic Party
+3,2015-04,61550,female,Democratic Party
+4,2015-05,49805,female,Democratic Party
+5,2015-06,41941,female,Democratic Party
+6,2015-07,90283,female,Democratic Party
+7,2015-08,98809,female,Democratic Party
+8,2015-09,122202,female,Democratic Party
+9,2015-10,131367,female,Democratic Party
+10,2015-11,77710,female,Democratic Party
+11,2015-12,119457,female,Democratic Party
+0,2015-01,8920,male,Conservative Party
+1,2015-02,10472,male,Conservative Party
+2,2015-03,10827,male,Conservative Party
+3,2015-04,6772,male,Conservative Party
+4,2015-05,5829,male,Conservative Party
+5,2015-06,4725,male,Conservative Party
+6,2015-07,13513,male,Conservative Party
+7,2015-08,17509,male,Conservative Party
+8,2015-09,19304,male,Conservative Party
+9,2015-10,20582,male,Conservative Party
+10,2015-11,20656,male,Conservative Party
+11,2015-12,20148,male,Conservative Party
+0,2015-01,1936,female,Conservative Party
+1,2015-02,3793,female,Conservative Party
+2,2015-03,2163,female,Conservative Party
+3,2015-04,829,female,Conservative Party
+4,2015-05,1364,female,Conservative Party
+5,2015-06,929,female,Conservative Party
+6,2015-07,4515,female,Conservative Party
+7,2015-08,5592,female,Conservative Party
+8,2015-09,3835,female,Conservative Party
+9,2015-10,7125,female,Conservative Party
+10,2015-11,6063,female,Conservative Party
+11,2015-12,6386,female,Conservative Party
+0,2015-01,10526,male,Labour Party
+1,2015-02,12066,male,Labour Party
+2,2015-03,10205,male,Labour Party
+3,2015-04,9639,male,Labour Party
+4,2015-05,8133,male,Labour Party
+5,2015-06,6845,male,Labour Party
+6,2015-07,15778,male,Labour Party
+7,2015-08,21999,male,Labour Party
+8,2015-09,29972,male,Labour Party
+9,2015-10,23528,male,Labour Party
+10,2015-11,16193,male,Labour Party
+11,2015-12,22945,male,Labour Party
+0,2015-01,2831,female,Labour Party
+1,2015-02,3596,female,Labour Party
+2,2015-03,3321,female,Labour Party
+3,2015-04,2412,female,Labour Party
+4,2015-05,2680,female,Labour Party
+5,2015-06,1765,female,Labour Party
+6,2015-07,4476,female,Labour Party
+7,2015-08,5024,female,Labour Party
+8,2015-09,5567,female,Labour Party
+9,2015-10,4480,female,Labour Party
+10,2015-11,3746,female,Labour Party
+11,2015-12,3811,female,Labour Party
+0,2015-01,2674,male,Liberal Democrats
+1,2015-02,2217,male,Liberal Democrats
+2,2015-03,3260,male,Liberal Democrats
+3,2015-04,3043,male,Liberal Democrats
+4,2015-05,1837,male,Liberal Democrats
+5,2015-06,609,male,Liberal Democrats
+6,2015-07,2457,male,Liberal Democrats
+7,2015-08,894,male,Liberal Democrats
+8,2015-09,2208,male,Liberal Democrats
+9,2015-10,1476,male,Liberal Democrats
+10,2015-11,1502,male,Liberal Democrats
+11,2015-12,1755,male,Liberal Democrats
+0,2015-01,393,female,Liberal Democrats
+1,2015-02,349,female,Liberal Democrats
+2,2015-03,552,female,Liberal Democrats
+3,2015-04,183,female,Liberal Democrats
+4,2015-05,77,female,Liberal Democrats
+5,2015-06,120,female,Liberal Democrats
+6,2015-07,449,female,Liberal Democrats
+7,2015-08,483,female,Liberal Democrats
+8,2015-09,288,female,Liberal Democrats
+9,2015-10,290,female,Liberal Democrats
+10,2015-11,124,female,Liberal Democrats
+11,2015-12,401,female,Liberal Democrats
+0,2015-01,21832,male,Bharatiya Janata Party
+1,2015-02,21669,male,Bharatiya Janata Party
+2,2015-03,20654,male,Bharatiya Janata Party
+3,2015-04,21171,male,Bharatiya Janata Party
+4,2015-05,16562,male,Bharatiya Janata Party
+5,2015-06,11034,male,Bharatiya Janata Party
+6,2015-07,16000,male,Bharatiya Janata Party
+7,2015-08,26309,male,Bharatiya Janata Party
+8,2015-09,28025,male,Bharatiya Janata Party
+9,2015-10,28305,male,Bharatiya Janata Party
+10,2015-11,29791,male,Bharatiya Janata Party
+11,2015-12,33058,male,Bharatiya Janata Party
+0,2015-01,2454,female,Bharatiya Janata Party
+1,2015-02,3084,female,Bharatiya Janata Party
+2,2015-03,1368,female,Bharatiya Janata Party
+3,2015-04,1228,female,Bharatiya Janata Party
+4,2015-05,1058,female,Bharatiya Janata Party
+5,2015-06,1496,female,Bharatiya Janata Party
+6,2015-07,1317,female,Bharatiya Janata Party
+7,2015-08,4273,female,Bharatiya Janata Party
+8,2015-09,2160,female,Bharatiya Janata Party
+9,2015-10,3433,female,Bharatiya Janata Party
+10,2015-11,1089,female,Bharatiya Janata Party
+11,2015-12,4157,female,Bharatiya Janata Party
+0,2015-01,6903,male,Indian National Congress
+1,2015-02,8392,male,Indian National Congress
+2,2015-03,6019,male,Indian National Congress
+3,2015-04,5399,male,Indian National Congress
+4,2015-05,4669,male,Indian National Congress
+5,2015-06,3718,male,Indian National Congress
+6,2015-07,7162,male,Indian National Congress
+7,2015-08,11939,male,Indian National Congress
+8,2015-09,9574,male,Indian National Congress
+9,2015-10,10204,male,Indian National Congress
+10,2015-11,7392,male,Indian National Congress
+11,2015-12,11678,male,Indian National Congress
+0,2015-01,1635,female,Indian National Congress
+1,2015-02,2078,female,Indian National Congress
+2,2015-03,1446,female,Indian National Congress
+3,2015-04,1387,female,Indian National Congress
+4,2015-05,891,female,Indian National Congress
+5,2015-06,310,female,Indian National Congress
+6,2015-07,937,female,Indian National Congress
+7,2015-08,2060,female,Indian National Congress
+8,2015-09,1513,female,Indian National Congress
+9,2015-10,817,female,Indian National Congress
+10,2015-11,990,female,Indian National Congress
+11,2015-12,1230,female,Indian National Congress
+0,2016-01,4296,male,Republican Party
+1,2016-02,263656,male,Republican Party
+2,2016-03,9833,male,Republican Party
+3,2016-04,218973,male,Republican Party
+4,2016-05,409739,male,Republican Party
+5,2016-06,16297,male,Republican Party
+6,2016-07,643950,male,Republican Party
+7,2016-08,473787,male,Republican Party
+8,2016-09,509661,male,Republican Party
+9,2016-10,7886,male,Republican Party
+10,2016-11,27723,male,Republican Party
+11,2016-12,418620,male,Republican Party
+0,2016-01,1282,female,Republican Party
+1,2016-02,15702,female,Republican Party
+2,2016-03,529,female,Republican Party
+3,2016-04,15700,female,Republican Party
+4,2016-05,43479,female,Republican Party
+5,2016-06,656,female,Republican Party
+6,2016-07,61959,female,Republican Party
+7,2016-08,52781,female,Republican Party
+8,2016-09,46711,female,Republican Party
+9,2016-10,331,female,Republican Party
+10,2016-11,2279,female,Republican Party
+11,2016-12,43303,female,Republican Party
+0,2016-01,4713,male,Democratic Party
+1,2016-02,106641,male,Democratic Party
+2,2016-03,1222,male,Democratic Party
+3,2016-04,117478,male,Democratic Party
+4,2016-05,253492,male,Democratic Party
+5,2016-06,7834,male,Democratic Party
+6,2016-07,426995,male,Democratic Party
+7,2016-08,216334,male,Democratic Party
+8,2016-09,367232,male,Democratic Party
+9,2016-10,1222,male,Democratic Party
+10,2016-11,8758,male,Democratic Party
+11,2016-12,243644,male,Democratic Party
+0,2016-01,1325,female,Democratic Party
+1,2016-02,50756,female,Democratic Party
+2,2016-03,1402,female,Democratic Party
+3,2016-04,67227,female,Democratic Party
+4,2016-05,145139,female,Democratic Party
+5,2016-06,4637,female,Democratic Party
+6,2016-07,245308,female,Democratic Party
+7,2016-08,154014,female,Democratic Party
+8,2016-09,235857,female,Democratic Party
+9,2016-10,1973,female,Democratic Party
+10,2016-11,5557,female,Democratic Party
+11,2016-12,97882,female,Democratic Party
+0,2016-01,240,male,Conservative Party
+1,2016-02,11639,male,Conservative Party
+2,2016-03,35,male,Conservative Party
+3,2016-04,14959,male,Conservative Party
+4,2016-05,29336,male,Conservative Party
+5,2016-06,2599,male,Conservative Party
+6,2016-07,38701,male,Conservative Party
+7,2016-08,17202,male,Conservative Party
+8,2016-09,23441,male,Conservative Party
+9,2016-10,51,male,Conservative Party
+10,2016-11,526,male,Conservative Party
+11,2016-12,27991,male,Conservative Party
+0,2016-01,136,female,Conservative Party
+1,2016-02,1637,female,Conservative Party
+2,2016-03,56,female,Conservative Party
+3,2016-04,1746,female,Conservative Party
+4,2016-05,5867,female,Conservative Party
+5,2016-06,701,female,Conservative Party
+6,2016-07,32392,female,Conservative Party
+7,2016-08,7554,female,Conservative Party
+8,2016-09,20363,female,Conservative Party
+9,2016-10,27,female,Conservative Party
+10,2016-11,249,female,Conservative Party
+11,2016-12,12748,female,Conservative Party
+0,2016-01,282,male,Labour Party
+1,2016-02,5321,male,Labour Party
+2,2016-03,45,male,Labour Party
+3,2016-04,11228,male,Labour Party
+4,2016-05,28866,male,Labour Party
+5,2016-06,656,male,Labour Party
+6,2016-07,31845,male,Labour Party
+7,2016-08,20415,male,Labour Party
+8,2016-09,32987,male,Labour Party
+9,2016-10,28,male,Labour Party
+10,2016-11,621,male,Labour Party
+11,2016-12,23522,male,Labour Party
+0,2016-01,74,female,Labour Party
+1,2016-02,1676,female,Labour Party
+2,2016-03,3,female,Labour Party
+3,2016-04,3317,female,Labour Party
+4,2016-05,5136,female,Labour Party
+5,2016-06,389,female,Labour Party
+6,2016-07,7998,female,Labour Party
+7,2016-08,4430,female,Labour Party
+8,2016-09,8108,female,Labour Party
+9,2016-10,24,female,Labour Party
+10,2016-11,35,female,Labour Party
+11,2016-12,5647,female,Labour Party
+0,2016-01,66,male,Liberal Democrats
+1,2016-02,918,male,Liberal Democrats
+2,2016-03,17,male,Liberal Democrats
+3,2016-04,1455,male,Liberal Democrats
+4,2016-05,884,male,Liberal Democrats
+5,2016-06,26,male,Liberal Democrats
+6,2016-07,2190,male,Liberal Democrats
+7,2016-08,2076,male,Liberal Democrats
+8,2016-09,3910,male,Liberal Democrats
+9,2016-10,44,male,Liberal Democrats
+10,2016-11,44,male,Liberal Democrats
+11,2016-12,5250,male,Liberal Democrats
+0,2016-01,10,female,Liberal Democrats
+1,2016-02,157,female,Liberal Democrats
+2,2016-03,1,female,Liberal Democrats
+3,2016-04,151,female,Liberal Democrats
+4,2016-05,330,female,Liberal Democrats
+5,2016-06,1,female,Liberal Democrats
+6,2016-07,475,female,Liberal Democrats
+7,2016-08,566,female,Liberal Democrats
+8,2016-09,609,female,Liberal Democrats
+9,2016-11,6,female,Liberal Democrats
+10,2016-12,1036,female,Liberal Democrats
+0,2016-01,402,male,Bharatiya Janata Party
+1,2016-02,10465,male,Bharatiya Janata Party
+2,2016-03,60,male,Bharatiya Janata Party
+3,2016-04,12102,male,Bharatiya Janata Party
+4,2016-05,32797,male,Bharatiya Janata Party
+5,2016-06,254,male,Bharatiya Janata Party
+6,2016-07,28466,male,Bharatiya Janata Party
+7,2016-08,31928,male,Bharatiya Janata Party
+8,2016-09,28419,male,Bharatiya Janata Party
+9,2016-10,86,male,Bharatiya Janata Party
+10,2016-11,173,male,Bharatiya Janata Party
+11,2016-12,30377,male,Bharatiya Janata Party
+0,2016-01,35,female,Bharatiya Janata Party
+1,2016-02,838,female,Bharatiya Janata Party
+2,2016-03,3,female,Bharatiya Janata Party
+3,2016-04,1181,female,Bharatiya Janata Party
+4,2016-05,3173,female,Bharatiya Janata Party
+5,2016-06,38,female,Bharatiya Janata Party
+6,2016-07,5544,female,Bharatiya Janata Party
+7,2016-08,3863,female,Bharatiya Janata Party
+8,2016-09,3155,female,Bharatiya Janata Party
+9,2016-10,4,female,Bharatiya Janata Party
+10,2016-11,12,female,Bharatiya Janata Party
+11,2016-12,1847,female,Bharatiya Janata Party
+0,2016-01,118,male,Indian National Congress
+1,2016-02,4445,male,Indian National Congress
+2,2016-03,19,male,Indian National Congress
+3,2016-04,5392,male,Indian National Congress
+4,2016-05,13757,male,Indian National Congress
+5,2016-06,87,male,Indian National Congress
+6,2016-07,11004,male,Indian National Congress
+7,2016-08,11054,male,Indian National Congress
+8,2016-09,9695,male,Indian National Congress
+9,2016-10,12,male,Indian National Congress
+10,2016-11,118,male,Indian National Congress
+11,2016-12,14267,male,Indian National Congress
+0,2016-01,21,female,Indian National Congress
+1,2016-02,292,female,Indian National Congress
+2,2016-03,2,female,Indian National Congress
+3,2016-04,1287,female,Indian National Congress
+4,2016-05,2571,female,Indian National Congress
+5,2016-06,21,female,Indian National Congress
+6,2016-07,2585,female,Indian National Congress
+7,2016-08,1970,female,Indian National Congress
+8,2016-09,1404,female,Indian National Congress
+9,2016-11,13,female,Indian National Congress
+10,2016-12,3506,female,Indian National Congress
+0,2017-01,43247,male,Republican Party
+1,2017-02,285036,male,Republican Party
+2,2017-03,752378,male,Republican Party
+3,2017-04,815206,male,Republican Party
+4,2017-05,848219,male,Republican Party
+5,2017-06,827092,male,Republican Party
+6,2017-07,952301,male,Republican Party
+7,2017-08,1238522,male,Republican Party
+8,2017-09,1011856,male,Republican Party
+9,2017-10,958049,male,Republican Party
+10,2017-11,752779,male,Republican Party
+11,2017-12,616119,male,Republican Party
+0,2017-01,1788,female,Republican Party
+1,2017-02,29539,female,Republican Party
+2,2017-03,73387,female,Republican Party
+3,2017-04,113211,female,Republican Party
+4,2017-05,91707,female,Republican Party
+5,2017-06,123480,female,Republican Party
+6,2017-07,137032,female,Republican Party
+7,2017-08,147970,female,Republican Party
+8,2017-09,158410,female,Republican Party
+9,2017-10,142074,female,Republican Party
+10,2017-11,121729,female,Republican Party
+11,2017-12,102880,female,Republican Party
+0,2017-01,13898,male,Democratic Party
+1,2017-02,67309,male,Democratic Party
+2,2017-03,258796,male,Democratic Party
+3,2017-04,268929,male,Democratic Party
+4,2017-05,295320,male,Democratic Party
+5,2017-06,299677,male,Democratic Party
+6,2017-07,259480,male,Democratic Party
+7,2017-08,368852,male,Democratic Party
+8,2017-09,321906,male,Democratic Party
+9,2017-10,359971,male,Democratic Party
+10,2017-11,296351,male,Democratic Party
+11,2017-12,278113,male,Democratic Party
+0,2017-01,5699,female,Democratic Party
+1,2017-02,39820,female,Democratic Party
+2,2017-03,139120,female,Democratic Party
+3,2017-04,130156,female,Democratic Party
+4,2017-05,176530,female,Democratic Party
+5,2017-06,146675,female,Democratic Party
+6,2017-07,96674,female,Democratic Party
+7,2017-08,131878,female,Democratic Party
+8,2017-09,164431,female,Democratic Party
+9,2017-10,192272,female,Democratic Party
+10,2017-11,145945,female,Democratic Party
+11,2017-12,135264,female,Democratic Party
+0,2017-01,660,male,Conservative Party
+1,2017-02,10951,male,Conservative Party
+2,2017-03,43774,male,Conservative Party
+3,2017-04,53868,male,Conservative Party
+4,2017-05,25733,male,Conservative Party
+5,2017-06,53408,male,Conservative Party
+6,2017-07,52870,male,Conservative Party
+7,2017-08,32994,male,Conservative Party
+8,2017-09,58356,male,Conservative Party
+9,2017-10,79664,male,Conservative Party
+10,2017-11,52631,male,Conservative Party
+11,2017-12,59034,male,Conservative Party
+0,2017-01,1171,female,Conservative Party
+1,2017-02,4175,female,Conservative Party
+2,2017-03,64541,female,Conservative Party
+3,2017-04,29642,female,Conservative Party
+4,2017-05,67000,female,Conservative Party
+5,2017-06,87512,female,Conservative Party
+6,2017-07,24439,female,Conservative Party
+7,2017-08,17737,female,Conservative Party
+8,2017-09,45505,female,Conservative Party
+9,2017-10,44911,female,Conservative Party
+10,2017-11,38544,female,Conservative Party
+11,2017-12,36297,female,Conservative Party
+0,2017-01,620,male,Labour Party
+1,2017-02,11542,male,Labour Party
+2,2017-03,37504,male,Labour Party
+3,2017-04,42887,male,Labour Party
+4,2017-05,55245,male,Labour Party
+5,2017-06,94107,male,Labour Party
+6,2017-07,34035,male,Labour Party
+7,2017-08,31650,male,Labour Party
+8,2017-09,56127,male,Labour Party
+9,2017-10,39075,male,Labour Party
+10,2017-11,43711,male,Labour Party
+11,2017-12,38392,male,Labour Party
+0,2017-01,41,female,Labour Party
+1,2017-02,2378,female,Labour Party
+2,2017-03,8509,female,Labour Party
+3,2017-04,8096,female,Labour Party
+4,2017-05,9072,female,Labour Party
+5,2017-06,14547,female,Labour Party
+6,2017-07,12630,female,Labour Party
+7,2017-08,7446,female,Labour Party
+8,2017-09,12525,female,Labour Party
+9,2017-10,16192,female,Labour Party
+10,2017-11,13619,female,Labour Party
+11,2017-12,8321,female,Labour Party
+0,2017-01,19,male,Liberal Democrats
+1,2017-02,577,male,Liberal Democrats
+2,2017-03,4662,male,Liberal Democrats
+3,2017-04,9752,male,Liberal Democrats
+4,2017-05,12854,male,Liberal Democrats
+5,2017-06,14457,male,Liberal Democrats
+6,2017-07,6477,male,Liberal Democrats
+7,2017-08,4673,male,Liberal Democrats
+8,2017-09,8071,male,Liberal Democrats
+9,2017-10,4236,male,Liberal Democrats
+10,2017-11,4214,male,Liberal Democrats
+11,2017-12,3487,male,Liberal Democrats
+0,2017-01,7,female,Liberal Democrats
+1,2017-02,115,female,Liberal Democrats
+2,2017-03,451,female,Liberal Democrats
+3,2017-04,695,female,Liberal Democrats
+4,2017-05,1063,female,Liberal Democrats
+5,2017-06,2109,female,Liberal Democrats
+6,2017-07,986,female,Liberal Democrats
+7,2017-08,548,female,Liberal Democrats
+8,2017-09,1200,female,Liberal Democrats
+9,2017-10,527,female,Liberal Democrats
+10,2017-11,1222,female,Liberal Democrats
+11,2017-12,280,female,Liberal Democrats
+0,2017-01,160,male,Bharatiya Janata Party
+1,2017-02,9477,male,Bharatiya Janata Party
+2,2017-03,29386,male,Bharatiya Janata Party
+3,2017-04,42052,male,Bharatiya Janata Party
+4,2017-05,38740,male,Bharatiya Janata Party
+5,2017-06,42996,male,Bharatiya Janata Party
+6,2017-07,42158,male,Bharatiya Janata Party
+7,2017-08,46373,male,Bharatiya Janata Party
+8,2017-09,41394,male,Bharatiya Janata Party
+9,2017-10,41294,male,Bharatiya Janata Party
+10,2017-11,37045,male,Bharatiya Janata Party
+11,2017-12,38417,male,Bharatiya Janata Party
+0,2017-01,14,female,Bharatiya Janata Party
+1,2017-02,809,female,Bharatiya Janata Party
+2,2017-03,3866,female,Bharatiya Janata Party
+3,2017-04,5060,female,Bharatiya Janata Party
+4,2017-05,2924,female,Bharatiya Janata Party
+5,2017-06,2887,female,Bharatiya Janata Party
+6,2017-07,5634,female,Bharatiya Janata Party
+7,2017-08,3980,female,Bharatiya Janata Party
+8,2017-09,4446,female,Bharatiya Janata Party
+9,2017-10,7735,female,Bharatiya Janata Party
+10,2017-11,2501,female,Bharatiya Janata Party
+11,2017-12,3232,female,Bharatiya Janata Party
+0,2017-01,75,male,Indian National Congress
+1,2017-02,2924,male,Indian National Congress
+2,2017-03,10754,male,Indian National Congress
+3,2017-04,13265,male,Indian National Congress
+4,2017-05,12488,male,Indian National Congress
+5,2017-06,14396,male,Indian National Congress
+6,2017-07,17111,male,Indian National Congress
+7,2017-08,19859,male,Indian National Congress
+8,2017-09,16100,male,Indian National Congress
+9,2017-10,18881,male,Indian National Congress
+10,2017-11,17929,male,Indian National Congress
+11,2017-12,22447,male,Indian National Congress
+0,2017-01,11,female,Indian National Congress
+1,2017-02,502,female,Indian National Congress
+2,2017-03,1269,female,Indian National Congress
+3,2017-04,2897,female,Indian National Congress
+4,2017-05,2432,female,Indian National Congress
+5,2017-06,4925,female,Indian National Congress
+6,2017-07,4746,female,Indian National Congress
+7,2017-08,3392,female,Indian National Congress
+8,2017-09,2490,female,Indian National Congress
+9,2017-10,1846,female,Indian National Congress
+10,2017-11,2028,female,Indian National Congress
+11,2017-12,2499,female,Indian National Congress
+0,2018-01,831229,male,Republican Party
+1,2018-02,745116,male,Republican Party
+2,2018-03,805850,male,Republican Party
+3,2018-04,849067,male,Republican Party
+4,2018-05,754190,male,Republican Party
+5,2018-06,681802,male,Republican Party
+6,2018-07,600726,male,Republican Party
+7,2018-08,423385,male,Republican Party
+8,2018-09,653203,male,Republican Party
+9,2018-10,633497,male,Republican Party
+10,2018-11,509402,male,Republican Party
+11,2018-12,391840,male,Republican Party
+0,2018-01,148975,female,Republican Party
+1,2018-02,105343,female,Republican Party
+2,2018-03,164243,female,Republican Party
+3,2018-04,143908,female,Republican Party
+4,2018-05,128266,female,Republican Party
+5,2018-06,111487,female,Republican Party
+6,2018-07,68031,female,Republican Party
+7,2018-08,87494,female,Republican Party
+8,2018-09,89008,female,Republican Party
+9,2018-10,118728,female,Republican Party
+10,2018-11,81513,female,Republican Party
+11,2018-12,57730,female,Republican Party
+0,2018-01,298828,male,Democratic Party
+1,2018-02,281485,male,Democratic Party
+2,2018-03,304023,male,Democratic Party
+3,2018-04,265217,male,Democratic Party
+4,2018-05,229707,male,Democratic Party
+5,2018-06,190042,male,Democratic Party
+6,2018-07,149051,male,Democratic Party
+7,2018-08,164821,male,Democratic Party
+8,2018-09,203900,male,Democratic Party
+9,2018-10,217115,male,Democratic Party
+10,2018-11,195073,male,Democratic Party
+11,2018-12,163682,male,Democratic Party
+0,2018-01,171841,female,Democratic Party
+1,2018-02,133053,female,Democratic Party
+2,2018-03,147930,female,Democratic Party
+3,2018-04,132209,female,Democratic Party
+4,2018-05,120044,female,Democratic Party
+5,2018-06,115177,female,Democratic Party
+6,2018-07,83324,female,Democratic Party
+7,2018-08,96404,female,Democratic Party
+8,2018-09,123336,female,Democratic Party
+9,2018-10,132476,female,Democratic Party
+10,2018-11,140564,female,Democratic Party
+11,2018-12,97452,female,Democratic Party
+0,2018-01,65672,male,Conservative Party
+1,2018-02,64692,male,Conservative Party
+2,2018-03,97218,male,Conservative Party
+3,2018-04,56470,male,Conservative Party
+4,2018-05,72885,male,Conservative Party
+5,2018-06,80840,male,Conservative Party
+6,2018-07,79309,male,Conservative Party
+7,2018-08,43633,male,Conservative Party
+8,2018-09,84225,male,Conservative Party
+9,2018-10,66958,male,Conservative Party
+10,2018-11,85424,male,Conservative Party
+11,2018-12,73495,male,Conservative Party
+0,2018-01,42703,female,Conservative Party
+1,2018-02,53594,female,Conservative Party
+2,2018-03,77328,female,Conservative Party
+3,2018-04,48506,female,Conservative Party
+4,2018-05,22412,female,Conservative Party
+5,2018-06,40197,female,Conservative Party
+6,2018-07,45179,female,Conservative Party
+7,2018-08,16224,female,Conservative Party
+8,2018-09,40479,female,Conservative Party
+9,2018-10,47045,female,Conservative Party
+10,2018-11,67113,female,Conservative Party
+11,2018-12,46029,female,Conservative Party
+0,2018-01,39967,male,Labour Party
+1,2018-02,38488,male,Labour Party
+2,2018-03,63463,male,Labour Party
+3,2018-04,54205,male,Labour Party
+4,2018-05,37225,male,Labour Party
+5,2018-06,45370,male,Labour Party
+6,2018-07,37177,male,Labour Party
+7,2018-08,37669,male,Labour Party
+8,2018-09,59111,male,Labour Party
+9,2018-10,32057,male,Labour Party
+10,2018-11,34775,male,Labour Party
+11,2018-12,35999,male,Labour Party
+0,2018-01,18298,female,Labour Party
+1,2018-02,17594,female,Labour Party
+2,2018-03,14038,female,Labour Party
+3,2018-04,19800,female,Labour Party
+4,2018-05,14114,female,Labour Party
+5,2018-06,12406,female,Labour Party
+6,2018-07,14283,female,Labour Party
+7,2018-08,7379,female,Labour Party
+8,2018-09,14537,female,Labour Party
+9,2018-10,13663,female,Labour Party
+10,2018-11,9627,female,Labour Party
+11,2018-12,7931,female,Labour Party
+0,2018-01,3879,male,Liberal Democrats
+1,2018-02,3327,male,Liberal Democrats
+2,2018-03,5995,male,Liberal Democrats
+3,2018-04,3778,male,Liberal Democrats
+4,2018-05,3823,male,Liberal Democrats
+5,2018-06,5396,male,Liberal Democrats
+6,2018-07,2674,male,Liberal Democrats
+7,2018-08,3704,male,Liberal Democrats
+8,2018-09,8542,male,Liberal Democrats
+9,2018-10,5138,male,Liberal Democrats
+10,2018-11,4068,male,Liberal Democrats
+11,2018-12,4541,male,Liberal Democrats
+0,2018-01,968,female,Liberal Democrats
+1,2018-02,1239,female,Liberal Democrats
+2,2018-03,1170,female,Liberal Democrats
+3,2018-04,707,female,Liberal Democrats
+4,2018-05,1263,female,Liberal Democrats
+5,2018-06,629,female,Liberal Democrats
+6,2018-07,1526,female,Liberal Democrats
+7,2018-08,229,female,Liberal Democrats
+8,2018-09,1854,female,Liberal Democrats
+9,2018-10,368,female,Liberal Democrats
+10,2018-11,627,female,Liberal Democrats
+11,2018-12,866,female,Liberal Democrats
+0,2018-01,36741,male,Bharatiya Janata Party
+1,2018-02,41117,male,Bharatiya Janata Party
+2,2018-03,36838,male,Bharatiya Janata Party
+3,2018-04,33438,male,Bharatiya Janata Party
+4,2018-05,37725,male,Bharatiya Janata Party
+5,2018-06,32521,male,Bharatiya Janata Party
+6,2018-07,35757,male,Bharatiya Janata Party
+7,2018-08,33021,male,Bharatiya Janata Party
+8,2018-09,33618,male,Bharatiya Janata Party
+9,2018-10,29334,male,Bharatiya Janata Party
+10,2018-11,32519,male,Bharatiya Janata Party
+11,2018-12,33138,male,Bharatiya Janata Party
+0,2018-01,2533,female,Bharatiya Janata Party
+1,2018-02,2360,female,Bharatiya Janata Party
+2,2018-03,3724,female,Bharatiya Janata Party
+3,2018-04,3685,female,Bharatiya Janata Party
+4,2018-05,2892,female,Bharatiya Janata Party
+5,2018-06,2011,female,Bharatiya Janata Party
+6,2018-07,3327,female,Bharatiya Janata Party
+7,2018-08,2360,female,Bharatiya Janata Party
+8,2018-09,4004,female,Bharatiya Janata Party
+9,2018-10,3178,female,Bharatiya Janata Party
+10,2018-11,2460,female,Bharatiya Janata Party
+11,2018-12,3450,female,Bharatiya Janata Party
+0,2018-01,13933,male,Indian National Congress
+1,2018-02,18401,male,Indian National Congress
+2,2018-03,18504,male,Indian National Congress
+3,2018-04,16633,male,Indian National Congress
+4,2018-05,18670,male,Indian National Congress
+5,2018-06,13741,male,Indian National Congress
+6,2018-07,16669,male,Indian National Congress
+7,2018-08,18441,male,Indian National Congress
+8,2018-09,16528,male,Indian National Congress
+9,2018-10,17682,male,Indian National Congress
+10,2018-11,20098,male,Indian National Congress
+11,2018-12,20839,male,Indian National Congress
+0,2018-01,1942,female,Indian National Congress
+1,2018-02,1740,female,Indian National Congress
+2,2018-03,4011,female,Indian National Congress
+3,2018-04,1212,female,Indian National Congress
+4,2018-05,2088,female,Indian National Congress
+5,2018-06,2137,female,Indian National Congress
+6,2018-07,3273,female,Indian National Congress
+7,2018-08,2710,female,Indian National Congress
+8,2018-09,1979,female,Indian National Congress
+9,2018-10,1400,female,Indian National Congress
+10,2018-11,2345,female,Indian National Congress
+11,2018-12,2285,female,Indian National Congress
+0,2019-01,404001,male,Republican Party
+1,2019-02,336555,male,Republican Party
+2,2019-03,315353,male,Republican Party
+3,2019-04,242098,male,Republican Party
+4,2019-05,368639,male,Republican Party
+5,2019-06,356495,male,Republican Party
+6,2019-07,269526,male,Republican Party
+7,2019-08,310771,male,Republican Party
+8,2019-09,305458,male,Republican Party
+9,2019-10,373476,male,Republican Party
+10,2019-11,275348,male,Republican Party
+11,2019-12,275234,male,Republican Party
+0,2019-01,40357,female,Republican Party
+1,2019-02,36731,female,Republican Party
+2,2019-03,49869,female,Republican Party
+3,2019-04,26691,female,Republican Party
+4,2019-05,41965,female,Republican Party
+5,2019-06,32081,female,Republican Party
+6,2019-07,21055,female,Republican Party
+7,2019-08,25167,female,Republican Party
+8,2019-09,26970,female,Republican Party
+9,2019-10,35307,female,Republican Party
+10,2019-11,47795,female,Republican Party
+11,2019-12,39593,female,Republican Party
+0,2019-01,200899,male,Democratic Party
+1,2019-02,203882,male,Democratic Party
+2,2019-03,200206,male,Democratic Party
+3,2019-04,156182,male,Democratic Party
+4,2019-05,210237,male,Democratic Party
+5,2019-06,195375,male,Democratic Party
+6,2019-07,143273,male,Democratic Party
+7,2019-08,159360,male,Democratic Party
+8,2019-09,169545,male,Democratic Party
+9,2019-10,205746,male,Democratic Party
+10,2019-11,188233,male,Democratic Party
+11,2019-12,187146,male,Democratic Party
+0,2019-01,158616,female,Democratic Party
+1,2019-02,131717,female,Democratic Party
+2,2019-03,125062,female,Democratic Party
+3,2019-04,98410,female,Democratic Party
+4,2019-05,133642,female,Democratic Party
+5,2019-06,117158,female,Democratic Party
+6,2019-07,99553,female,Democratic Party
+7,2019-08,86046,female,Democratic Party
+8,2019-09,106338,female,Democratic Party
+9,2019-10,123623,female,Democratic Party
+10,2019-11,88795,female,Democratic Party
+11,2019-12,104441,female,Democratic Party
+0,2019-01,31672,male,Conservative Party
+1,2019-02,20976,male,Conservative Party
+2,2019-03,70270,male,Conservative Party
+3,2019-04,50315,male,Conservative Party
+4,2019-05,108637,male,Conservative Party
+5,2019-06,172478,male,Conservative Party
+6,2019-07,87290,male,Conservative Party
+7,2019-08,61395,male,Conservative Party
+8,2019-09,127678,male,Conservative Party
+9,2019-10,107968,male,Conservative Party
+10,2019-11,105025,male,Conservative Party
+11,2019-12,95010,male,Conservative Party
+0,2019-01,20304,female,Conservative Party
+1,2019-02,12820,female,Conservative Party
+2,2019-03,47167,female,Conservative Party
+3,2019-04,24036,female,Conservative Party
+4,2019-05,59395,female,Conservative Party
+5,2019-06,45092,female,Conservative Party
+6,2019-07,17076,female,Conservative Party
+7,2019-08,7994,female,Conservative Party
+8,2019-09,17880,female,Conservative Party
+9,2019-10,21530,female,Conservative Party
+10,2019-11,13889,female,Conservative Party
+11,2019-12,6517,female,Conservative Party
+0,2019-01,20133,male,Labour Party
+1,2019-02,16162,male,Labour Party
+2,2019-03,38305,male,Labour Party
+3,2019-04,25199,male,Labour Party
+4,2019-05,60406,male,Labour Party
+5,2019-06,45115,male,Labour Party
+6,2019-07,23870,male,Labour Party
+7,2019-08,25459,male,Labour Party
+8,2019-09,52497,male,Labour Party
+9,2019-10,51553,male,Labour Party
+10,2019-11,66668,male,Labour Party
+11,2019-12,61966,male,Labour Party
+0,2019-01,6515,female,Labour Party
+1,2019-02,4877,female,Labour Party
+2,2019-03,11255,female,Labour Party
+3,2019-04,12933,female,Labour Party
+4,2019-05,15397,female,Labour Party
+5,2019-06,15708,female,Labour Party
+6,2019-07,5802,female,Labour Party
+7,2019-08,7552,female,Labour Party
+8,2019-09,14776,female,Labour Party
+9,2019-10,13004,female,Labour Party
+10,2019-11,19507,female,Labour Party
+11,2019-12,19857,female,Labour Party
+0,2019-01,1602,male,Liberal Democrats
+1,2019-02,1473,male,Liberal Democrats
+2,2019-03,4494,male,Liberal Democrats
+3,2019-04,787,male,Liberal Democrats
+4,2019-05,8156,male,Liberal Democrats
+5,2019-06,4716,male,Liberal Democrats
+6,2019-07,1125,male,Liberal Democrats
+7,2019-08,2680,male,Liberal Democrats
+8,2019-09,3577,male,Liberal Democrats
+9,2019-10,2030,male,Liberal Democrats
+10,2019-11,4665,male,Liberal Democrats
+11,2019-12,2389,male,Liberal Democrats
+0,2019-01,446,female,Liberal Democrats
+1,2019-02,339,female,Liberal Democrats
+2,2019-03,965,female,Liberal Democrats
+3,2019-04,752,female,Liberal Democrats
+4,2019-05,3771,female,Liberal Democrats
+5,2019-06,3313,female,Liberal Democrats
+6,2019-07,1517,female,Liberal Democrats
+7,2019-08,4282,female,Liberal Democrats
+8,2019-09,5992,female,Liberal Democrats
+9,2019-10,4610,female,Liberal Democrats
+10,2019-11,15557,female,Liberal Democrats
+11,2019-12,11211,female,Liberal Democrats
+0,2019-01,37292,male,Bharatiya Janata Party
+1,2019-02,42139,male,Bharatiya Janata Party
+2,2019-03,40936,male,Bharatiya Janata Party
+3,2019-04,34119,male,Bharatiya Janata Party
+4,2019-05,43689,male,Bharatiya Janata Party
+5,2019-06,30010,male,Bharatiya Janata Party
+6,2019-07,19868,male,Bharatiya Janata Party
+7,2019-08,31673,male,Bharatiya Janata Party
+8,2019-09,39342,male,Bharatiya Janata Party
+9,2019-10,31171,male,Bharatiya Janata Party
+10,2019-11,32671,male,Bharatiya Janata Party
+11,2019-12,28608,male,Bharatiya Janata Party
+0,2019-01,2505,female,Bharatiya Janata Party
+1,2019-02,2426,female,Bharatiya Janata Party
+2,2019-03,3271,female,Bharatiya Janata Party
+3,2019-04,3719,female,Bharatiya Janata Party
+4,2019-05,3900,female,Bharatiya Janata Party
+5,2019-06,1075,female,Bharatiya Janata Party
+6,2019-07,1013,female,Bharatiya Janata Party
+7,2019-08,1777,female,Bharatiya Janata Party
+8,2019-09,767,female,Bharatiya Janata Party
+9,2019-10,824,female,Bharatiya Janata Party
+10,2019-11,1073,female,Bharatiya Janata Party
+11,2019-12,1877,female,Bharatiya Janata Party
+0,2019-01,21672,male,Indian National Congress
+1,2019-02,17788,male,Indian National Congress
+2,2019-03,25127,male,Indian National Congress
+3,2019-04,19954,male,Indian National Congress
+4,2019-05,24274,male,Indian National Congress
+5,2019-06,12138,male,Indian National Congress
+6,2019-07,12857,male,Indian National Congress
+7,2019-08,18487,male,Indian National Congress
+8,2019-09,12992,male,Indian National Congress
+9,2019-10,14897,male,Indian National Congress
+10,2019-11,16799,male,Indian National Congress
+11,2019-12,14055,male,Indian National Congress
+0,2019-01,2775,female,Indian National Congress
+1,2019-02,5880,female,Indian National Congress
+2,2019-03,5601,female,Indian National Congress
+3,2019-04,5332,female,Indian National Congress
+4,2019-05,9500,female,Indian National Congress
+5,2019-06,4460,female,Indian National Congress
+6,2019-07,2598,female,Indian National Congress
+7,2019-08,3554,female,Indian National Congress
+8,2019-09,3360,female,Indian National Congress
+9,2019-10,2657,female,Indian National Congress
+10,2019-11,3980,female,Indian National Congress
+11,2019-12,6451,female,Indian National Congress
+0,2020-01,318616,male,Republican Party
+1,2020-02,216301,male,Republican Party
+2,2020-03,263375,male,Republican Party
+3,2020-04,94919,male,Republican Party
+0,2020-01,38422,female,Republican Party
+1,2020-02,33752,female,Republican Party
+2,2020-03,20115,female,Republican Party
+3,2020-04,8364,female,Republican Party
+0,2020-01,219710,male,Democratic Party
+1,2020-02,210514,male,Democratic Party
+2,2020-03,209134,male,Democratic Party
+3,2020-04,83146,male,Democratic Party
+0,2020-01,114068,female,Democratic Party
+1,2020-02,98483,female,Democratic Party
+2,2020-03,79955,female,Democratic Party
+3,2020-04,25307,female,Democratic Party
+0,2020-01,83545,male,Conservative Party
+1,2020-02,61277,male,Conservative Party
+2,2020-03,110691,male,Conservative Party
+3,2020-04,39556,male,Conservative Party
+0,2020-01,10474,female,Conservative Party
+1,2020-02,14731,female,Conservative Party
+2,2020-03,7211,female,Conservative Party
+3,2020-04,3475,female,Conservative Party
+0,2020-01,29731,male,Labour Party
+1,2020-02,19287,male,Labour Party
+2,2020-03,20372,male,Labour Party
+3,2020-04,9122,male,Labour Party
+0,2020-01,24513,female,Labour Party
+1,2020-02,19324,female,Labour Party
+2,2020-03,6276,female,Labour Party
+3,2020-04,2967,female,Labour Party
+0,2020-01,4344,male,Liberal Democrats
+1,2020-02,1319,male,Liberal Democrats
+2,2020-03,1027,male,Liberal Democrats
+3,2020-04,503,male,Liberal Democrats
+0,2020-01,1109,female,Liberal Democrats
+1,2020-02,453,female,Liberal Democrats
+2,2020-03,833,female,Liberal Democrats
+3,2020-04,130,female,Liberal Democrats
+0,2020-01,24945,male,Bharatiya Janata Party
+1,2020-02,19965,male,Bharatiya Janata Party
+2,2020-03,15848,male,Bharatiya Janata Party
+3,2020-04,5897,male,Bharatiya Janata Party
+0,2020-01,1203,female,Bharatiya Janata Party
+1,2020-02,737,female,Bharatiya Janata Party
+2,2020-03,564,female,Bharatiya Janata Party
+3,2020-04,146,female,Bharatiya Janata Party
+0,2020-01,11905,male,Indian National Congress
+1,2020-02,9589,male,Indian National Congress
+2,2020-03,7910,male,Indian National Congress
+3,2020-04,2241,male,Indian National Congress
+0,2020-01,3373,female,Indian National Congress
+1,2020-02,1920,female,Indian National Congress
+2,2020-03,1381,female,Indian National Congress
+3,2020-04,743,female,Indian National Congress
