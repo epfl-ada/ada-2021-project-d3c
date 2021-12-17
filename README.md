@@ -1,7 +1,12 @@
 # Women’s Underrepresentation in the news quotations.
+
+## data story
+
+Our data story can be found [here](https://chenxiaoyuxd.github.io/)
+
 ## File Description
 
-+ `data_analysis.ipynb`: Conducting some basic analyze of processed QuoteBank data.
++ `data_analysis-m3.ipynb`: The final analyze of processed QuoteBank data.
 + `data_preprocess.ipynb`: Preprocessing the original QuoteBank data.
 + `generate_mapper.ipynb`: Generate the mapper that map Qids in QuoteBank data into real values.
 + `keyword_analyze.ipynb`: Extract different topics according to predefined keywords, and detect the sentiments for further analysis.
@@ -14,7 +19,7 @@ Gender bias in the news media has received increasing attention, and the differe
 However, quotation–which is widespread in all types of news coverage–has not received enough attention. 
 Quotes are **simple**, **direct**, and **accurate** reflections of the speaker's point of view, and quoted information in the news allows us to explore gender bias in the news from a fresh angle.
 
-Thus, we then introduce a new set of questions: Do male speakers speak truly more “louder” than females? If it is true, is this caused by news coverage or just the gender itself?
+Thus, we then introduce a new set of questions: Do male speakers speak truly more **“louder”** than females? If it is true, is this caused by news coverage or just the gender itself?
 Furthermore, can we infer the portraits of each gender statistically from quotations?
 
 In short, our data story not only analyzes the preferences of various news media when quoting speakers from different genders, but also the influence of numerous parties and nationalities on gender bias.
