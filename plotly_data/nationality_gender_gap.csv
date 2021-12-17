@@ -1,0 +1,769 @@
+,date,numOccurrences,gender,nationality
+0,2015-01,1155652,male,United States of America
+1,2015-02,1058107,male,United States of America
+2,2015-03,1322687,male,United States of America
+3,2015-04,998067,male,United States of America
+4,2015-05,705691,male,United States of America
+5,2015-06,672701,male,United States of America
+6,2015-07,1368958,male,United States of America
+7,2015-08,2012391,male,United States of America
+8,2015-09,1870841,male,United States of America
+9,2015-10,1958242,male,United States of America
+10,2015-11,1400491,male,United States of America
+11,2015-12,1830506,male,United States of America
+0,2015-01,238548,female,United States of America
+1,2015-02,237353,female,United States of America
+2,2015-03,256633,female,United States of America
+3,2015-04,215063,female,United States of America
+4,2015-05,149431,female,United States of America
+5,2015-06,151273,female,United States of America
+6,2015-07,277846,female,United States of America
+7,2015-08,402245,female,United States of America
+8,2015-09,423804,female,United States of America
+9,2015-10,406257,female,United States of America
+10,2015-11,273976,female,United States of America
+11,2015-12,340608,female,United States of America
+0,2015-01,257468,male,United Kingdom
+1,2015-02,267635,male,United Kingdom
+2,2015-03,292895,male,United Kingdom
+3,2015-04,221496,male,United Kingdom
+4,2015-05,166405,male,United Kingdom
+5,2015-06,130650,male,United Kingdom
+6,2015-07,327458,male,United Kingdom
+7,2015-08,513651,male,United Kingdom
+8,2015-09,510646,male,United Kingdom
+9,2015-10,533379,male,United Kingdom
+10,2015-11,375420,male,United Kingdom
+11,2015-12,435435,male,United Kingdom
+0,2015-01,36876,female,United Kingdom
+1,2015-02,39114,female,United Kingdom
+2,2015-03,46753,female,United Kingdom
+3,2015-04,30635,female,United Kingdom
+4,2015-05,23540,female,United Kingdom
+5,2015-06,20705,female,United Kingdom
+6,2015-07,58033,female,United Kingdom
+7,2015-08,83243,female,United Kingdom
+8,2015-09,87149,female,United Kingdom
+9,2015-10,92861,female,United Kingdom
+10,2015-11,61916,female,United Kingdom
+11,2015-12,70461,female,United Kingdom
+0,2015-01,93818,male,Australia
+1,2015-02,111175,male,Australia
+2,2015-03,116438,male,Australia
+3,2015-04,80176,male,Australia
+4,2015-05,67948,male,Australia
+5,2015-06,57289,male,Australia
+6,2015-07,225985,male,Australia
+7,2015-08,398784,male,Australia
+8,2015-09,348712,male,Australia
+9,2015-10,324697,male,Australia
+10,2015-11,208055,male,Australia
+11,2015-12,236383,male,Australia
+0,2015-01,18804,female,Australia
+1,2015-02,23047,female,Australia
+2,2015-03,25839,female,Australia
+3,2015-04,15182,female,Australia
+4,2015-05,15263,female,Australia
+5,2015-06,10534,female,Australia
+6,2015-07,53805,female,Australia
+7,2015-08,89264,female,Australia
+8,2015-09,79854,female,Australia
+9,2015-10,81000,female,Australia
+10,2015-11,58315,female,Australia
+11,2015-12,58874,female,Australia
+0,2015-01,101297,male,Canada
+1,2015-02,102352,male,Canada
+2,2015-03,108875,male,Canada
+3,2015-04,102500,male,Canada
+4,2015-05,65635,male,Canada
+5,2015-06,52279,male,Canada
+6,2015-07,89761,male,Canada
+7,2015-08,146275,male,Canada
+8,2015-09,163047,male,Canada
+9,2015-10,195551,male,Canada
+10,2015-11,144075,male,Canada
+11,2015-12,161622,male,Canada
+0,2015-01,16993,female,Canada
+1,2015-02,17006,female,Canada
+2,2015-03,16572,female,Canada
+3,2015-04,13256,female,Canada
+4,2015-05,10873,female,Canada
+5,2015-06,9477,female,Canada
+6,2015-07,27875,female,Canada
+7,2015-08,30788,female,Canada
+8,2015-09,55573,female,Canada
+9,2015-10,33517,female,Canada
+10,2015-11,24944,female,Canada
+11,2015-12,31175,female,Canada
+0,2015-01,64386,male,India
+1,2015-02,76454,male,India
+2,2015-03,72845,male,India
+3,2015-04,61371,male,India
+4,2015-05,41384,male,India
+5,2015-06,35847,male,India
+6,2015-07,67826,male,India
+7,2015-08,97709,male,India
+8,2015-09,95368,male,India
+9,2015-10,102810,male,India
+10,2015-11,81175,male,India
+11,2015-12,100230,male,India
+0,2015-01,11159,female,India
+1,2015-02,10402,female,India
+2,2015-03,10963,female,India
+3,2015-04,8091,female,India
+4,2015-05,5232,female,India
+5,2015-06,4533,female,India
+6,2015-07,10197,female,India
+7,2015-08,18376,female,India
+8,2015-09,14953,female,India
+9,2015-10,14721,female,India
+10,2015-11,10726,female,India
+11,2015-12,16072,female,India
+0,2015-01,2461391,male,Total
+1,2015-02,2369517,male,Total
+2,2015-03,2768182,male,Total
+3,2015-04,2109868,male,Total
+4,2015-05,1512046,male,Total
+5,2015-06,1353895,male,Total
+6,2015-07,3010352,male,Total
+7,2015-08,4468006,male,Total
+8,2015-09,4480088,male,Total
+9,2015-10,4454552,male,Total
+10,2015-11,3274323,male,Total
+11,2015-12,3909785,male,Total
+0,2015-01,448895,female,Total
+1,2015-02,453936,female,Total
+2,2015-03,493848,female,Total
+3,2015-04,389817,female,Total
+4,2015-05,284222,female,Total
+5,2015-06,261428,female,Total
+6,2015-07,587529,female,Total
+7,2015-08,835714,female,Total
+8,2015-09,898144,female,Total
+9,2015-10,835962,female,Total
+10,2015-11,600298,female,Total
+11,2015-12,705028,female,Total
+0,2016-01,31702,male,United States of America
+1,2016-02,904996,male,United States of America
+2,2016-03,21744,male,United States of America
+3,2016-04,987698,male,United States of America
+4,2016-05,1981926,male,United States of America
+5,2016-06,59098,male,United States of America
+6,2016-07,2355466,male,United States of America
+7,2016-08,2148325,male,United States of America
+8,2016-09,2520182,male,United States of America
+9,2016-10,18584,male,United States of America
+10,2016-11,89329,male,United States of America
+11,2016-12,1949767,male,United States of America
+0,2016-01,10335,female,United States of America
+1,2016-02,180093,female,United States of America
+2,2016-03,3735,female,United States of America
+3,2016-04,199281,female,United States of America
+4,2016-05,421290,female,United States of America
+5,2016-06,13274,female,United States of America
+6,2016-07,603368,female,United States of America
+7,2016-08,542107,female,United States of America
+8,2016-09,556060,female,United States of America
+9,2016-10,4074,female,United States of America
+10,2016-11,20211,female,United States of America
+11,2016-12,363459,female,United States of America
+0,2016-01,7939,male,United Kingdom
+1,2016-02,195199,male,United Kingdom
+2,2016-03,1650,male,United Kingdom
+3,2016-04,208849,male,United Kingdom
+4,2016-05,526300,male,United Kingdom
+5,2016-06,10324,male,United Kingdom
+6,2016-07,531828,male,United Kingdom
+7,2016-08,486467,male,United Kingdom
+8,2016-09,543543,male,United Kingdom
+9,2016-10,2155,male,United Kingdom
+10,2016-11,11295,male,United Kingdom
+11,2016-12,464345,male,United Kingdom
+0,2016-01,975,female,United Kingdom
+1,2016-02,36421,female,United Kingdom
+2,2016-03,333,female,United Kingdom
+3,2016-04,35838,female,United Kingdom
+4,2016-05,85912,female,United Kingdom
+5,2016-06,2567,female,United Kingdom
+6,2016-07,112090,female,United Kingdom
+7,2016-08,91484,female,United Kingdom
+8,2016-09,99673,female,United Kingdom
+9,2016-10,384,female,United Kingdom
+10,2016-11,1517,female,United Kingdom
+11,2016-12,82760,female,United Kingdom
+0,2016-01,3262,male,Australia
+1,2016-02,108495,male,Australia
+2,2016-03,607,male,Australia
+3,2016-04,102704,male,Australia
+4,2016-05,272907,male,Australia
+5,2016-06,3263,male,Australia
+6,2016-07,248743,male,Australia
+7,2016-08,273659,male,Australia
+8,2016-09,316261,male,Australia
+9,2016-10,361,male,Australia
+10,2016-11,4082,male,Australia
+11,2016-12,251324,male,Australia
+0,2016-01,1239,female,Australia
+1,2016-02,29992,female,Australia
+2,2016-03,105,female,Australia
+3,2016-04,21916,female,Australia
+4,2016-05,68803,female,Australia
+5,2016-06,733,female,Australia
+6,2016-07,73311,female,Australia
+7,2016-08,68800,female,Australia
+8,2016-09,84617,female,Australia
+9,2016-10,183,female,Australia
+10,2016-11,913,female,Australia
+11,2016-12,57298,female,Australia
+0,2016-01,2990,male,Canada
+1,2016-02,77911,male,Canada
+2,2016-03,949,male,Canada
+3,2016-04,98335,male,Canada
+4,2016-05,216572,male,Canada
+5,2016-06,4007,male,Canada
+6,2016-07,144459,male,Canada
+7,2016-08,149386,male,Canada
+8,2016-09,191602,male,Canada
+9,2016-10,823,male,Canada
+10,2016-11,5370,male,Canada
+11,2016-12,178323,male,Canada
+0,2016-01,702,female,Canada
+1,2016-02,15182,female,Canada
+2,2016-03,239,female,Canada
+3,2016-04,17064,female,Canada
+4,2016-05,49248,female,Canada
+5,2016-06,1091,female,Canada
+6,2016-07,33466,female,Canada
+7,2016-08,37068,female,Canada
+8,2016-09,36612,female,Canada
+9,2016-10,210,female,Canada
+10,2016-11,1000,female,Canada
+11,2016-12,31934,female,Canada
+0,2016-01,2110,male,India
+1,2016-02,40956,male,India
+2,2016-03,238,male,India
+3,2016-04,45094,male,India
+4,2016-05,110117,male,India
+5,2016-06,1349,male,India
+6,2016-07,102706,male,India
+7,2016-08,104262,male,India
+8,2016-09,106236,male,India
+9,2016-10,265,male,India
+10,2016-11,972,male,India
+11,2016-12,105133,male,India
+0,2016-01,222,female,India
+1,2016-02,5743,female,India
+2,2016-03,62,female,India
+3,2016-04,8189,female,India
+4,2016-05,18720,female,India
+5,2016-06,249,female,India
+6,2016-07,22180,female,India
+7,2016-08,24870,female,India
+8,2016-09,19945,female,India
+9,2016-10,104,female,India
+10,2016-11,179,female,India
+11,2016-12,16094,female,India
+0,2016-01,71068,male,Total
+1,2016-02,1880080,male,Total
+2,2016-03,30218,male,Total
+3,2016-04,2009658,male,Total
+4,2016-05,4408556,male,Total
+5,2016-06,102649,male,Total
+6,2016-07,4783159,male,Total
+7,2016-08,4517565,male,Total
+8,2016-09,5131142,male,Total
+9,2016-10,27603,male,Total
+10,2016-11,140867,male,Total
+11,2016-12,4216090,male,Total
+0,2016-01,16223,female,Total
+1,2016-02,357667,female,Total
+2,2016-03,6105,female,Total
+3,2016-04,369860,female,Total
+4,2016-05,865228,female,Total
+5,2016-06,22547,female,Total
+6,2016-07,1089017,female,Total
+7,2016-08,1015078,female,Total
+8,2016-09,1053705,female,Total
+9,2016-10,6476,female,Total
+10,2016-11,29314,female,Total
+11,2016-12,755431,female,Total
+0,2017-01,94510,male,United States of America
+1,2017-02,769587,male,United States of America
+2,2017-03,3023460,male,United States of America
+3,2017-04,2998242,male,United States of America
+4,2017-05,3063569,male,United States of America
+5,2017-06,5838743,male,United States of America
+6,2017-07,2926161,male,United States of America
+7,2017-08,3862931,male,United States of America
+8,2017-09,3553106,male,United States of America
+9,2017-10,3490179,male,United States of America
+10,2017-11,2888607,male,United States of America
+11,2017-12,2641485,male,United States of America
+0,2017-01,13641,female,United States of America
+1,2017-02,157930,female,United States of America
+2,2017-03,471897,female,United States of America
+3,2017-04,517276,female,United States of America
+4,2017-05,515324,female,United States of America
+5,2017-06,3712760,female,United States of America
+6,2017-07,495009,female,United States of America
+7,2017-08,662192,female,United States of America
+8,2017-09,713610,female,United States of America
+9,2017-10,662414,female,United States of America
+10,2017-11,582055,female,United States of America
+11,2017-12,494762,female,United States of America
+0,2017-01,9106,male,United Kingdom
+1,2017-02,152667,male,United Kingdom
+2,2017-03,588675,male,United Kingdom
+3,2017-04,783111,male,United Kingdom
+4,2017-05,623770,male,United Kingdom
+5,2017-06,727963,male,United Kingdom
+6,2017-07,661893,male,United Kingdom
+7,2017-08,670426,male,United Kingdom
+8,2017-09,678249,male,United Kingdom
+9,2017-10,717622,male,United Kingdom
+10,2017-11,670983,male,United Kingdom
+11,2017-12,577337,male,United Kingdom
+0,2017-01,2838,female,United Kingdom
+1,2017-02,29981,female,United Kingdom
+2,2017-03,157191,female,United Kingdom
+3,2017-04,121903,female,United Kingdom
+4,2017-05,177922,female,United Kingdom
+5,2017-06,218002,female,United Kingdom
+6,2017-07,147331,female,United Kingdom
+7,2017-08,139192,female,United Kingdom
+8,2017-09,150333,female,United Kingdom
+9,2017-10,170562,female,United Kingdom
+10,2017-11,146547,female,United Kingdom
+11,2017-12,128787,female,United Kingdom
+0,2017-01,4205,male,Australia
+1,2017-02,97467,male,Australia
+2,2017-03,242682,male,Australia
+3,2017-04,263212,male,Australia
+4,2017-05,248754,male,Australia
+5,2017-06,296732,male,Australia
+6,2017-07,275991,male,Australia
+7,2017-08,349621,male,Australia
+8,2017-09,289663,male,Australia
+9,2017-10,295238,male,Australia
+10,2017-11,298624,male,Australia
+11,2017-12,242719,male,Australia
+0,2017-01,703,female,Australia
+1,2017-02,29066,female,Australia
+2,2017-03,65351,female,Australia
+3,2017-04,60556,female,Australia
+4,2017-05,64017,female,Australia
+5,2017-06,77430,female,Australia
+6,2017-07,76866,female,Australia
+7,2017-08,98611,female,Australia
+8,2017-09,82684,female,Australia
+9,2017-10,91746,female,Australia
+10,2017-11,59865,female,Australia
+11,2017-12,53902,female,Australia
+0,2017-01,6124,male,Canada
+1,2017-02,57477,male,Canada
+2,2017-03,192947,male,Canada
+3,2017-04,229985,male,Canada
+4,2017-05,194710,male,Canada
+5,2017-06,178333,male,Canada
+6,2017-07,159786,male,Canada
+7,2017-08,189077,male,Canada
+8,2017-09,209199,male,Canada
+9,2017-10,235911,male,Canada
+10,2017-11,201981,male,Canada
+11,2017-12,182913,male,Canada
+0,2017-01,4192,female,Canada
+1,2017-02,11330,female,Canada
+2,2017-03,39940,female,Canada
+3,2017-04,46599,female,Canada
+4,2017-05,38516,female,Canada
+5,2017-06,45608,female,Canada
+6,2017-07,34671,female,Canada
+7,2017-08,46311,female,Canada
+8,2017-09,38465,female,Canada
+9,2017-10,46867,female,Canada
+10,2017-11,42303,female,Canada
+11,2017-12,34007,female,Canada
+0,2017-01,1000,male,India
+1,2017-02,32961,male,India
+2,2017-03,105974,male,India
+3,2017-04,142483,male,India
+4,2017-05,138135,male,India
+5,2017-06,145755,male,India
+6,2017-07,157423,male,India
+7,2017-08,164927,male,India
+8,2017-09,142291,male,India
+9,2017-10,139840,male,India
+10,2017-11,142352,male,India
+11,2017-12,146559,male,India
+0,2017-01,1436,female,India
+1,2017-02,5789,female,India
+2,2017-03,21372,female,India
+3,2017-04,26609,female,India
+4,2017-05,23475,female,India
+5,2017-06,22125,female,India
+6,2017-07,34735,female,India
+7,2017-08,28194,female,India
+8,2017-09,24387,female,India
+9,2017-10,27505,female,India
+10,2017-11,22633,female,India
+11,2017-12,22692,female,India
+0,2017-01,139229,male,Total
+1,2017-02,1537522,male,Total
+2,2017-03,5888286,male,Total
+3,2017-04,6385098,male,Total
+4,2017-05,5978519,male,Total
+5,2017-06,8826330,male,Total
+6,2017-07,5902504,male,Total
+7,2017-08,7284152,male,Total
+8,2017-09,6986938,male,Total
+9,2017-10,6854434,male,Total
+10,2017-11,5954018,male,Total
+11,2017-12,5305806,male,Total
+0,2017-01,26483,female,Total
+1,2017-02,313456,female,Total
+2,2017-03,1087610,female,Total
+3,2017-04,1060265,female,Total
+4,2017-05,1123764,female,Total
+5,2017-06,4365469,female,Total
+6,2017-07,1101882,female,Total
+7,2017-08,1352639,female,Total
+8,2017-09,1407241,female,Total
+9,2017-10,1412234,female,Total
+10,2017-11,1178892,female,Total
+11,2017-12,1005159,female,Total
+0,2018-01,2724680,male,United States of America
+1,2018-02,2523096,male,United States of America
+2,2018-03,2924209,male,United States of America
+3,2018-04,2831562,male,United States of America
+4,2018-05,2350125,male,United States of America
+5,2018-06,1962341,male,United States of America
+6,2018-07,1724452,male,United States of America
+7,2018-08,1576641,male,United States of America
+8,2018-09,2017626,male,United States of America
+9,2018-10,2109718,male,United States of America
+10,2018-11,1742885,male,United States of America
+11,2018-12,1460937,male,United States of America
+0,2018-01,713779,female,United States of America
+1,2018-02,651966,female,United States of America
+2,2018-03,701441,female,United States of America
+3,2018-04,623223,female,United States of America
+4,2018-05,519386,female,United States of America
+5,2018-06,410939,female,United States of America
+6,2018-07,325399,female,United States of America
+7,2018-08,376360,female,United States of America
+8,2018-09,467505,female,United States of America
+9,2018-10,474306,female,United States of America
+10,2018-11,399205,female,United States of America
+11,2018-12,303315,female,United States of America
+0,2018-01,648348,male,United Kingdom
+1,2018-02,669204,male,United Kingdom
+2,2018-03,862318,male,United Kingdom
+3,2018-04,658123,male,United Kingdom
+4,2018-05,668089,male,United Kingdom
+5,2018-06,641644,male,United Kingdom
+6,2018-07,630697,male,United Kingdom
+7,2018-08,514692,male,United Kingdom
+8,2018-09,660256,male,United Kingdom
+9,2018-10,627397,male,United Kingdom
+10,2018-11,621977,male,United Kingdom
+11,2018-12,497312,male,United Kingdom
+0,2018-01,162546,female,United Kingdom
+1,2018-02,191161,female,United Kingdom
+2,2018-03,225885,female,United Kingdom
+3,2018-04,175991,female,United Kingdom
+4,2018-05,134307,female,United Kingdom
+5,2018-06,132840,female,United Kingdom
+6,2018-07,134564,female,United Kingdom
+7,2018-08,94945,female,United Kingdom
+8,2018-09,159916,female,United Kingdom
+9,2018-10,165743,female,United Kingdom
+10,2018-11,165526,female,United Kingdom
+11,2018-12,133637,female,United Kingdom
+0,2018-01,202421,male,Australia
+1,2018-02,267876,male,Australia
+2,2018-03,276588,male,Australia
+3,2018-04,239217,male,Australia
+4,2018-05,226905,male,Australia
+5,2018-06,238191,male,Australia
+6,2018-07,205694,male,Australia
+7,2018-08,223626,male,Australia
+8,2018-09,250618,male,Australia
+9,2018-10,268659,male,Australia
+10,2018-11,244497,male,Australia
+11,2018-12,147060,male,Australia
+0,2018-01,58023,female,Australia
+1,2018-02,61010,female,Australia
+2,2018-03,63735,female,Australia
+3,2018-04,54951,female,Australia
+4,2018-05,60561,female,Australia
+5,2018-06,53341,female,Australia
+6,2018-07,52850,female,Australia
+7,2018-08,54543,female,Australia
+8,2018-09,66778,female,Australia
+9,2018-10,77371,female,Australia
+10,2018-11,56959,female,Australia
+11,2018-12,30920,female,Australia
+0,2018-01,189452,male,Canada
+1,2018-02,221025,male,Canada
+2,2018-03,240318,male,Canada
+3,2018-04,238400,male,Canada
+4,2018-05,212105,male,Canada
+5,2018-06,167671,male,Canada
+6,2018-07,136645,male,Canada
+7,2018-08,126338,male,Canada
+8,2018-09,175332,male,Canada
+9,2018-10,208394,male,Canada
+10,2018-11,197966,male,Canada
+11,2018-12,143489,male,Canada
+0,2018-01,50610,female,Canada
+1,2018-02,75200,female,Canada
+2,2018-03,54104,female,Canada
+3,2018-04,62466,female,Canada
+4,2018-05,54300,female,Canada
+5,2018-06,44750,female,Canada
+6,2018-07,35886,female,Canada
+7,2018-08,36117,female,Canada
+8,2018-09,49097,female,Canada
+9,2018-10,38706,female,Canada
+10,2018-11,41396,female,Canada
+11,2018-12,32541,female,Canada
+0,2018-01,141500,male,India
+1,2018-02,143191,male,India
+2,2018-03,143935,male,India
+3,2018-04,133323,male,India
+4,2018-05,130177,male,India
+5,2018-06,112716,male,India
+6,2018-07,126032,male,India
+7,2018-08,129289,male,India
+8,2018-09,131456,male,India
+9,2018-10,123221,male,India
+10,2018-11,131396,male,India
+11,2018-12,139966,male,India
+0,2018-01,24486,female,India
+1,2018-02,25301,female,India
+2,2018-03,26067,female,India
+3,2018-04,26778,female,India
+4,2018-05,22898,female,India
+5,2018-06,18336,female,India
+6,2018-07,22850,female,India
+7,2018-08,25269,female,India
+8,2018-09,24479,female,India
+9,2018-10,25954,female,India
+10,2018-11,24922,female,India
+11,2018-12,21969,female,India
+0,2018-01,5551357,male,Total
+1,2018-02,5523648,male,Total
+2,2018-03,6424608,male,Total
+3,2018-04,5907517,male,Total
+4,2018-05,5358123,male,Total
+5,2018-06,4588760,male,Total
+6,2018-07,4122049,male,Total
+7,2018-08,3782595,male,Total
+8,2018-09,4632313,male,Total
+9,2018-10,4780019,male,Total
+10,2018-11,4281394,male,Total
+11,2018-12,3515214,male,Total
+0,2018-01,1355360,female,Total
+1,2018-02,1344221,female,Total
+2,2018-03,1451660,female,Total
+3,2018-04,1277532,female,Total
+4,2018-05,1094233,female,Total
+5,2018-06,936869,female,Total
+6,2018-07,813943,female,Total
+7,2018-08,804974,female,Total
+8,2018-09,1022320,female,Total
+9,2018-10,1078827,female,Total
+10,2018-11,929243,female,Total
+11,2018-12,729430,female,Total
+0,2019-01,1450694,male,United States of America
+1,2019-02,1313268,male,United States of America
+2,2019-03,1362549,male,United States of America
+3,2019-04,1089926,male,United States of America
+4,2019-05,1450014,male,United States of America
+5,2019-06,1371924,male,United States of America
+6,2019-07,968800,male,United States of America
+7,2019-08,1215765,male,United States of America
+8,2019-09,1280339,male,United States of America
+9,2019-10,1526717,male,United States of America
+10,2019-11,1258719,male,United States of America
+11,2019-12,1218017,male,United States of America
+0,2019-01,408332,female,United States of America
+1,2019-02,357161,female,United States of America
+2,2019-03,367954,female,United States of America
+3,2019-04,292773,female,United States of America
+4,2019-05,374176,female,United States of America
+5,2019-06,338827,female,United States of America
+6,2019-07,275012,female,United States of America
+7,2019-08,288994,female,United States of America
+8,2019-09,306426,female,United States of America
+9,2019-10,349473,female,United States of America
+10,2019-11,301184,female,United States of America
+11,2019-12,263114,female,United States of America
+0,2019-01,345423,male,United Kingdom
+1,2019-02,295006,male,United Kingdom
+2,2019-03,504205,male,United Kingdom
+3,2019-04,361034,male,United Kingdom
+4,2019-05,676561,male,United Kingdom
+5,2019-06,627037,male,United Kingdom
+6,2019-07,371861,male,United Kingdom
+7,2019-08,392388,male,United Kingdom
+8,2019-09,554467,male,United Kingdom
+9,2019-10,628207,male,United Kingdom
+10,2019-11,591705,male,United Kingdom
+11,2019-12,502265,male,United Kingdom
+0,2019-01,86323,female,United Kingdom
+1,2019-02,72867,female,United Kingdom
+2,2019-03,146105,female,United Kingdom
+3,2019-04,104250,female,United Kingdom
+4,2019-05,202431,female,United Kingdom
+5,2019-06,176162,female,United Kingdom
+6,2019-07,87596,female,United Kingdom
+7,2019-08,79766,female,United Kingdom
+8,2019-09,128860,female,United Kingdom
+9,2019-10,139941,female,United Kingdom
+10,2019-11,144351,female,United Kingdom
+11,2019-12,122556,female,United Kingdom
+0,2019-01,153183,male,Australia
+1,2019-02,136106,male,Australia
+2,2019-03,164263,male,Australia
+3,2019-04,132639,male,Australia
+4,2019-05,188232,male,Australia
+5,2019-06,156350,male,Australia
+6,2019-07,115199,male,Australia
+7,2019-08,154837,male,Australia
+8,2019-09,160707,male,Australia
+9,2019-10,164607,male,Australia
+10,2019-11,146244,male,Australia
+11,2019-12,116263,male,Australia
+0,2019-01,36966,female,Australia
+1,2019-02,36955,female,Australia
+2,2019-03,36781,female,Australia
+3,2019-04,29338,female,Australia
+4,2019-05,43810,female,Australia
+5,2019-06,52181,female,Australia
+6,2019-07,36352,female,Australia
+7,2019-08,36732,female,Australia
+8,2019-09,36570,female,Australia
+9,2019-10,43066,female,Australia
+10,2019-11,38604,female,Australia
+11,2019-12,34389,female,Australia
+0,2019-01,135055,male,Canada
+1,2019-02,134079,male,Canada
+2,2019-03,170099,male,Canada
+3,2019-04,125900,male,Canada
+4,2019-05,171753,male,Canada
+5,2019-06,145795,male,Canada
+6,2019-07,81718,male,Canada
+7,2019-08,98960,male,Canada
+8,2019-09,146245,male,Canada
+9,2019-10,154264,male,Canada
+10,2019-11,131747,male,Canada
+11,2019-12,131804,male,Canada
+0,2019-01,29941,female,Canada
+1,2019-02,31906,female,Canada
+2,2019-03,45528,female,Canada
+3,2019-04,34422,female,Canada
+4,2019-05,39574,female,Canada
+5,2019-06,40519,female,Canada
+6,2019-07,20524,female,Canada
+7,2019-08,26922,female,Canada
+8,2019-09,36604,female,Canada
+9,2019-10,32827,female,Canada
+10,2019-11,26978,female,Canada
+11,2019-12,19901,female,Canada
+0,2019-01,138176,male,India
+1,2019-02,131776,male,India
+2,2019-03,146803,male,India
+3,2019-04,114313,male,India
+4,2019-05,157474,male,India
+5,2019-06,116893,male,India
+6,2019-07,83363,male,India
+7,2019-08,124504,male,India
+8,2019-09,126784,male,India
+9,2019-10,119489,male,India
+10,2019-11,133254,male,India
+11,2019-12,107103,male,India
+0,2019-01,22906,female,India
+1,2019-02,25907,female,India
+2,2019-03,26997,female,India
+3,2019-04,23684,female,India
+4,2019-05,33950,female,India
+5,2019-06,21904,female,India
+6,2019-07,15935,female,India
+7,2019-08,23185,female,India
+8,2019-09,21618,female,India
+9,2019-10,21527,female,India
+10,2019-11,19523,female,India
+11,2019-12,23344,female,India
+0,2019-01,3276855,male,Total
+1,2019-02,2939100,male,Total
+2,2019-03,3479534,male,Total
+3,2019-04,2725022,male,Total
+4,2019-05,3890610,male,Total
+5,2019-06,3508732,male,Total
+6,2019-07,2340400,male,Total
+7,2019-08,2911321,male,Total
+8,2019-09,3317203,male,Total
+9,2019-10,3747982,male,Total
+10,2019-11,3341116,male,Total
+11,2019-12,2948567,male,Total
+0,2019-01,784495,female,Total
+1,2019-02,703932,female,Total
+2,2019-03,861432,female,Total
+3,2019-04,646363,female,Total
+4,2019-05,950482,female,Total
+5,2019-06,854204,female,Total
+6,2019-07,587868,female,Total
+7,2019-08,645368,female,Total
+8,2019-09,742928,female,Total
+9,2019-10,804692,female,Total
+10,2019-11,750389,female,Total
+11,2019-12,659780,female,Total
+0,2020-01,1249058,male,United States of America
+1,2020-02,1029249,male,United States of America
+2,2020-03,966244,male,United States of America
+3,2020-04,390143,male,United States of America
+0,2020-01,347290,female,United States of America
+1,2020-02,277139,female,United States of America
+2,2020-03,209890,female,United States of America
+3,2020-04,81449,female,United States of America
+0,2020-01,479232,male,United Kingdom
+1,2020-02,413390,male,United Kingdom
+2,2020-03,359185,male,United Kingdom
+3,2020-04,150837,male,United Kingdom
+0,2020-01,109253,female,United Kingdom
+1,2020-02,102088,female,United Kingdom
+2,2020-03,79926,female,United Kingdom
+3,2020-04,32699,female,United Kingdom
+0,2020-01,128133,male,Australia
+1,2020-02,139449,male,Australia
+2,2020-03,149895,male,Australia
+3,2020-04,74147,male,Australia
+0,2020-01,47305,female,Australia
+1,2020-02,42928,female,Australia
+2,2020-03,53119,female,Australia
+3,2020-04,20351,female,Australia
+0,2020-01,139606,male,Canada
+1,2020-02,117310,male,Canada
+2,2020-03,110129,male,Canada
+3,2020-04,38960,male,Canada
+0,2020-01,25898,female,Canada
+1,2020-02,25018,female,Canada
+2,2020-03,21854,female,Canada
+3,2020-04,7464,female,Canada
+0,2020-01,106804,male,India
+1,2020-02,82055,male,India
+2,2020-03,61366,male,India
+3,2020-04,25381,male,India
+0,2020-01,19006,female,India
+1,2020-02,14201,female,India
+2,2020-03,12151,female,India
+3,2020-04,5537,female,India
+0,2020-01,3104236,male,Total
+1,2020-02,2652252,male,Total
+2,2020-03,2326210,male,Total
+3,2020-04,933406,male,Total
+0,2020-01,743903,female,Total
+1,2020-02,639708,female,Total
+2,2020-03,518238,female,Total
+3,2020-04,199952,female,Total

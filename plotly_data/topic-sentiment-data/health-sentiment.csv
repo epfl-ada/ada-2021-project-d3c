@@ -1,0 +1,2204 @@
+,date,numOccurrences,gender,sentiment,topic
+0,2015-01,3549,male,negative,health insurance
+1,2015-02,3994,male,negative,health insurance
+2,2015-03,4125,male,negative,health insurance
+3,2015-04,2960,male,negative,health insurance
+4,2015-05,1678,male,negative,health insurance
+5,2015-06,2843,male,negative,health insurance
+6,2015-07,4617,male,negative,health insurance
+7,2015-08,8967,male,negative,health insurance
+8,2015-09,8566,male,negative,health insurance
+9,2015-10,7348,male,negative,health insurance
+10,2015-11,5393,male,negative,health insurance
+11,2015-12,5447,male,negative,health insurance
+0,2015-01,1693,female,negative,health insurance
+1,2015-02,1027,female,negative,health insurance
+2,2015-03,1350,female,negative,health insurance
+3,2015-04,970,female,negative,health insurance
+4,2015-05,866,female,negative,health insurance
+5,2015-06,1170,female,negative,health insurance
+6,2015-07,1308,female,negative,health insurance
+7,2015-08,3102,female,negative,health insurance
+8,2015-09,2593,female,negative,health insurance
+9,2015-10,2771,female,negative,health insurance
+10,2015-11,2053,female,negative,health insurance
+11,2015-12,2038,female,negative,health insurance
+0,2015-01,4928,male,neutral,health insurance
+1,2015-02,4668,male,neutral,health insurance
+2,2015-03,5905,male,neutral,health insurance
+3,2015-04,3673,male,neutral,health insurance
+4,2015-05,2474,male,neutral,health insurance
+5,2015-06,3957,male,neutral,health insurance
+6,2015-07,6343,male,neutral,health insurance
+7,2015-08,8200,male,neutral,health insurance
+8,2015-09,8180,male,neutral,health insurance
+9,2015-10,8688,male,neutral,health insurance
+10,2015-11,6039,male,neutral,health insurance
+11,2015-12,6509,male,neutral,health insurance
+0,2015-01,948,female,neutral,health insurance
+1,2015-02,1148,female,neutral,health insurance
+2,2015-03,1960,female,neutral,health insurance
+3,2015-04,1197,female,neutral,health insurance
+4,2015-05,822,female,neutral,health insurance
+5,2015-06,759,female,neutral,health insurance
+6,2015-07,1263,female,neutral,health insurance
+7,2015-08,3079,female,neutral,health insurance
+8,2015-09,3005,female,neutral,health insurance
+9,2015-10,2842,female,neutral,health insurance
+10,2015-11,2270,female,neutral,health insurance
+11,2015-12,2066,female,neutral,health insurance
+0,2015-01,4123,male,positive,health insurance
+1,2015-02,4153,male,positive,health insurance
+2,2015-03,4877,male,positive,health insurance
+3,2015-04,3381,male,positive,health insurance
+4,2015-05,1910,male,positive,health insurance
+5,2015-06,2054,male,positive,health insurance
+6,2015-07,4341,male,positive,health insurance
+7,2015-08,5430,male,positive,health insurance
+8,2015-09,7229,male,positive,health insurance
+9,2015-10,6441,male,positive,health insurance
+10,2015-11,4579,male,positive,health insurance
+11,2015-12,6166,male,positive,health insurance
+0,2015-01,1221,female,positive,health insurance
+1,2015-02,1128,female,positive,health insurance
+2,2015-03,1084,female,positive,health insurance
+3,2015-04,957,female,positive,health insurance
+4,2015-05,545,female,positive,health insurance
+5,2015-06,815,female,positive,health insurance
+6,2015-07,1499,female,positive,health insurance
+7,2015-08,2101,female,positive,health insurance
+8,2015-09,2053,female,positive,health insurance
+9,2015-10,2055,female,positive,health insurance
+10,2015-11,1777,female,positive,health insurance
+11,2015-12,1570,female,positive,health insurance
+0,2015-01,1801,male,negative,disease
+1,2015-02,1849,male,negative,disease
+2,2015-03,1460,male,negative,disease
+3,2015-04,1197,male,negative,disease
+4,2015-05,601,male,negative,disease
+5,2015-06,526,male,negative,disease
+6,2015-07,1901,male,negative,disease
+7,2015-08,2474,male,negative,disease
+8,2015-09,2860,male,negative,disease
+9,2015-10,1782,male,negative,disease
+10,2015-11,2451,male,negative,disease
+11,2015-12,2298,male,negative,disease
+0,2015-01,540,female,negative,disease
+1,2015-02,573,female,negative,disease
+2,2015-03,630,female,negative,disease
+3,2015-04,404,female,negative,disease
+4,2015-05,272,female,negative,disease
+5,2015-06,176,female,negative,disease
+6,2015-07,584,female,negative,disease
+7,2015-08,905,female,negative,disease
+8,2015-09,610,female,negative,disease
+9,2015-10,591,female,negative,disease
+10,2015-11,494,female,negative,disease
+11,2015-12,736,female,negative,disease
+0,2015-01,1052,male,neutral,disease
+1,2015-02,1290,male,neutral,disease
+2,2015-03,1426,male,neutral,disease
+3,2015-04,821,male,neutral,disease
+4,2015-05,529,male,neutral,disease
+5,2015-06,572,male,neutral,disease
+6,2015-07,1249,male,neutral,disease
+7,2015-08,1326,male,neutral,disease
+8,2015-09,1239,male,neutral,disease
+9,2015-10,1560,male,neutral,disease
+10,2015-11,1033,male,neutral,disease
+11,2015-12,1014,male,neutral,disease
+0,2015-01,261,female,neutral,disease
+1,2015-02,455,female,neutral,disease
+2,2015-03,374,female,neutral,disease
+3,2015-04,157,female,neutral,disease
+4,2015-05,137,female,neutral,disease
+5,2015-06,148,female,neutral,disease
+6,2015-07,224,female,neutral,disease
+7,2015-08,844,female,neutral,disease
+8,2015-09,637,female,neutral,disease
+9,2015-10,324,female,neutral,disease
+10,2015-11,327,female,neutral,disease
+11,2015-12,713,female,neutral,disease
+0,2015-01,875,male,positive,disease
+1,2015-02,668,male,positive,disease
+2,2015-03,1053,male,positive,disease
+3,2015-04,505,male,positive,disease
+4,2015-05,260,male,positive,disease
+5,2015-06,376,male,positive,disease
+6,2015-07,740,male,positive,disease
+7,2015-08,892,male,positive,disease
+8,2015-09,1199,male,positive,disease
+9,2015-10,981,male,positive,disease
+10,2015-11,919,male,positive,disease
+11,2015-12,1170,male,positive,disease
+0,2015-01,206,female,positive,disease
+1,2015-02,367,female,positive,disease
+2,2015-03,148,female,positive,disease
+3,2015-04,95,female,positive,disease
+4,2015-05,85,female,positive,disease
+5,2015-06,156,female,positive,disease
+6,2015-07,180,female,positive,disease
+7,2015-08,244,female,positive,disease
+8,2015-09,250,female,positive,disease
+9,2015-10,261,female,positive,disease
+10,2015-11,262,female,positive,disease
+11,2015-12,276,female,positive,disease
+0,2015-01,512,male,negative,medicine
+1,2015-02,260,male,negative,medicine
+2,2015-03,437,male,negative,medicine
+3,2015-04,491,male,negative,medicine
+4,2015-05,177,male,negative,medicine
+5,2015-06,135,male,negative,medicine
+6,2015-07,751,male,negative,medicine
+7,2015-08,469,male,negative,medicine
+8,2015-09,719,male,negative,medicine
+9,2015-10,454,male,negative,medicine
+10,2015-11,377,male,negative,medicine
+11,2015-12,453,male,negative,medicine
+0,2015-01,63,female,negative,medicine
+1,2015-02,65,female,negative,medicine
+2,2015-03,121,female,negative,medicine
+3,2015-04,108,female,negative,medicine
+4,2015-05,9,female,negative,medicine
+5,2015-06,37,female,negative,medicine
+6,2015-07,48,female,negative,medicine
+7,2015-08,366,female,negative,medicine
+8,2015-09,410,female,negative,medicine
+9,2015-10,128,female,negative,medicine
+10,2015-11,109,female,negative,medicine
+11,2015-12,87,female,negative,medicine
+0,2015-01,512,male,neutral,medicine
+1,2015-02,426,male,neutral,medicine
+2,2015-03,431,male,neutral,medicine
+3,2015-04,365,male,neutral,medicine
+4,2015-05,253,male,neutral,medicine
+5,2015-06,259,male,neutral,medicine
+6,2015-07,492,male,neutral,medicine
+7,2015-08,1127,male,neutral,medicine
+8,2015-09,793,male,neutral,medicine
+9,2015-10,1070,male,neutral,medicine
+10,2015-11,583,male,neutral,medicine
+11,2015-12,809,male,neutral,medicine
+0,2015-01,102,female,neutral,medicine
+1,2015-02,121,female,neutral,medicine
+2,2015-03,296,female,neutral,medicine
+3,2015-04,77,female,neutral,medicine
+4,2015-05,88,female,neutral,medicine
+5,2015-06,50,female,neutral,medicine
+6,2015-07,76,female,neutral,medicine
+7,2015-08,361,female,neutral,medicine
+8,2015-09,129,female,neutral,medicine
+9,2015-10,165,female,neutral,medicine
+10,2015-11,81,female,neutral,medicine
+11,2015-12,176,female,neutral,medicine
+0,2015-01,892,male,positive,medicine
+1,2015-02,360,male,positive,medicine
+2,2015-03,479,male,positive,medicine
+3,2015-04,442,male,positive,medicine
+4,2015-05,249,male,positive,medicine
+5,2015-06,152,male,positive,medicine
+6,2015-07,653,male,positive,medicine
+7,2015-08,502,male,positive,medicine
+8,2015-09,641,male,positive,medicine
+9,2015-10,808,male,positive,medicine
+10,2015-11,783,male,positive,medicine
+11,2015-12,646,male,positive,medicine
+0,2015-01,76,female,positive,medicine
+1,2015-02,139,female,positive,medicine
+2,2015-03,108,female,positive,medicine
+3,2015-04,230,female,positive,medicine
+4,2015-05,50,female,positive,medicine
+5,2015-06,32,female,positive,medicine
+6,2015-07,42,female,positive,medicine
+7,2015-08,129,female,positive,medicine
+8,2015-09,120,female,positive,medicine
+9,2015-10,379,female,positive,medicine
+10,2015-11,141,female,positive,medicine
+11,2015-12,68,female,positive,medicine
+0,2015-01,1289,male,negative,hospital
+1,2015-02,1557,male,negative,hospital
+2,2015-03,1220,male,negative,hospital
+3,2015-04,933,male,negative,hospital
+4,2015-05,802,male,negative,hospital
+5,2015-06,567,male,negative,hospital
+6,2015-07,1675,male,negative,hospital
+7,2015-08,2186,male,negative,hospital
+8,2015-09,1593,male,negative,hospital
+9,2015-10,4333,male,negative,hospital
+10,2015-11,1546,male,negative,hospital
+11,2015-12,2210,male,negative,hospital
+0,2015-01,217,female,negative,hospital
+1,2015-02,372,female,negative,hospital
+2,2015-03,549,female,negative,hospital
+3,2015-04,476,female,negative,hospital
+4,2015-05,125,female,negative,hospital
+5,2015-06,111,female,negative,hospital
+6,2015-07,359,female,negative,hospital
+7,2015-08,452,female,negative,hospital
+8,2015-09,518,female,negative,hospital
+9,2015-10,1529,female,negative,hospital
+10,2015-11,415,female,negative,hospital
+11,2015-12,578,female,negative,hospital
+0,2015-01,1873,male,neutral,hospital
+1,2015-02,1101,male,neutral,hospital
+2,2015-03,1190,male,neutral,hospital
+3,2015-04,933,male,neutral,hospital
+4,2015-05,848,male,neutral,hospital
+5,2015-06,691,male,neutral,hospital
+6,2015-07,1505,male,neutral,hospital
+7,2015-08,2061,male,neutral,hospital
+8,2015-09,1594,male,neutral,hospital
+9,2015-10,3877,male,neutral,hospital
+10,2015-11,1477,male,neutral,hospital
+11,2015-12,2106,male,neutral,hospital
+0,2015-01,168,female,neutral,hospital
+1,2015-02,236,female,neutral,hospital
+2,2015-03,296,female,neutral,hospital
+3,2015-04,267,female,neutral,hospital
+4,2015-05,178,female,neutral,hospital
+5,2015-06,105,female,neutral,hospital
+6,2015-07,328,female,neutral,hospital
+7,2015-08,947,female,neutral,hospital
+8,2015-09,335,female,neutral,hospital
+9,2015-10,470,female,neutral,hospital
+10,2015-11,586,female,neutral,hospital
+11,2015-12,589,female,neutral,hospital
+0,2015-01,1204,male,positive,hospital
+1,2015-02,724,male,positive,hospital
+2,2015-03,808,male,positive,hospital
+3,2015-04,686,male,positive,hospital
+4,2015-05,439,male,positive,hospital
+5,2015-06,511,male,positive,hospital
+6,2015-07,779,male,positive,hospital
+7,2015-08,1436,male,positive,hospital
+8,2015-09,1263,male,positive,hospital
+9,2015-10,1618,male,positive,hospital
+10,2015-11,830,male,positive,hospital
+11,2015-12,1642,male,positive,hospital
+0,2015-01,194,female,positive,hospital
+1,2015-02,203,female,positive,hospital
+2,2015-03,224,female,positive,hospital
+3,2015-04,195,female,positive,hospital
+4,2015-05,134,female,positive,hospital
+5,2015-06,129,female,positive,hospital
+6,2015-07,163,female,positive,hospital
+7,2015-08,443,female,positive,hospital
+8,2015-09,520,female,positive,hospital
+9,2015-10,275,female,positive,hospital
+10,2015-11,282,female,positive,hospital
+11,2015-12,350,female,positive,hospital
+0,2015-01,793,male,negative,doctor
+1,2015-02,588,male,negative,doctor
+2,2015-03,544,male,negative,doctor
+3,2015-04,564,male,negative,doctor
+4,2015-05,398,male,negative,doctor
+5,2015-06,250,male,negative,doctor
+6,2015-07,1062,male,negative,doctor
+7,2015-08,1187,male,negative,doctor
+8,2015-09,1109,male,negative,doctor
+9,2015-10,913,male,negative,doctor
+10,2015-11,831,male,negative,doctor
+11,2015-12,858,male,negative,doctor
+0,2015-01,122,female,negative,doctor
+1,2015-02,140,female,negative,doctor
+2,2015-03,179,female,negative,doctor
+3,2015-04,120,female,negative,doctor
+4,2015-05,263,female,negative,doctor
+5,2015-06,155,female,negative,doctor
+6,2015-07,562,female,negative,doctor
+7,2015-08,434,female,negative,doctor
+8,2015-09,417,female,negative,doctor
+9,2015-10,311,female,negative,doctor
+10,2015-11,497,female,negative,doctor
+11,2015-12,227,female,negative,doctor
+0,2015-01,931,male,neutral,doctor
+1,2015-02,1199,male,neutral,doctor
+2,2015-03,947,male,neutral,doctor
+3,2015-04,913,male,neutral,doctor
+4,2015-05,489,male,neutral,doctor
+5,2015-06,557,male,neutral,doctor
+6,2015-07,1224,male,neutral,doctor
+7,2015-08,2163,male,neutral,doctor
+8,2015-09,2090,male,neutral,doctor
+9,2015-10,1694,male,neutral,doctor
+10,2015-11,1439,male,neutral,doctor
+11,2015-12,1577,male,neutral,doctor
+0,2015-01,257,female,neutral,doctor
+1,2015-02,296,female,neutral,doctor
+2,2015-03,356,female,neutral,doctor
+3,2015-04,365,female,neutral,doctor
+4,2015-05,266,female,neutral,doctor
+5,2015-06,94,female,neutral,doctor
+6,2015-07,511,female,neutral,doctor
+7,2015-08,503,female,neutral,doctor
+8,2015-09,675,female,neutral,doctor
+9,2015-10,302,female,neutral,doctor
+10,2015-11,563,female,neutral,doctor
+11,2015-12,299,female,neutral,doctor
+0,2015-01,390,male,positive,doctor
+1,2015-02,300,male,positive,doctor
+2,2015-03,358,male,positive,doctor
+3,2015-04,315,male,positive,doctor
+4,2015-05,244,male,positive,doctor
+5,2015-06,192,male,positive,doctor
+6,2015-07,575,male,positive,doctor
+7,2015-08,764,male,positive,doctor
+8,2015-09,1493,male,positive,doctor
+9,2015-10,1379,male,positive,doctor
+10,2015-11,608,male,positive,doctor
+11,2015-12,815,male,positive,doctor
+0,2015-01,36,female,positive,doctor
+1,2015-02,121,female,positive,doctor
+2,2015-03,175,female,positive,doctor
+3,2015-04,114,female,positive,doctor
+4,2015-05,51,female,positive,doctor
+5,2015-06,54,female,positive,doctor
+6,2015-07,155,female,positive,doctor
+7,2015-08,291,female,positive,doctor
+8,2015-09,883,female,positive,doctor
+9,2015-10,386,female,positive,doctor
+10,2015-11,246,female,positive,doctor
+11,2015-12,133,female,positive,doctor
+0,2015-01,47,male,negative,nurse
+1,2015-02,709,male,negative,nurse
+2,2015-03,47,male,negative,nurse
+3,2015-04,131,male,negative,nurse
+4,2015-05,44,male,negative,nurse
+5,2015-06,20,male,negative,nurse
+6,2015-07,60,male,negative,nurse
+7,2015-08,201,male,negative,nurse
+8,2015-09,147,male,negative,nurse
+9,2015-10,107,male,negative,nurse
+10,2015-11,174,male,negative,nurse
+11,2015-12,144,male,negative,nurse
+0,2015-01,66,female,negative,nurse
+1,2015-02,42,female,negative,nurse
+2,2015-03,82,female,negative,nurse
+3,2015-04,28,female,negative,nurse
+4,2015-05,29,female,negative,nurse
+5,2015-06,14,female,negative,nurse
+6,2015-07,164,female,negative,nurse
+7,2015-08,67,female,negative,nurse
+8,2015-09,234,female,negative,nurse
+9,2015-10,57,female,negative,nurse
+10,2015-11,29,female,negative,nurse
+11,2015-12,45,female,negative,nurse
+0,2015-01,188,male,neutral,nurse
+1,2015-02,80,male,neutral,nurse
+2,2015-03,233,male,neutral,nurse
+3,2015-04,74,male,neutral,nurse
+4,2015-05,107,male,neutral,nurse
+5,2015-06,42,male,neutral,nurse
+6,2015-07,70,male,neutral,nurse
+7,2015-08,143,male,neutral,nurse
+8,2015-09,177,male,neutral,nurse
+9,2015-10,120,male,neutral,nurse
+10,2015-11,117,male,neutral,nurse
+11,2015-12,107,male,neutral,nurse
+0,2015-01,68,female,neutral,nurse
+1,2015-02,112,female,neutral,nurse
+2,2015-03,55,female,neutral,nurse
+3,2015-04,33,female,neutral,nurse
+4,2015-05,25,female,neutral,nurse
+5,2015-06,29,female,neutral,nurse
+6,2015-07,77,female,neutral,nurse
+7,2015-08,106,female,neutral,nurse
+8,2015-09,198,female,neutral,nurse
+9,2015-10,136,female,neutral,nurse
+10,2015-11,92,female,neutral,nurse
+11,2015-12,83,female,neutral,nurse
+0,2015-01,48,male,positive,nurse
+1,2015-02,62,male,positive,nurse
+2,2015-03,70,male,positive,nurse
+3,2015-04,45,male,positive,nurse
+4,2015-05,82,male,positive,nurse
+5,2015-06,19,male,positive,nurse
+6,2015-07,58,male,positive,nurse
+7,2015-08,191,male,positive,nurse
+8,2015-09,81,male,positive,nurse
+9,2015-10,128,male,positive,nurse
+10,2015-11,47,male,positive,nurse
+11,2015-12,56,male,positive,nurse
+0,2015-01,43,female,positive,nurse
+1,2015-02,29,female,positive,nurse
+2,2015-03,40,female,positive,nurse
+3,2015-04,24,female,positive,nurse
+4,2015-05,23,female,positive,nurse
+5,2015-06,23,female,positive,nurse
+6,2015-07,27,female,positive,nurse
+7,2015-08,93,female,positive,nurse
+8,2015-09,114,female,positive,nurse
+9,2015-10,67,female,positive,nurse
+10,2015-11,41,female,positive,nurse
+11,2015-12,44,female,positive,nurse
+0,2016-01,96,male,negative,health insurance
+1,2016-02,3253,male,negative,health insurance
+2,2016-03,54,male,negative,health insurance
+3,2016-04,3261,male,negative,health insurance
+4,2016-05,9505,male,negative,health insurance
+5,2016-06,143,male,negative,health insurance
+6,2016-07,5577,male,negative,health insurance
+7,2016-08,7649,male,negative,health insurance
+8,2016-09,8722,male,negative,health insurance
+9,2016-10,33,male,negative,health insurance
+10,2016-11,151,male,negative,health insurance
+11,2016-12,6610,male,negative,health insurance
+0,2016-01,44,female,negative,health insurance
+1,2016-02,1248,female,negative,health insurance
+2,2016-03,10,female,negative,health insurance
+3,2016-04,1810,female,negative,health insurance
+4,2016-05,2772,female,negative,health insurance
+5,2016-06,36,female,negative,health insurance
+6,2016-07,2690,female,negative,health insurance
+7,2016-08,2451,female,negative,health insurance
+8,2016-09,2818,female,negative,health insurance
+9,2016-10,11,female,negative,health insurance
+10,2016-11,88,female,negative,health insurance
+11,2016-12,1760,female,negative,health insurance
+0,2016-01,64,male,neutral,health insurance
+1,2016-02,3998,male,neutral,health insurance
+2,2016-03,38,male,neutral,health insurance
+3,2016-04,3604,male,neutral,health insurance
+4,2016-05,9427,male,neutral,health insurance
+5,2016-06,573,male,neutral,health insurance
+6,2016-07,8682,male,neutral,health insurance
+7,2016-08,9878,male,neutral,health insurance
+8,2016-09,9413,male,neutral,health insurance
+9,2016-10,45,male,neutral,health insurance
+10,2016-11,205,male,neutral,health insurance
+11,2016-12,7574,male,neutral,health insurance
+0,2016-01,30,female,neutral,health insurance
+1,2016-02,1106,female,neutral,health insurance
+2,2016-03,12,female,neutral,health insurance
+3,2016-04,1641,female,neutral,health insurance
+4,2016-05,2844,female,neutral,health insurance
+5,2016-06,23,female,neutral,health insurance
+6,2016-07,2012,female,neutral,health insurance
+7,2016-08,3670,female,neutral,health insurance
+8,2016-09,3577,female,neutral,health insurance
+9,2016-10,10,female,neutral,health insurance
+10,2016-11,44,female,neutral,health insurance
+11,2016-12,3085,female,neutral,health insurance
+0,2016-01,104,male,positive,health insurance
+1,2016-02,3070,male,positive,health insurance
+2,2016-03,24,male,positive,health insurance
+3,2016-04,2981,male,positive,health insurance
+4,2016-05,6689,male,positive,health insurance
+5,2016-06,115,male,positive,health insurance
+6,2016-07,5717,male,positive,health insurance
+7,2016-08,5838,male,positive,health insurance
+8,2016-09,8502,male,positive,health insurance
+9,2016-10,24,male,positive,health insurance
+10,2016-11,246,male,positive,health insurance
+11,2016-12,5949,male,positive,health insurance
+0,2016-01,18,female,positive,health insurance
+1,2016-02,839,female,positive,health insurance
+2,2016-03,6,female,positive,health insurance
+3,2016-04,969,female,positive,health insurance
+4,2016-05,2214,female,positive,health insurance
+5,2016-06,31,female,positive,health insurance
+6,2016-07,1882,female,positive,health insurance
+7,2016-08,3228,female,positive,health insurance
+8,2016-09,2263,female,positive,health insurance
+9,2016-10,5,female,positive,health insurance
+10,2016-11,41,female,positive,health insurance
+11,2016-12,2506,female,positive,health insurance
+0,2016-01,15,male,negative,disease
+1,2016-02,1182,male,negative,disease
+2,2016-03,17,male,negative,disease
+3,2016-04,1031,male,negative,disease
+4,2016-05,2880,male,negative,disease
+5,2016-06,71,male,negative,disease
+6,2016-07,2044,male,negative,disease
+7,2016-08,3308,male,negative,disease
+8,2016-09,2453,male,negative,disease
+9,2016-10,8,male,negative,disease
+10,2016-11,53,male,negative,disease
+11,2016-12,1971,male,negative,disease
+0,2016-01,6,female,negative,disease
+1,2016-02,132,female,negative,disease
+2,2016-03,3,female,negative,disease
+3,2016-04,322,female,negative,disease
+4,2016-05,727,female,negative,disease
+5,2016-06,33,female,negative,disease
+6,2016-07,590,female,negative,disease
+7,2016-08,455,female,negative,disease
+8,2016-09,758,female,negative,disease
+9,2016-10,3,female,negative,disease
+10,2016-11,10,female,negative,disease
+11,2016-12,601,female,negative,disease
+0,2016-01,12,male,neutral,disease
+1,2016-02,644,male,neutral,disease
+2,2016-03,5,male,neutral,disease
+3,2016-04,688,male,neutral,disease
+4,2016-05,1905,male,neutral,disease
+5,2016-06,22,male,neutral,disease
+6,2016-07,1351,male,neutral,disease
+7,2016-08,1688,male,neutral,disease
+8,2016-09,1457,male,neutral,disease
+9,2016-10,4,male,neutral,disease
+10,2016-11,38,male,neutral,disease
+11,2016-12,1072,male,neutral,disease
+0,2016-01,9,female,neutral,disease
+1,2016-02,239,female,neutral,disease
+2,2016-03,6,female,neutral,disease
+3,2016-04,285,female,neutral,disease
+4,2016-05,411,female,neutral,disease
+5,2016-06,28,female,neutral,disease
+6,2016-07,430,female,neutral,disease
+7,2016-08,444,female,neutral,disease
+8,2016-09,866,female,neutral,disease
+9,2016-11,3,female,neutral,disease
+10,2016-12,365,female,neutral,disease
+0,2016-01,2,male,positive,disease
+1,2016-02,332,male,positive,disease
+2,2016-03,1,male,positive,disease
+3,2016-04,500,male,positive,disease
+4,2016-05,1201,male,positive,disease
+5,2016-06,11,male,positive,disease
+6,2016-07,943,male,positive,disease
+7,2016-08,1416,male,positive,disease
+8,2016-09,875,male,positive,disease
+9,2016-10,1,male,positive,disease
+10,2016-11,93,male,positive,disease
+11,2016-12,882,male,positive,disease
+0,2016-01,4,female,positive,disease
+1,2016-02,118,female,positive,disease
+2,2016-04,216,female,positive,disease
+3,2016-05,287,female,positive,disease
+4,2016-06,8,female,positive,disease
+5,2016-07,186,female,positive,disease
+6,2016-08,191,female,positive,disease
+7,2016-09,329,female,positive,disease
+8,2016-10,1,female,positive,disease
+9,2016-11,2,female,positive,disease
+10,2016-12,259,female,positive,disease
+0,2016-01,4,male,negative,medicine
+1,2016-02,233,male,negative,medicine
+2,2016-03,2,male,negative,medicine
+3,2016-04,266,male,negative,medicine
+4,2016-05,940,male,negative,medicine
+5,2016-06,8,male,negative,medicine
+6,2016-07,444,male,negative,medicine
+7,2016-08,388,male,negative,medicine
+8,2016-09,662,male,negative,medicine
+9,2016-10,3,male,negative,medicine
+10,2016-11,6,male,negative,medicine
+11,2016-12,290,male,negative,medicine
+0,2016-01,3,female,negative,medicine
+1,2016-02,43,female,negative,medicine
+2,2016-03,2,female,negative,medicine
+3,2016-04,51,female,negative,medicine
+4,2016-05,149,female,negative,medicine
+5,2016-06,2,female,negative,medicine
+6,2016-07,64,female,negative,medicine
+7,2016-08,99,female,negative,medicine
+8,2016-09,336,female,negative,medicine
+9,2016-11,5,female,negative,medicine
+10,2016-12,90,female,negative,medicine
+0,2016-01,3,male,neutral,medicine
+1,2016-02,333,male,neutral,medicine
+2,2016-03,4,male,neutral,medicine
+3,2016-04,241,male,neutral,medicine
+4,2016-05,1071,male,neutral,medicine
+5,2016-06,6,male,neutral,medicine
+6,2016-07,585,male,neutral,medicine
+7,2016-08,670,male,neutral,medicine
+8,2016-09,1513,male,neutral,medicine
+9,2016-10,3,male,neutral,medicine
+10,2016-11,10,male,neutral,medicine
+11,2016-12,649,male,neutral,medicine
+0,2016-01,3,female,neutral,medicine
+1,2016-02,45,female,neutral,medicine
+2,2016-03,2,female,neutral,medicine
+3,2016-04,67,female,neutral,medicine
+4,2016-05,122,female,neutral,medicine
+5,2016-07,126,female,neutral,medicine
+6,2016-08,197,female,neutral,medicine
+7,2016-09,821,female,neutral,medicine
+8,2016-10,4,female,neutral,medicine
+9,2016-11,1,female,neutral,medicine
+10,2016-12,199,female,neutral,medicine
+0,2016-01,11,male,positive,medicine
+1,2016-02,201,male,positive,medicine
+2,2016-04,310,male,positive,medicine
+3,2016-05,533,male,positive,medicine
+4,2016-06,8,male,positive,medicine
+5,2016-07,472,male,positive,medicine
+6,2016-08,526,male,positive,medicine
+7,2016-09,630,male,positive,medicine
+8,2016-10,2,male,positive,medicine
+9,2016-11,9,male,positive,medicine
+10,2016-12,453,male,positive,medicine
+0,2016-02,83,female,positive,medicine
+1,2016-04,53,female,positive,medicine
+2,2016-05,198,female,positive,medicine
+3,2016-06,1,female,positive,medicine
+4,2016-07,181,female,positive,medicine
+5,2016-08,110,female,positive,medicine
+6,2016-09,376,female,positive,medicine
+7,2016-11,1,female,positive,medicine
+8,2016-12,236,female,positive,medicine
+0,2016-01,13,male,negative,hospital
+1,2016-02,1069,male,negative,hospital
+2,2016-03,8,male,negative,hospital
+3,2016-04,1157,male,negative,hospital
+4,2016-05,2145,male,negative,hospital
+5,2016-06,17,male,negative,hospital
+6,2016-07,2274,male,negative,hospital
+7,2016-08,2064,male,negative,hospital
+8,2016-09,2484,male,negative,hospital
+9,2016-10,7,male,negative,hospital
+10,2016-11,43,male,negative,hospital
+11,2016-12,1713,male,negative,hospital
+0,2016-01,1,female,negative,hospital
+1,2016-02,344,female,negative,hospital
+2,2016-03,1,female,negative,hospital
+3,2016-04,583,female,negative,hospital
+4,2016-05,506,female,negative,hospital
+5,2016-06,5,female,negative,hospital
+6,2016-07,437,female,negative,hospital
+7,2016-08,576,female,negative,hospital
+8,2016-09,694,female,negative,hospital
+9,2016-10,3,female,negative,hospital
+10,2016-11,1,female,negative,hospital
+11,2016-12,750,female,negative,hospital
+0,2016-01,22,male,neutral,hospital
+1,2016-02,1124,male,neutral,hospital
+2,2016-03,5,male,neutral,hospital
+3,2016-04,773,male,neutral,hospital
+4,2016-05,2301,male,neutral,hospital
+5,2016-06,28,male,neutral,hospital
+6,2016-07,1785,male,neutral,hospital
+7,2016-08,2703,male,neutral,hospital
+8,2016-09,2122,male,neutral,hospital
+9,2016-10,3,male,neutral,hospital
+10,2016-11,29,male,neutral,hospital
+11,2016-12,2336,male,neutral,hospital
+0,2016-01,9,female,neutral,hospital
+1,2016-02,242,female,neutral,hospital
+2,2016-03,2,female,neutral,hospital
+3,2016-04,371,female,neutral,hospital
+4,2016-05,508,female,neutral,hospital
+5,2016-06,3,female,neutral,hospital
+6,2016-07,778,female,neutral,hospital
+7,2016-08,585,female,neutral,hospital
+8,2016-09,1258,female,neutral,hospital
+9,2016-10,3,female,neutral,hospital
+10,2016-11,16,female,neutral,hospital
+11,2016-12,507,female,neutral,hospital
+0,2016-01,18,male,positive,hospital
+1,2016-02,379,male,positive,hospital
+2,2016-03,8,male,positive,hospital
+3,2016-04,618,male,positive,hospital
+4,2016-05,1598,male,positive,hospital
+5,2016-06,26,male,positive,hospital
+6,2016-07,958,male,positive,hospital
+7,2016-08,1410,male,positive,hospital
+8,2016-09,1314,male,positive,hospital
+9,2016-10,4,male,positive,hospital
+10,2016-11,16,male,positive,hospital
+11,2016-12,1179,male,positive,hospital
+0,2016-01,3,female,positive,hospital
+1,2016-02,225,female,positive,hospital
+2,2016-04,216,female,positive,hospital
+3,2016-05,319,female,positive,hospital
+4,2016-06,4,female,positive,hospital
+5,2016-07,502,female,positive,hospital
+6,2016-08,576,female,positive,hospital
+7,2016-09,765,female,positive,hospital
+8,2016-10,3,female,positive,hospital
+9,2016-11,6,female,positive,hospital
+10,2016-12,634,female,positive,hospital
+0,2016-01,1,male,negative,nurse
+1,2016-02,29,male,negative,nurse
+2,2016-03,1,male,negative,nurse
+3,2016-04,21,male,negative,nurse
+4,2016-05,93,male,negative,nurse
+5,2016-06,5,male,negative,nurse
+6,2016-07,255,male,negative,nurse
+7,2016-08,96,male,negative,nurse
+8,2016-09,169,male,negative,nurse
+9,2016-12,52,male,negative,nurse
+0,2016-02,20,female,negative,nurse
+1,2016-04,134,female,negative,nurse
+2,2016-05,240,female,negative,nurse
+3,2016-06,1,female,negative,nurse
+4,2016-07,167,female,negative,nurse
+5,2016-08,21,female,negative,nurse
+6,2016-09,38,female,negative,nurse
+7,2016-10,1,female,negative,nurse
+8,2016-11,3,female,negative,nurse
+9,2016-12,41,female,negative,nurse
+0,2016-01,1,male,neutral,nurse
+1,2016-02,65,male,neutral,nurse
+2,2016-03,1,male,neutral,nurse
+3,2016-04,209,male,neutral,nurse
+4,2016-05,173,male,neutral,nurse
+5,2016-06,1,male,neutral,nurse
+6,2016-07,170,male,neutral,nurse
+7,2016-08,224,male,neutral,nurse
+8,2016-09,301,male,neutral,nurse
+9,2016-11,77,male,neutral,nurse
+10,2016-12,111,male,neutral,nurse
+0,2016-01,10,female,neutral,nurse
+1,2016-02,60,female,neutral,nurse
+2,2016-04,20,female,neutral,nurse
+3,2016-05,358,female,neutral,nurse
+4,2016-06,1,female,neutral,nurse
+5,2016-07,81,female,neutral,nurse
+6,2016-08,117,female,neutral,nurse
+7,2016-09,158,female,neutral,nurse
+8,2016-11,5,female,neutral,nurse
+9,2016-12,105,female,neutral,nurse
+0,2016-02,18,male,positive,nurse
+1,2016-04,74,male,positive,nurse
+2,2016-05,103,male,positive,nurse
+3,2016-07,68,male,positive,nurse
+4,2016-08,66,male,positive,nurse
+5,2016-09,226,male,positive,nurse
+6,2016-11,2,male,positive,nurse
+7,2016-12,209,male,positive,nurse
+0,2016-01,1,female,positive,nurse
+1,2016-02,25,female,positive,nurse
+2,2016-04,6,female,positive,nurse
+3,2016-05,73,female,positive,nurse
+4,2016-07,62,female,positive,nurse
+5,2016-08,41,female,positive,nurse
+6,2016-09,46,female,positive,nurse
+7,2016-12,312,female,positive,nurse
+0,2017-01,214,male,negative,health insurance
+1,2017-02,5996,male,negative,health insurance
+2,2017-03,18243,male,negative,health insurance
+3,2017-04,10199,male,negative,health insurance
+4,2017-05,16591,male,negative,health insurance
+5,2017-06,19197,male,negative,health insurance
+6,2017-07,24028,male,negative,health insurance
+7,2017-08,16289,male,negative,health insurance
+8,2017-09,16301,male,negative,health insurance
+9,2017-10,19450,male,negative,health insurance
+10,2017-11,15375,male,negative,health insurance
+11,2017-12,10109,male,negative,health insurance
+0,2017-01,93,female,negative,health insurance
+1,2017-02,1247,female,negative,health insurance
+2,2017-03,5826,female,negative,health insurance
+3,2017-04,4273,female,negative,health insurance
+4,2017-05,7870,female,negative,health insurance
+5,2017-06,4758,female,negative,health insurance
+6,2017-07,5755,female,negative,health insurance
+7,2017-08,4636,female,negative,health insurance
+8,2017-09,4053,female,negative,health insurance
+9,2017-10,5984,female,negative,health insurance
+10,2017-11,2940,female,negative,health insurance
+11,2017-12,2260,female,negative,health insurance
+0,2017-01,1086,male,neutral,health insurance
+1,2017-02,3253,male,neutral,health insurance
+2,2017-03,17972,male,neutral,health insurance
+3,2017-04,11156,male,neutral,health insurance
+4,2017-05,15491,male,neutral,health insurance
+5,2017-06,100501,male,neutral,health insurance
+6,2017-07,21679,male,neutral,health insurance
+7,2017-08,15456,male,neutral,health insurance
+8,2017-09,16031,male,neutral,health insurance
+9,2017-10,17885,male,neutral,health insurance
+10,2017-11,9603,male,neutral,health insurance
+11,2017-12,10495,male,neutral,health insurance
+0,2017-01,77,female,neutral,health insurance
+1,2017-02,718,female,neutral,health insurance
+2,2017-03,4628,female,neutral,health insurance
+3,2017-04,3244,female,neutral,health insurance
+4,2017-05,4375,female,neutral,health insurance
+5,2017-06,207681,female,neutral,health insurance
+6,2017-07,4952,female,neutral,health insurance
+7,2017-08,3068,female,neutral,health insurance
+8,2017-09,5632,female,neutral,health insurance
+9,2017-10,4153,female,neutral,health insurance
+10,2017-11,3794,female,neutral,health insurance
+11,2017-12,3019,female,neutral,health insurance
+0,2017-01,158,male,positive,health insurance
+1,2017-02,2551,male,positive,health insurance
+2,2017-03,13821,male,positive,health insurance
+3,2017-04,8519,male,positive,health insurance
+4,2017-05,10465,male,positive,health insurance
+5,2017-06,21115,male,positive,health insurance
+6,2017-07,12026,male,positive,health insurance
+7,2017-08,10191,male,positive,health insurance
+8,2017-09,9828,male,positive,health insurance
+9,2017-10,12903,male,positive,health insurance
+10,2017-11,7265,male,positive,health insurance
+11,2017-12,8229,male,positive,health insurance
+0,2017-01,18,female,positive,health insurance
+1,2017-02,643,female,positive,health insurance
+2,2017-03,2534,female,positive,health insurance
+3,2017-04,2102,female,positive,health insurance
+4,2017-05,2659,female,positive,health insurance
+5,2017-06,2605,female,positive,health insurance
+6,2017-07,2792,female,positive,health insurance
+7,2017-08,2879,female,positive,health insurance
+8,2017-09,3881,female,positive,health insurance
+9,2017-10,2602,female,positive,health insurance
+10,2017-11,2356,female,positive,health insurance
+11,2017-12,2049,female,positive,health insurance
+0,2017-01,60,male,negative,disease
+1,2017-02,602,male,negative,disease
+2,2017-03,2549,male,negative,disease
+3,2017-04,2290,male,negative,disease
+4,2017-05,3662,male,negative,disease
+5,2017-06,2425,male,negative,disease
+6,2017-07,3238,male,negative,disease
+7,2017-08,3352,male,negative,disease
+8,2017-09,2897,male,negative,disease
+9,2017-10,2871,male,negative,disease
+10,2017-11,3218,male,negative,disease
+11,2017-12,1750,male,negative,disease
+0,2017-01,7,female,negative,disease
+1,2017-02,201,female,negative,disease
+2,2017-03,787,female,negative,disease
+3,2017-04,544,female,negative,disease
+4,2017-05,1082,female,negative,disease
+5,2017-06,1581,female,negative,disease
+6,2017-07,1622,female,negative,disease
+7,2017-08,847,female,negative,disease
+8,2017-09,2086,female,negative,disease
+9,2017-10,560,female,negative,disease
+10,2017-11,938,female,negative,disease
+11,2017-12,490,female,negative,disease
+0,2017-01,57,male,neutral,disease
+1,2017-02,492,male,neutral,disease
+2,2017-03,1940,male,neutral,disease
+3,2017-04,1557,male,neutral,disease
+4,2017-05,2122,male,neutral,disease
+5,2017-06,1247,male,neutral,disease
+6,2017-07,1521,male,neutral,disease
+7,2017-08,2362,male,neutral,disease
+8,2017-09,1820,male,neutral,disease
+9,2017-10,1343,male,neutral,disease
+10,2017-11,2378,male,neutral,disease
+11,2017-12,1258,male,neutral,disease
+0,2017-01,6,female,neutral,disease
+1,2017-02,110,female,neutral,disease
+2,2017-03,550,female,neutral,disease
+3,2017-04,597,female,neutral,disease
+4,2017-05,566,female,neutral,disease
+5,2017-06,11712,female,neutral,disease
+6,2017-07,786,female,neutral,disease
+7,2017-08,730,female,neutral,disease
+8,2017-09,773,female,neutral,disease
+9,2017-10,613,female,neutral,disease
+10,2017-11,525,female,neutral,disease
+11,2017-12,390,female,neutral,disease
+0,2017-01,4,male,positive,disease
+1,2017-02,286,male,positive,disease
+2,2017-03,886,male,positive,disease
+3,2017-04,862,male,positive,disease
+4,2017-05,1167,male,positive,disease
+5,2017-06,1209,male,positive,disease
+6,2017-07,1064,male,positive,disease
+7,2017-08,2218,male,positive,disease
+8,2017-09,1273,male,positive,disease
+9,2017-10,1244,male,positive,disease
+10,2017-11,862,male,positive,disease
+11,2017-12,836,male,positive,disease
+0,2017-02,58,female,positive,disease
+1,2017-03,173,female,positive,disease
+2,2017-04,298,female,positive,disease
+3,2017-05,218,female,positive,disease
+4,2017-06,255,female,positive,disease
+5,2017-07,294,female,positive,disease
+6,2017-08,228,female,positive,disease
+7,2017-09,469,female,positive,disease
+8,2017-10,288,female,positive,disease
+9,2017-11,302,female,positive,disease
+10,2017-12,187,female,positive,disease
+0,2017-01,2,male,negative,medicine
+1,2017-02,118,male,negative,medicine
+2,2017-03,421,male,negative,medicine
+3,2017-04,584,male,negative,medicine
+4,2017-05,480,male,negative,medicine
+5,2017-06,595,male,negative,medicine
+6,2017-07,502,male,negative,medicine
+7,2017-08,665,male,negative,medicine
+8,2017-09,958,male,negative,medicine
+9,2017-10,751,male,negative,medicine
+10,2017-11,451,male,negative,medicine
+11,2017-12,458,male,negative,medicine
+0,2017-01,24,female,negative,medicine
+1,2017-02,41,female,negative,medicine
+2,2017-03,123,female,negative,medicine
+3,2017-04,209,female,negative,medicine
+4,2017-05,245,female,negative,medicine
+5,2017-06,213,female,negative,medicine
+6,2017-07,159,female,negative,medicine
+7,2017-08,94,female,negative,medicine
+8,2017-09,146,female,negative,medicine
+9,2017-10,383,female,negative,medicine
+10,2017-11,219,female,negative,medicine
+11,2017-12,128,female,negative,medicine
+0,2017-01,11,male,neutral,medicine
+1,2017-02,231,male,neutral,medicine
+2,2017-03,664,male,neutral,medicine
+3,2017-04,1334,male,neutral,medicine
+4,2017-05,887,male,neutral,medicine
+5,2017-06,191469,male,neutral,medicine
+6,2017-07,771,male,neutral,medicine
+7,2017-08,1126,male,neutral,medicine
+8,2017-09,1107,male,neutral,medicine
+9,2017-10,1410,male,neutral,medicine
+10,2017-11,800,male,neutral,medicine
+11,2017-12,1003,male,neutral,medicine
+0,2017-01,2,female,neutral,medicine
+1,2017-02,341,female,neutral,medicine
+2,2017-03,232,female,neutral,medicine
+3,2017-04,252,female,neutral,medicine
+4,2017-05,229,female,neutral,medicine
+5,2017-06,218936,female,neutral,medicine
+6,2017-07,248,female,neutral,medicine
+7,2017-08,193,female,neutral,medicine
+8,2017-09,152,female,neutral,medicine
+9,2017-10,333,female,neutral,medicine
+10,2017-11,194,female,neutral,medicine
+11,2017-12,99,female,neutral,medicine
+0,2017-01,5,male,positive,medicine
+1,2017-02,172,male,positive,medicine
+2,2017-03,904,male,positive,medicine
+3,2017-04,707,male,positive,medicine
+4,2017-05,683,male,positive,medicine
+5,2017-06,621,male,positive,medicine
+6,2017-07,975,male,positive,medicine
+7,2017-08,1736,male,positive,medicine
+8,2017-09,855,male,positive,medicine
+9,2017-10,929,male,positive,medicine
+10,2017-11,671,male,positive,medicine
+11,2017-12,515,male,positive,medicine
+0,2017-01,1,female,positive,medicine
+1,2017-02,74,female,positive,medicine
+2,2017-03,339,female,positive,medicine
+3,2017-04,121,female,positive,medicine
+4,2017-05,253,female,positive,medicine
+5,2017-06,319,female,positive,medicine
+6,2017-07,100,female,positive,medicine
+7,2017-08,136,female,positive,medicine
+8,2017-09,95,female,positive,medicine
+9,2017-10,277,female,positive,medicine
+10,2017-11,186,female,positive,medicine
+11,2017-12,111,female,positive,medicine
+0,2017-01,28,male,negative,hospital
+1,2017-02,703,male,negative,hospital
+2,2017-03,2143,male,negative,hospital
+3,2017-04,1859,male,negative,hospital
+4,2017-05,2932,male,negative,hospital
+5,2017-06,2567,male,negative,hospital
+6,2017-07,3675,male,negative,hospital
+7,2017-08,2847,male,negative,hospital
+8,2017-09,4651,male,negative,hospital
+9,2017-10,3970,male,negative,hospital
+10,2017-11,3004,male,negative,hospital
+11,2017-12,2167,male,negative,hospital
+0,2017-01,1,female,negative,hospital
+1,2017-02,257,female,negative,hospital
+2,2017-03,474,female,negative,hospital
+3,2017-04,551,female,negative,hospital
+4,2017-05,485,female,negative,hospital
+5,2017-06,619,female,negative,hospital
+6,2017-07,926,female,negative,hospital
+7,2017-08,834,female,negative,hospital
+8,2017-09,741,female,negative,hospital
+9,2017-10,770,female,negative,hospital
+10,2017-11,696,female,negative,hospital
+11,2017-12,556,female,negative,hospital
+0,2017-01,16,male,neutral,hospital
+1,2017-02,537,male,neutral,hospital
+2,2017-03,2121,male,neutral,hospital
+3,2017-04,3056,male,neutral,hospital
+4,2017-05,2760,male,neutral,hospital
+5,2017-06,8741,male,neutral,hospital
+6,2017-07,3464,male,neutral,hospital
+7,2017-08,2464,male,neutral,hospital
+8,2017-09,2652,male,neutral,hospital
+9,2017-10,2856,male,neutral,hospital
+10,2017-11,2534,male,neutral,hospital
+11,2017-12,2818,male,neutral,hospital
+0,2017-01,6,female,neutral,hospital
+1,2017-02,193,female,neutral,hospital
+2,2017-03,849,female,neutral,hospital
+3,2017-04,477,female,neutral,hospital
+4,2017-05,1118,female,neutral,hospital
+5,2017-06,22754,female,neutral,hospital
+6,2017-07,721,female,neutral,hospital
+7,2017-08,617,female,neutral,hospital
+8,2017-09,894,female,neutral,hospital
+9,2017-10,701,female,neutral,hospital
+10,2017-11,424,female,neutral,hospital
+11,2017-12,424,female,neutral,hospital
+0,2017-01,12,male,positive,hospital
+1,2017-02,292,male,positive,hospital
+2,2017-03,2442,male,positive,hospital
+3,2017-04,1664,male,positive,hospital
+4,2017-05,2044,male,positive,hospital
+5,2017-06,1678,male,positive,hospital
+6,2017-07,3024,male,positive,hospital
+7,2017-08,1390,male,positive,hospital
+8,2017-09,1741,male,positive,hospital
+9,2017-10,2325,male,positive,hospital
+10,2017-11,1491,male,positive,hospital
+11,2017-12,1184,male,positive,hospital
+0,2017-01,3,female,positive,hospital
+1,2017-02,81,female,positive,hospital
+2,2017-03,392,female,positive,hospital
+3,2017-04,356,female,positive,hospital
+4,2017-05,486,female,positive,hospital
+5,2017-06,718,female,positive,hospital
+6,2017-07,2166,female,positive,hospital
+7,2017-08,468,female,positive,hospital
+8,2017-09,632,female,positive,hospital
+9,2017-10,450,female,positive,hospital
+10,2017-11,457,female,positive,hospital
+11,2017-12,943,female,positive,hospital
+0,2017-01,6,male,negative,doctor
+1,2017-02,548,male,negative,doctor
+2,2017-03,1888,male,negative,doctor
+3,2017-04,1125,male,negative,doctor
+4,2017-05,856,male,negative,doctor
+5,2017-06,1534,male,negative,doctor
+6,2017-07,1571,male,negative,doctor
+7,2017-08,1395,male,negative,doctor
+8,2017-09,2153,male,negative,doctor
+9,2017-10,2713,male,negative,doctor
+10,2017-11,1394,male,negative,doctor
+11,2017-12,1257,male,negative,doctor
+0,2017-01,52,female,negative,doctor
+1,2017-02,79,female,negative,doctor
+2,2017-03,356,female,negative,doctor
+3,2017-04,429,female,negative,doctor
+4,2017-05,195,female,negative,doctor
+5,2017-06,229,female,negative,doctor
+6,2017-07,830,female,negative,doctor
+7,2017-08,804,female,negative,doctor
+8,2017-09,546,female,negative,doctor
+9,2017-10,612,female,negative,doctor
+10,2017-11,450,female,negative,doctor
+11,2017-12,876,female,negative,doctor
+0,2017-01,35,male,neutral,doctor
+1,2017-02,511,male,neutral,doctor
+2,2017-03,1906,male,neutral,doctor
+3,2017-04,1947,male,neutral,doctor
+4,2017-05,2757,male,neutral,doctor
+5,2017-06,1750,male,neutral,doctor
+6,2017-07,3694,male,neutral,doctor
+7,2017-08,3152,male,neutral,doctor
+8,2017-09,2719,male,neutral,doctor
+9,2017-10,2400,male,neutral,doctor
+10,2017-11,2992,male,neutral,doctor
+11,2017-12,1680,male,neutral,doctor
+0,2017-01,3,female,neutral,doctor
+1,2017-02,69,female,neutral,doctor
+2,2017-03,636,female,neutral,doctor
+3,2017-04,557,female,neutral,doctor
+4,2017-05,571,female,neutral,doctor
+5,2017-06,407,female,neutral,doctor
+6,2017-07,778,female,neutral,doctor
+7,2017-08,583,female,neutral,doctor
+8,2017-09,598,female,neutral,doctor
+9,2017-10,725,female,neutral,doctor
+10,2017-11,435,female,neutral,doctor
+11,2017-12,528,female,neutral,doctor
+0,2017-01,124,male,positive,doctor
+1,2017-02,200,male,positive,doctor
+2,2017-03,947,male,positive,doctor
+3,2017-04,1072,male,positive,doctor
+4,2017-05,554,male,positive,doctor
+5,2017-06,758,male,positive,doctor
+6,2017-07,2351,male,positive,doctor
+7,2017-08,1213,male,positive,doctor
+8,2017-09,703,male,positive,doctor
+9,2017-10,971,male,positive,doctor
+10,2017-11,809,male,positive,doctor
+11,2017-12,756,male,positive,doctor
+0,2017-01,28,female,positive,doctor
+1,2017-02,45,female,positive,doctor
+2,2017-03,126,female,positive,doctor
+3,2017-04,278,female,positive,doctor
+4,2017-05,295,female,positive,doctor
+5,2017-06,159,female,positive,doctor
+6,2017-07,1568,female,positive,doctor
+7,2017-08,360,female,positive,doctor
+8,2017-09,217,female,positive,doctor
+9,2017-10,448,female,positive,doctor
+10,2017-11,302,female,positive,doctor
+11,2017-12,272,female,positive,doctor
+0,2017-02,36,male,negative,nurse
+1,2017-03,156,male,negative,nurse
+2,2017-04,215,male,negative,nurse
+3,2017-05,72,male,negative,nurse
+4,2017-06,804,male,negative,nurse
+5,2017-07,76,male,negative,nurse
+6,2017-08,178,male,negative,nurse
+7,2017-09,186,male,negative,nurse
+8,2017-10,136,male,negative,nurse
+9,2017-11,73,male,negative,nurse
+10,2017-12,56,male,negative,nurse
+0,2017-01,1,female,negative,nurse
+1,2017-02,7,female,negative,nurse
+2,2017-03,37,female,negative,nurse
+3,2017-04,28,female,negative,nurse
+4,2017-05,30,female,negative,nurse
+5,2017-06,33,female,negative,nurse
+6,2017-07,38,female,negative,nurse
+7,2017-08,52,female,negative,nurse
+8,2017-09,151,female,negative,nurse
+9,2017-10,59,female,negative,nurse
+10,2017-11,42,female,negative,nurse
+11,2017-12,58,female,negative,nurse
+0,2017-02,33,male,neutral,nurse
+1,2017-03,277,male,neutral,nurse
+2,2017-04,302,male,neutral,nurse
+3,2017-05,265,male,neutral,nurse
+4,2017-06,179,male,neutral,nurse
+5,2017-07,193,male,neutral,nurse
+6,2017-08,504,male,neutral,nurse
+7,2017-09,264,male,neutral,nurse
+8,2017-10,287,male,neutral,nurse
+9,2017-11,251,male,neutral,nurse
+10,2017-12,205,male,neutral,nurse
+0,2017-02,79,female,neutral,nurse
+1,2017-03,226,female,neutral,nurse
+2,2017-04,69,female,neutral,nurse
+3,2017-05,100,female,neutral,nurse
+4,2017-06,83,female,neutral,nurse
+5,2017-07,84,female,neutral,nurse
+6,2017-08,137,female,neutral,nurse
+7,2017-09,550,female,neutral,nurse
+8,2017-10,101,female,neutral,nurse
+9,2017-11,62,female,neutral,nurse
+10,2017-12,78,female,neutral,nurse
+0,2017-01,1,male,positive,nurse
+1,2017-02,24,male,positive,nurse
+2,2017-03,112,male,positive,nurse
+3,2017-04,179,male,positive,nurse
+4,2017-05,134,male,positive,nurse
+5,2017-06,101,male,positive,nurse
+6,2017-07,161,male,positive,nurse
+7,2017-08,72,male,positive,nurse
+8,2017-09,104,male,positive,nurse
+9,2017-10,170,male,positive,nurse
+10,2017-11,180,male,positive,nurse
+11,2017-12,169,male,positive,nurse
+0,2017-02,12,female,positive,nurse
+1,2017-03,137,female,positive,nurse
+2,2017-04,25,female,positive,nurse
+3,2017-05,139,female,positive,nurse
+4,2017-06,71,female,positive,nurse
+5,2017-07,190,female,positive,nurse
+6,2017-08,79,female,positive,nurse
+7,2017-09,90,female,positive,nurse
+8,2017-10,148,female,positive,nurse
+9,2017-11,180,female,positive,nurse
+10,2017-12,52,female,positive,nurse
+0,2018-01,10373,male,negative,health insurance
+1,2018-02,8584,male,negative,health insurance
+2,2018-03,9988,male,negative,health insurance
+3,2018-04,8359,male,negative,health insurance
+4,2018-05,8163,male,negative,health insurance
+5,2018-06,8690,male,negative,health insurance
+6,2018-07,7167,male,negative,health insurance
+7,2018-08,7318,male,negative,health insurance
+8,2018-09,8017,male,negative,health insurance
+9,2018-10,10060,male,negative,health insurance
+10,2018-11,8330,male,negative,health insurance
+11,2018-12,5798,male,negative,health insurance
+0,2018-01,4418,female,negative,health insurance
+1,2018-02,3210,female,negative,health insurance
+2,2018-03,4224,female,negative,health insurance
+3,2018-04,2658,female,negative,health insurance
+4,2018-05,2520,female,negative,health insurance
+5,2018-06,2489,female,negative,health insurance
+6,2018-07,2389,female,negative,health insurance
+7,2018-08,2691,female,negative,health insurance
+8,2018-09,5296,female,negative,health insurance
+9,2018-10,4864,female,negative,health insurance
+10,2018-11,2082,female,negative,health insurance
+11,2018-12,2268,female,negative,health insurance
+0,2018-01,11999,male,neutral,health insurance
+1,2018-02,19382,male,neutral,health insurance
+2,2018-03,12192,male,neutral,health insurance
+3,2018-04,10233,male,neutral,health insurance
+4,2018-05,10477,male,neutral,health insurance
+5,2018-06,9713,male,neutral,health insurance
+6,2018-07,8618,male,neutral,health insurance
+7,2018-08,8042,male,neutral,health insurance
+8,2018-09,8891,male,neutral,health insurance
+9,2018-10,12101,male,neutral,health insurance
+10,2018-11,9594,male,neutral,health insurance
+11,2018-12,6490,male,neutral,health insurance
+0,2018-01,4027,female,neutral,health insurance
+1,2018-02,3740,female,neutral,health insurance
+2,2018-03,4185,female,neutral,health insurance
+3,2018-04,3600,female,neutral,health insurance
+4,2018-05,3647,female,neutral,health insurance
+5,2018-06,2639,female,neutral,health insurance
+6,2018-07,2950,female,neutral,health insurance
+7,2018-08,2448,female,neutral,health insurance
+8,2018-09,3234,female,neutral,health insurance
+9,2018-10,4791,female,neutral,health insurance
+10,2018-11,8451,female,neutral,health insurance
+11,2018-12,2114,female,neutral,health insurance
+0,2018-01,11883,male,positive,health insurance
+1,2018-02,7828,male,positive,health insurance
+2,2018-03,9313,male,positive,health insurance
+3,2018-04,7127,male,positive,health insurance
+4,2018-05,9779,male,positive,health insurance
+5,2018-06,7286,male,positive,health insurance
+6,2018-07,6987,male,positive,health insurance
+7,2018-08,5788,male,positive,health insurance
+8,2018-09,6322,male,positive,health insurance
+9,2018-10,9135,male,positive,health insurance
+10,2018-11,7555,male,positive,health insurance
+11,2018-12,5259,male,positive,health insurance
+0,2018-01,4873,female,positive,health insurance
+1,2018-02,3264,female,positive,health insurance
+2,2018-03,4105,female,positive,health insurance
+3,2018-04,2338,female,positive,health insurance
+4,2018-05,3397,female,positive,health insurance
+5,2018-06,2007,female,positive,health insurance
+6,2018-07,2749,female,positive,health insurance
+7,2018-08,2001,female,positive,health insurance
+8,2018-09,2076,female,positive,health insurance
+9,2018-10,2759,female,positive,health insurance
+10,2018-11,3231,female,positive,health insurance
+11,2018-12,1771,female,positive,health insurance
+0,2018-01,2324,male,negative,disease
+1,2018-02,2280,male,negative,disease
+2,2018-03,3389,male,negative,disease
+3,2018-04,3090,male,negative,disease
+4,2018-05,3224,male,negative,disease
+5,2018-06,1975,male,negative,disease
+6,2018-07,1678,male,negative,disease
+7,2018-08,1831,male,negative,disease
+8,2018-09,1803,male,negative,disease
+9,2018-10,1648,male,negative,disease
+10,2018-11,2200,male,negative,disease
+11,2018-12,1230,male,negative,disease
+0,2018-01,503,female,negative,disease
+1,2018-02,1337,female,negative,disease
+2,2018-03,1042,female,negative,disease
+3,2018-04,1412,female,negative,disease
+4,2018-05,930,female,negative,disease
+5,2018-06,544,female,negative,disease
+6,2018-07,482,female,negative,disease
+7,2018-08,584,female,negative,disease
+8,2018-09,595,female,negative,disease
+9,2018-10,1716,female,negative,disease
+10,2018-11,552,female,negative,disease
+11,2018-12,304,female,negative,disease
+0,2018-01,1607,male,neutral,disease
+1,2018-02,1616,male,neutral,disease
+2,2018-03,2066,male,neutral,disease
+3,2018-04,1594,male,neutral,disease
+4,2018-05,2587,male,neutral,disease
+5,2018-06,1387,male,neutral,disease
+6,2018-07,1175,male,neutral,disease
+7,2018-08,2148,male,neutral,disease
+8,2018-09,1528,male,neutral,disease
+9,2018-10,1844,male,neutral,disease
+10,2018-11,1343,male,neutral,disease
+11,2018-12,1108,male,neutral,disease
+0,2018-01,247,female,neutral,disease
+1,2018-02,396,female,neutral,disease
+2,2018-03,681,female,neutral,disease
+3,2018-04,502,female,neutral,disease
+4,2018-05,675,female,neutral,disease
+5,2018-06,617,female,neutral,disease
+6,2018-07,346,female,neutral,disease
+7,2018-08,517,female,neutral,disease
+8,2018-09,214,female,neutral,disease
+9,2018-10,413,female,neutral,disease
+10,2018-11,497,female,neutral,disease
+11,2018-12,372,female,neutral,disease
+0,2018-01,959,male,positive,disease
+1,2018-02,1114,male,positive,disease
+2,2018-03,1415,male,positive,disease
+3,2018-04,1073,male,positive,disease
+4,2018-05,1192,male,positive,disease
+5,2018-06,1288,male,positive,disease
+6,2018-07,728,male,positive,disease
+7,2018-08,1120,male,positive,disease
+8,2018-09,1231,male,positive,disease
+9,2018-10,1123,male,positive,disease
+10,2018-11,1125,male,positive,disease
+11,2018-12,708,male,positive,disease
+0,2018-01,225,female,positive,disease
+1,2018-02,305,female,positive,disease
+2,2018-03,612,female,positive,disease
+3,2018-04,285,female,positive,disease
+4,2018-05,204,female,positive,disease
+5,2018-06,337,female,positive,disease
+6,2018-07,232,female,positive,disease
+7,2018-08,208,female,positive,disease
+8,2018-09,305,female,positive,disease
+9,2018-10,301,female,positive,disease
+10,2018-11,114,female,positive,disease
+11,2018-12,159,female,positive,disease
+0,2018-01,519,male,negative,medicine
+1,2018-02,514,male,negative,medicine
+2,2018-03,509,male,negative,medicine
+3,2018-04,702,male,negative,medicine
+4,2018-05,406,male,negative,medicine
+5,2018-06,393,male,negative,medicine
+6,2018-07,494,male,negative,medicine
+7,2018-08,313,male,negative,medicine
+8,2018-09,267,male,negative,medicine
+9,2018-10,764,male,negative,medicine
+10,2018-11,822,male,negative,medicine
+11,2018-12,453,male,negative,medicine
+0,2018-01,300,female,negative,medicine
+1,2018-02,117,female,negative,medicine
+2,2018-03,178,female,negative,medicine
+3,2018-04,144,female,negative,medicine
+4,2018-05,99,female,negative,medicine
+5,2018-06,282,female,negative,medicine
+6,2018-07,73,female,negative,medicine
+7,2018-08,214,female,negative,medicine
+8,2018-09,97,female,negative,medicine
+9,2018-10,255,female,negative,medicine
+10,2018-11,90,female,negative,medicine
+11,2018-12,87,female,negative,medicine
+0,2018-01,1232,male,neutral,medicine
+1,2018-02,580,male,neutral,medicine
+2,2018-03,1326,male,neutral,medicine
+3,2018-04,1664,male,neutral,medicine
+4,2018-05,808,male,neutral,medicine
+5,2018-06,702,male,neutral,medicine
+6,2018-07,956,male,neutral,medicine
+7,2018-08,562,male,neutral,medicine
+8,2018-09,572,male,neutral,medicine
+9,2018-10,922,male,neutral,medicine
+10,2018-11,851,male,neutral,medicine
+11,2018-12,381,male,neutral,medicine
+0,2018-01,248,female,neutral,medicine
+1,2018-02,222,female,neutral,medicine
+2,2018-03,126,female,neutral,medicine
+3,2018-04,278,female,neutral,medicine
+4,2018-05,168,female,neutral,medicine
+5,2018-06,111,female,neutral,medicine
+6,2018-07,293,female,neutral,medicine
+7,2018-08,106,female,neutral,medicine
+8,2018-09,73,female,neutral,medicine
+9,2018-10,315,female,neutral,medicine
+10,2018-11,178,female,neutral,medicine
+11,2018-12,69,female,neutral,medicine
+0,2018-01,599,male,positive,medicine
+1,2018-02,852,male,positive,medicine
+2,2018-03,1043,male,positive,medicine
+3,2018-04,585,male,positive,medicine
+4,2018-05,950,male,positive,medicine
+5,2018-06,720,male,positive,medicine
+6,2018-07,521,male,positive,medicine
+7,2018-08,505,male,positive,medicine
+8,2018-09,479,male,positive,medicine
+9,2018-10,1371,male,positive,medicine
+10,2018-11,818,male,positive,medicine
+11,2018-12,430,male,positive,medicine
+0,2018-01,191,female,positive,medicine
+1,2018-02,85,female,positive,medicine
+2,2018-03,180,female,positive,medicine
+3,2018-04,80,female,positive,medicine
+4,2018-05,156,female,positive,medicine
+5,2018-06,456,female,positive,medicine
+6,2018-07,136,female,positive,medicine
+7,2018-08,153,female,positive,medicine
+8,2018-09,357,female,positive,medicine
+9,2018-10,226,female,positive,medicine
+10,2018-11,81,female,positive,medicine
+11,2018-12,125,female,positive,medicine
+0,2018-01,2872,male,negative,hospital
+1,2018-02,2883,male,negative,hospital
+2,2018-03,2676,male,negative,hospital
+3,2018-04,4041,male,negative,hospital
+4,2018-05,4054,male,negative,hospital
+5,2018-06,3121,male,negative,hospital
+6,2018-07,1938,male,negative,hospital
+7,2018-08,1888,male,negative,hospital
+8,2018-09,2111,male,negative,hospital
+9,2018-10,2223,male,negative,hospital
+10,2018-11,2493,male,negative,hospital
+11,2018-12,1562,male,negative,hospital
+0,2018-01,1157,female,negative,hospital
+1,2018-02,1011,female,negative,hospital
+2,2018-03,835,female,negative,hospital
+3,2018-04,877,female,negative,hospital
+4,2018-05,717,female,negative,hospital
+5,2018-06,659,female,negative,hospital
+6,2018-07,619,female,negative,hospital
+7,2018-08,531,female,negative,hospital
+8,2018-09,870,female,negative,hospital
+9,2018-10,1012,female,negative,hospital
+10,2018-11,544,female,negative,hospital
+11,2018-12,455,female,negative,hospital
+0,2018-01,2265,male,neutral,hospital
+1,2018-02,3717,male,neutral,hospital
+2,2018-03,3118,male,neutral,hospital
+3,2018-04,3466,male,neutral,hospital
+4,2018-05,2536,male,neutral,hospital
+5,2018-06,2610,male,neutral,hospital
+6,2018-07,2169,male,neutral,hospital
+7,2018-08,1892,male,neutral,hospital
+8,2018-09,2142,male,neutral,hospital
+9,2018-10,2128,male,neutral,hospital
+10,2018-11,1970,male,neutral,hospital
+11,2018-12,1564,male,neutral,hospital
+0,2018-01,790,female,neutral,hospital
+1,2018-02,571,female,neutral,hospital
+2,2018-03,608,female,neutral,hospital
+3,2018-04,747,female,neutral,hospital
+4,2018-05,825,female,neutral,hospital
+5,2018-06,935,female,neutral,hospital
+6,2018-07,401,female,neutral,hospital
+7,2018-08,530,female,neutral,hospital
+8,2018-09,658,female,neutral,hospital
+9,2018-10,811,female,neutral,hospital
+10,2018-11,439,female,neutral,hospital
+11,2018-12,371,female,neutral,hospital
+0,2018-01,3040,male,positive,hospital
+1,2018-02,1579,male,positive,hospital
+2,2018-03,1533,male,positive,hospital
+3,2018-04,2684,male,positive,hospital
+4,2018-05,2785,male,positive,hospital
+5,2018-06,1329,male,positive,hospital
+6,2018-07,1299,male,positive,hospital
+7,2018-08,1601,male,positive,hospital
+8,2018-09,997,male,positive,hospital
+9,2018-10,1523,male,positive,hospital
+10,2018-11,1247,male,positive,hospital
+11,2018-12,1459,male,positive,hospital
+0,2018-01,872,female,positive,hospital
+1,2018-02,621,female,positive,hospital
+2,2018-03,551,female,positive,hospital
+3,2018-04,661,female,positive,hospital
+4,2018-05,338,female,positive,hospital
+5,2018-06,594,female,positive,hospital
+6,2018-07,395,female,positive,hospital
+7,2018-08,429,female,positive,hospital
+8,2018-09,441,female,positive,hospital
+9,2018-10,702,female,positive,hospital
+10,2018-11,402,female,positive,hospital
+11,2018-12,729,female,positive,hospital
+0,2018-01,1058,male,negative,doctor
+1,2018-02,1461,male,negative,doctor
+2,2018-03,1663,male,negative,doctor
+3,2018-04,1689,male,negative,doctor
+4,2018-05,1919,male,negative,doctor
+5,2018-06,1229,male,negative,doctor
+6,2018-07,1053,male,negative,doctor
+7,2018-08,1168,male,negative,doctor
+8,2018-09,672,male,negative,doctor
+9,2018-10,1198,male,negative,doctor
+10,2018-11,829,male,negative,doctor
+11,2018-12,674,male,negative,doctor
+0,2018-01,1340,female,negative,doctor
+1,2018-02,762,female,negative,doctor
+2,2018-03,471,female,negative,doctor
+3,2018-04,503,female,negative,doctor
+4,2018-05,324,female,negative,doctor
+5,2018-06,451,female,negative,doctor
+6,2018-07,301,female,negative,doctor
+7,2018-08,440,female,negative,doctor
+8,2018-09,282,female,negative,doctor
+9,2018-10,434,female,negative,doctor
+10,2018-11,474,female,negative,doctor
+11,2018-12,495,female,negative,doctor
+0,2018-01,1460,male,neutral,doctor
+1,2018-02,3233,male,neutral,doctor
+2,2018-03,2448,male,neutral,doctor
+3,2018-04,2224,male,neutral,doctor
+4,2018-05,2351,male,neutral,doctor
+5,2018-06,2550,male,neutral,doctor
+6,2018-07,1720,male,neutral,doctor
+7,2018-08,1241,male,neutral,doctor
+8,2018-09,2163,male,neutral,doctor
+9,2018-10,1273,male,neutral,doctor
+10,2018-11,1857,male,neutral,doctor
+11,2018-12,1054,male,neutral,doctor
+0,2018-01,603,female,neutral,doctor
+1,2018-02,963,female,neutral,doctor
+2,2018-03,757,female,neutral,doctor
+3,2018-04,961,female,neutral,doctor
+4,2018-05,481,female,neutral,doctor
+5,2018-06,388,female,neutral,doctor
+6,2018-07,531,female,neutral,doctor
+7,2018-08,307,female,neutral,doctor
+8,2018-09,437,female,neutral,doctor
+9,2018-10,609,female,neutral,doctor
+10,2018-11,541,female,neutral,doctor
+11,2018-12,343,female,neutral,doctor
+0,2018-01,962,male,positive,doctor
+1,2018-02,939,male,positive,doctor
+2,2018-03,823,male,positive,doctor
+3,2018-04,1629,male,positive,doctor
+4,2018-05,829,male,positive,doctor
+5,2018-06,864,male,positive,doctor
+6,2018-07,946,male,positive,doctor
+7,2018-08,702,male,positive,doctor
+8,2018-09,741,male,positive,doctor
+9,2018-10,484,male,positive,doctor
+10,2018-11,613,male,positive,doctor
+11,2018-12,640,male,positive,doctor
+0,2018-01,315,female,positive,doctor
+1,2018-02,241,female,positive,doctor
+2,2018-03,258,female,positive,doctor
+3,2018-04,287,female,positive,doctor
+4,2018-05,234,female,positive,doctor
+5,2018-06,172,female,positive,doctor
+6,2018-07,220,female,positive,doctor
+7,2018-08,150,female,positive,doctor
+8,2018-09,304,female,positive,doctor
+9,2018-10,270,female,positive,doctor
+10,2018-11,193,female,positive,doctor
+11,2018-12,115,female,positive,doctor
+0,2018-01,97,male,negative,nurse
+1,2018-02,599,male,negative,nurse
+2,2018-03,101,male,negative,nurse
+3,2018-04,247,male,negative,nurse
+4,2018-05,204,male,negative,nurse
+5,2018-06,99,male,negative,nurse
+6,2018-07,48,male,negative,nurse
+7,2018-08,69,male,negative,nurse
+8,2018-09,76,male,negative,nurse
+9,2018-10,108,male,negative,nurse
+10,2018-11,564,male,negative,nurse
+11,2018-12,67,male,negative,nurse
+0,2018-01,176,female,negative,nurse
+1,2018-02,106,female,negative,nurse
+2,2018-03,183,female,negative,nurse
+3,2018-04,107,female,negative,nurse
+4,2018-05,61,female,negative,nurse
+5,2018-06,48,female,negative,nurse
+6,2018-07,73,female,negative,nurse
+7,2018-08,137,female,negative,nurse
+8,2018-09,187,female,negative,nurse
+9,2018-10,151,female,negative,nurse
+10,2018-11,35,female,negative,nurse
+11,2018-12,42,female,negative,nurse
+0,2018-01,239,male,neutral,nurse
+1,2018-02,225,male,neutral,nurse
+2,2018-03,1452,male,neutral,nurse
+3,2018-04,309,male,neutral,nurse
+4,2018-05,341,male,neutral,nurse
+5,2018-06,250,male,neutral,nurse
+6,2018-07,89,male,neutral,nurse
+7,2018-08,143,male,neutral,nurse
+8,2018-09,172,male,neutral,nurse
+9,2018-10,467,male,neutral,nurse
+10,2018-11,211,male,neutral,nurse
+11,2018-12,181,male,neutral,nurse
+0,2018-01,97,female,neutral,nurse
+1,2018-02,282,female,neutral,nurse
+2,2018-03,125,female,neutral,nurse
+3,2018-04,136,female,neutral,nurse
+4,2018-05,283,female,neutral,nurse
+5,2018-06,58,female,neutral,nurse
+6,2018-07,177,female,neutral,nurse
+7,2018-08,53,female,neutral,nurse
+8,2018-09,198,female,neutral,nurse
+9,2018-10,62,female,neutral,nurse
+10,2018-11,95,female,neutral,nurse
+11,2018-12,87,female,neutral,nurse
+0,2018-01,119,male,positive,nurse
+1,2018-02,208,male,positive,nurse
+2,2018-03,182,male,positive,nurse
+3,2018-04,214,male,positive,nurse
+4,2018-05,315,male,positive,nurse
+5,2018-06,60,male,positive,nurse
+6,2018-07,123,male,positive,nurse
+7,2018-08,141,male,positive,nurse
+8,2018-09,58,male,positive,nurse
+9,2018-10,102,male,positive,nurse
+10,2018-11,83,male,positive,nurse
+11,2018-12,187,male,positive,nurse
+0,2018-01,359,female,positive,nurse
+1,2018-02,88,female,positive,nurse
+2,2018-03,95,female,positive,nurse
+3,2018-04,118,female,positive,nurse
+4,2018-05,77,female,positive,nurse
+5,2018-06,50,female,positive,nurse
+6,2018-07,172,female,positive,nurse
+7,2018-08,116,female,positive,nurse
+8,2018-09,43,female,positive,nurse
+9,2018-10,187,female,positive,nurse
+10,2018-11,49,female,positive,nurse
+11,2018-12,179,female,positive,nurse
+0,2019-01,7177,male,negative,health insurance
+1,2019-02,5108,male,negative,health insurance
+2,2019-03,7406,male,negative,health insurance
+3,2019-04,5019,male,negative,health insurance
+4,2019-05,8717,male,negative,health insurance
+5,2019-06,7957,male,negative,health insurance
+6,2019-07,7246,male,negative,health insurance
+7,2019-08,7067,male,negative,health insurance
+8,2019-09,6957,male,negative,health insurance
+9,2019-10,6454,male,negative,health insurance
+10,2019-11,5952,male,negative,health insurance
+11,2019-12,5364,male,negative,health insurance
+0,2019-01,2709,female,negative,health insurance
+1,2019-02,2752,female,negative,health insurance
+2,2019-03,2809,female,negative,health insurance
+3,2019-04,2468,female,negative,health insurance
+4,2019-05,4855,female,negative,health insurance
+5,2019-06,3830,female,negative,health insurance
+6,2019-07,2021,female,negative,health insurance
+7,2019-08,2498,female,negative,health insurance
+8,2019-09,2347,female,negative,health insurance
+9,2019-10,2025,female,negative,health insurance
+10,2019-11,2582,female,negative,health insurance
+11,2019-12,1583,female,negative,health insurance
+0,2019-01,6736,male,neutral,health insurance
+1,2019-02,5842,male,neutral,health insurance
+2,2019-03,8437,male,neutral,health insurance
+3,2019-04,6153,male,neutral,health insurance
+4,2019-05,8381,male,neutral,health insurance
+5,2019-06,8443,male,neutral,health insurance
+6,2019-07,5859,male,neutral,health insurance
+7,2019-08,6020,male,neutral,health insurance
+8,2019-09,8392,male,neutral,health insurance
+9,2019-10,8775,male,neutral,health insurance
+10,2019-11,6759,male,neutral,health insurance
+11,2019-12,5239,male,neutral,health insurance
+0,2019-01,2764,female,neutral,health insurance
+1,2019-02,2284,female,neutral,health insurance
+2,2019-03,3188,female,neutral,health insurance
+3,2019-04,2842,female,neutral,health insurance
+4,2019-05,3451,female,neutral,health insurance
+5,2019-06,3087,female,neutral,health insurance
+6,2019-07,2289,female,neutral,health insurance
+7,2019-08,5043,female,neutral,health insurance
+8,2019-09,2657,female,neutral,health insurance
+9,2019-10,2994,female,neutral,health insurance
+10,2019-11,2655,female,neutral,health insurance
+11,2019-12,2000,female,neutral,health insurance
+0,2019-01,5889,male,positive,health insurance
+1,2019-02,5613,male,positive,health insurance
+2,2019-03,6107,male,positive,health insurance
+3,2019-04,5483,male,positive,health insurance
+4,2019-05,7871,male,positive,health insurance
+5,2019-06,6809,male,positive,health insurance
+6,2019-07,4461,male,positive,health insurance
+7,2019-08,5046,male,positive,health insurance
+8,2019-09,6427,male,positive,health insurance
+9,2019-10,5557,male,positive,health insurance
+10,2019-11,6320,male,positive,health insurance
+11,2019-12,4132,male,positive,health insurance
+0,2019-01,1961,female,positive,health insurance
+1,2019-02,2112,female,positive,health insurance
+2,2019-03,2410,female,positive,health insurance
+3,2019-04,1585,female,positive,health insurance
+4,2019-05,2938,female,positive,health insurance
+5,2019-06,2595,female,positive,health insurance
+6,2019-07,1490,female,positive,health insurance
+7,2019-08,1508,female,positive,health insurance
+8,2019-09,2049,female,positive,health insurance
+9,2019-10,1752,female,positive,health insurance
+10,2019-11,1412,female,positive,health insurance
+11,2019-12,1333,female,positive,health insurance
+0,2019-01,1409,male,negative,disease
+1,2019-02,1222,male,negative,disease
+2,2019-03,1772,male,negative,disease
+3,2019-04,1502,male,negative,disease
+4,2019-05,1902,male,negative,disease
+5,2019-06,1856,male,negative,disease
+6,2019-07,1072,male,negative,disease
+7,2019-08,1155,male,negative,disease
+8,2019-09,1476,male,negative,disease
+9,2019-10,1848,male,negative,disease
+10,2019-11,1119,male,negative,disease
+11,2019-12,1373,male,negative,disease
+0,2019-01,357,female,negative,disease
+1,2019-02,600,female,negative,disease
+2,2019-03,1031,female,negative,disease
+3,2019-04,367,female,negative,disease
+4,2019-05,451,female,negative,disease
+5,2019-06,621,female,negative,disease
+6,2019-07,228,female,negative,disease
+7,2019-08,557,female,negative,disease
+8,2019-09,660,female,negative,disease
+9,2019-10,710,female,negative,disease
+10,2019-11,332,female,negative,disease
+11,2019-12,542,female,negative,disease
+0,2019-01,1362,male,neutral,disease
+1,2019-02,931,male,neutral,disease
+2,2019-03,1464,male,neutral,disease
+3,2019-04,938,male,neutral,disease
+4,2019-05,1280,male,neutral,disease
+5,2019-06,1312,male,neutral,disease
+6,2019-07,634,male,neutral,disease
+7,2019-08,1148,male,neutral,disease
+8,2019-09,1260,male,neutral,disease
+9,2019-10,1168,male,neutral,disease
+10,2019-11,920,male,neutral,disease
+11,2019-12,1180,male,neutral,disease
+0,2019-01,229,female,neutral,disease
+1,2019-02,445,female,neutral,disease
+2,2019-03,346,female,neutral,disease
+3,2019-04,389,female,neutral,disease
+4,2019-05,316,female,neutral,disease
+5,2019-06,690,female,neutral,disease
+6,2019-07,183,female,neutral,disease
+7,2019-08,273,female,neutral,disease
+8,2019-09,319,female,neutral,disease
+9,2019-10,547,female,neutral,disease
+10,2019-11,239,female,neutral,disease
+11,2019-12,298,female,neutral,disease
+0,2019-01,843,male,positive,disease
+1,2019-02,551,male,positive,disease
+2,2019-03,1319,male,positive,disease
+3,2019-04,522,male,positive,disease
+4,2019-05,1297,male,positive,disease
+5,2019-06,815,male,positive,disease
+6,2019-07,459,male,positive,disease
+7,2019-08,1089,male,positive,disease
+8,2019-09,773,male,positive,disease
+9,2019-10,854,male,positive,disease
+10,2019-11,740,male,positive,disease
+11,2019-12,629,male,positive,disease
+0,2019-01,203,female,positive,disease
+1,2019-02,212,female,positive,disease
+2,2019-03,147,female,positive,disease
+3,2019-04,194,female,positive,disease
+4,2019-05,162,female,positive,disease
+5,2019-06,147,female,positive,disease
+6,2019-07,139,female,positive,disease
+7,2019-08,193,female,positive,disease
+8,2019-09,248,female,positive,disease
+9,2019-10,166,female,positive,disease
+10,2019-11,105,female,positive,disease
+11,2019-12,255,female,positive,disease
+0,2019-01,547,male,negative,medicine
+1,2019-02,1024,male,negative,medicine
+2,2019-03,620,male,negative,medicine
+3,2019-04,792,male,negative,medicine
+4,2019-05,260,male,negative,medicine
+5,2019-06,580,male,negative,medicine
+6,2019-07,220,male,negative,medicine
+7,2019-08,476,male,negative,medicine
+8,2019-09,645,male,negative,medicine
+9,2019-10,415,male,negative,medicine
+10,2019-11,236,male,negative,medicine
+11,2019-12,421,male,negative,medicine
+0,2019-01,153,female,negative,medicine
+1,2019-02,259,female,negative,medicine
+2,2019-03,77,female,negative,medicine
+3,2019-04,108,female,negative,medicine
+4,2019-05,275,female,negative,medicine
+5,2019-06,108,female,negative,medicine
+6,2019-07,176,female,negative,medicine
+7,2019-08,53,female,negative,medicine
+8,2019-09,50,female,negative,medicine
+9,2019-10,70,female,negative,medicine
+10,2019-11,87,female,negative,medicine
+11,2019-12,169,female,negative,medicine
+0,2019-01,486,male,neutral,medicine
+1,2019-02,701,male,neutral,medicine
+2,2019-03,681,male,neutral,medicine
+3,2019-04,560,male,neutral,medicine
+4,2019-05,783,male,neutral,medicine
+5,2019-06,586,male,neutral,medicine
+6,2019-07,329,male,neutral,medicine
+7,2019-08,2661,male,neutral,medicine
+8,2019-09,789,male,neutral,medicine
+9,2019-10,881,male,neutral,medicine
+10,2019-11,600,male,neutral,medicine
+11,2019-12,509,male,neutral,medicine
+0,2019-01,95,female,neutral,medicine
+1,2019-02,167,female,neutral,medicine
+2,2019-03,114,female,neutral,medicine
+3,2019-04,161,female,neutral,medicine
+4,2019-05,131,female,neutral,medicine
+5,2019-06,96,female,neutral,medicine
+6,2019-07,83,female,neutral,medicine
+7,2019-08,2845,female,neutral,medicine
+8,2019-09,384,female,neutral,medicine
+9,2019-10,117,female,neutral,medicine
+10,2019-11,119,female,neutral,medicine
+11,2019-12,151,female,neutral,medicine
+0,2019-01,397,male,positive,medicine
+1,2019-02,489,male,positive,medicine
+2,2019-03,504,male,positive,medicine
+3,2019-04,522,male,positive,medicine
+4,2019-05,509,male,positive,medicine
+5,2019-06,514,male,positive,medicine
+6,2019-07,294,male,positive,medicine
+7,2019-08,592,male,positive,medicine
+8,2019-09,538,male,positive,medicine
+9,2019-10,527,male,positive,medicine
+10,2019-11,532,male,positive,medicine
+11,2019-12,435,male,positive,medicine
+0,2019-01,68,female,positive,medicine
+1,2019-02,113,female,positive,medicine
+2,2019-03,153,female,positive,medicine
+3,2019-04,109,female,positive,medicine
+4,2019-05,82,female,positive,medicine
+5,2019-06,104,female,positive,medicine
+6,2019-07,106,female,positive,medicine
+7,2019-08,98,female,positive,medicine
+8,2019-09,165,female,positive,medicine
+9,2019-10,134,female,positive,medicine
+10,2019-11,106,female,positive,medicine
+11,2019-12,184,female,positive,medicine
+0,2019-01,1771,male,negative,hospital
+1,2019-02,1647,male,negative,hospital
+2,2019-03,1303,male,negative,hospital
+3,2019-04,1020,male,negative,hospital
+4,2019-05,1909,male,negative,hospital
+5,2019-06,2221,male,negative,hospital
+6,2019-07,1452,male,negative,hospital
+7,2019-08,1765,male,negative,hospital
+8,2019-09,1965,male,negative,hospital
+9,2019-10,1606,male,negative,hospital
+10,2019-11,1610,male,negative,hospital
+11,2019-12,2314,male,negative,hospital
+0,2019-01,396,female,negative,hospital
+1,2019-02,655,female,negative,hospital
+2,2019-03,604,female,negative,hospital
+3,2019-04,412,female,negative,hospital
+4,2019-05,1097,female,negative,hospital
+5,2019-06,1001,female,negative,hospital
+6,2019-07,406,female,negative,hospital
+7,2019-08,495,female,negative,hospital
+8,2019-09,338,female,negative,hospital
+9,2019-10,705,female,negative,hospital
+10,2019-11,691,female,negative,hospital
+11,2019-12,594,female,negative,hospital
+0,2019-01,2055,male,neutral,hospital
+1,2019-02,1269,male,neutral,hospital
+2,2019-03,1807,male,neutral,hospital
+3,2019-04,1320,male,neutral,hospital
+4,2019-05,2944,male,neutral,hospital
+5,2019-06,2741,male,neutral,hospital
+6,2019-07,1237,male,neutral,hospital
+7,2019-08,1449,male,neutral,hospital
+8,2019-09,1537,male,neutral,hospital
+9,2019-10,1851,male,neutral,hospital
+10,2019-11,2382,male,neutral,hospital
+11,2019-12,1452,male,neutral,hospital
+0,2019-01,358,female,neutral,hospital
+1,2019-02,393,female,neutral,hospital
+2,2019-03,593,female,neutral,hospital
+3,2019-04,417,female,neutral,hospital
+4,2019-05,729,female,neutral,hospital
+5,2019-06,800,female,neutral,hospital
+6,2019-07,624,female,neutral,hospital
+7,2019-08,302,female,neutral,hospital
+8,2019-09,373,female,neutral,hospital
+9,2019-10,479,female,neutral,hospital
+10,2019-11,529,female,neutral,hospital
+11,2019-12,414,female,neutral,hospital
+0,2019-01,1476,male,positive,hospital
+1,2019-02,854,male,positive,hospital
+2,2019-03,770,male,positive,hospital
+3,2019-04,1160,male,positive,hospital
+4,2019-05,1086,male,positive,hospital
+5,2019-06,1358,male,positive,hospital
+6,2019-07,710,male,positive,hospital
+7,2019-08,1279,male,positive,hospital
+8,2019-09,1465,male,positive,hospital
+9,2019-10,1902,male,positive,hospital
+10,2019-11,1167,male,positive,hospital
+11,2019-12,986,male,positive,hospital
+0,2019-01,272,female,positive,hospital
+1,2019-02,384,female,positive,hospital
+2,2019-03,274,female,positive,hospital
+3,2019-04,265,female,positive,hospital
+4,2019-05,284,female,positive,hospital
+5,2019-06,343,female,positive,hospital
+6,2019-07,333,female,positive,hospital
+7,2019-08,552,female,positive,hospital
+8,2019-09,246,female,positive,hospital
+9,2019-10,230,female,positive,hospital
+10,2019-11,244,female,positive,hospital
+11,2019-12,657,female,positive,hospital
+0,2019-01,657,male,negative,doctor
+1,2019-02,907,male,negative,doctor
+2,2019-03,832,male,negative,doctor
+3,2019-04,479,male,negative,doctor
+4,2019-05,1003,male,negative,doctor
+5,2019-06,1050,male,negative,doctor
+6,2019-07,472,male,negative,doctor
+7,2019-08,734,male,negative,doctor
+8,2019-09,897,male,negative,doctor
+9,2019-10,1055,male,negative,doctor
+10,2019-11,1093,male,negative,doctor
+11,2019-12,512,male,negative,doctor
+0,2019-01,451,female,negative,doctor
+1,2019-02,388,female,negative,doctor
+2,2019-03,319,female,negative,doctor
+3,2019-04,245,female,negative,doctor
+4,2019-05,296,female,negative,doctor
+5,2019-06,504,female,negative,doctor
+6,2019-07,155,female,negative,doctor
+7,2019-08,198,female,negative,doctor
+8,2019-09,299,female,negative,doctor
+9,2019-10,258,female,negative,doctor
+10,2019-11,181,female,negative,doctor
+11,2019-12,144,female,negative,doctor
+0,2019-01,1103,male,neutral,doctor
+1,2019-02,1501,male,neutral,doctor
+2,2019-03,1180,male,neutral,doctor
+3,2019-04,1360,male,neutral,doctor
+4,2019-05,1762,male,neutral,doctor
+5,2019-06,1140,male,neutral,doctor
+6,2019-07,906,male,neutral,doctor
+7,2019-08,1088,male,neutral,doctor
+8,2019-09,980,male,neutral,doctor
+9,2019-10,1778,male,neutral,doctor
+10,2019-11,1426,male,neutral,doctor
+11,2019-12,673,male,neutral,doctor
+0,2019-01,443,female,neutral,doctor
+1,2019-02,414,female,neutral,doctor
+2,2019-03,570,female,neutral,doctor
+3,2019-04,316,female,neutral,doctor
+4,2019-05,362,female,neutral,doctor
+5,2019-06,346,female,neutral,doctor
+6,2019-07,220,female,neutral,doctor
+7,2019-08,365,female,neutral,doctor
+8,2019-09,448,female,neutral,doctor
+9,2019-10,705,female,neutral,doctor
+10,2019-11,495,female,neutral,doctor
+11,2019-12,135,female,neutral,doctor
+0,2019-01,297,male,positive,doctor
+1,2019-02,343,male,positive,doctor
+2,2019-03,443,male,positive,doctor
+3,2019-04,426,male,positive,doctor
+4,2019-05,556,male,positive,doctor
+5,2019-06,750,male,positive,doctor
+6,2019-07,331,male,positive,doctor
+7,2019-08,341,male,positive,doctor
+8,2019-09,423,male,positive,doctor
+9,2019-10,417,male,positive,doctor
+10,2019-11,658,male,positive,doctor
+11,2019-12,470,male,positive,doctor
+0,2019-01,324,female,positive,doctor
+1,2019-02,85,female,positive,doctor
+2,2019-03,136,female,positive,doctor
+3,2019-04,131,female,positive,doctor
+4,2019-05,173,female,positive,doctor
+5,2019-06,95,female,positive,doctor
+6,2019-07,87,female,positive,doctor
+7,2019-08,64,female,positive,doctor
+8,2019-09,218,female,positive,doctor
+9,2019-10,125,female,positive,doctor
+10,2019-11,72,female,positive,doctor
+11,2019-12,151,female,positive,doctor
+0,2019-01,76,male,negative,nurse
+1,2019-02,50,male,negative,nurse
+2,2019-03,82,male,negative,nurse
+3,2019-04,79,male,negative,nurse
+4,2019-05,169,male,negative,nurse
+5,2019-06,73,male,negative,nurse
+6,2019-07,44,male,negative,nurse
+7,2019-08,80,male,negative,nurse
+8,2019-09,49,male,negative,nurse
+9,2019-10,88,male,negative,nurse
+10,2019-11,290,male,negative,nurse
+11,2019-12,138,male,negative,nurse
+0,2019-01,53,female,negative,nurse
+1,2019-02,49,female,negative,nurse
+2,2019-03,53,female,negative,nurse
+3,2019-04,65,female,negative,nurse
+4,2019-05,101,female,negative,nurse
+5,2019-06,37,female,negative,nurse
+6,2019-07,15,female,negative,nurse
+7,2019-08,32,female,negative,nurse
+8,2019-09,30,female,negative,nurse
+9,2019-10,43,female,negative,nurse
+10,2019-11,142,female,negative,nurse
+11,2019-12,97,female,negative,nurse
+0,2019-01,141,male,neutral,nurse
+1,2019-02,203,male,neutral,nurse
+2,2019-03,120,male,neutral,nurse
+3,2019-04,527,male,neutral,nurse
+4,2019-05,135,male,neutral,nurse
+5,2019-06,287,male,neutral,nurse
+6,2019-07,102,male,neutral,nurse
+7,2019-08,312,male,neutral,nurse
+8,2019-09,119,male,neutral,nurse
+9,2019-10,157,male,neutral,nurse
+10,2019-11,468,male,neutral,nurse
+11,2019-12,324,male,neutral,nurse
+0,2019-01,306,female,neutral,nurse
+1,2019-02,112,female,neutral,nurse
+2,2019-03,73,female,neutral,nurse
+3,2019-04,56,female,neutral,nurse
+4,2019-05,199,female,neutral,nurse
+5,2019-06,54,female,neutral,nurse
+6,2019-07,33,female,neutral,nurse
+7,2019-08,59,female,neutral,nurse
+8,2019-09,135,female,neutral,nurse
+9,2019-10,105,female,neutral,nurse
+10,2019-11,71,female,neutral,nurse
+11,2019-12,36,female,neutral,nurse
+0,2019-01,51,male,positive,nurse
+1,2019-02,85,male,positive,nurse
+2,2019-03,35,male,positive,nurse
+3,2019-04,60,male,positive,nurse
+4,2019-05,125,male,positive,nurse
+5,2019-06,59,male,positive,nurse
+6,2019-07,51,male,positive,nurse
+7,2019-08,93,male,positive,nurse
+8,2019-09,121,male,positive,nurse
+9,2019-10,89,male,positive,nurse
+10,2019-11,94,male,positive,nurse
+11,2019-12,243,male,positive,nurse
+0,2019-01,30,female,positive,nurse
+1,2019-02,93,female,positive,nurse
+2,2019-03,117,female,positive,nurse
+3,2019-04,42,female,positive,nurse
+4,2019-05,68,female,positive,nurse
+5,2019-06,163,female,positive,nurse
+6,2019-07,23,female,positive,nurse
+7,2019-08,41,female,positive,nurse
+8,2019-09,67,female,positive,nurse
+9,2019-10,60,female,positive,nurse
+10,2019-11,69,female,positive,nurse
+11,2019-12,21,female,positive,nurse
+0,2020-01,5980,male,negative,health insurance
+1,2020-02,8351,male,negative,health insurance
+2,2020-03,17986,male,negative,health insurance
+3,2020-04,6897,male,negative,health insurance
+0,2020-01,1509,female,negative,health insurance
+1,2020-02,2175,female,negative,health insurance
+2,2020-03,4038,female,negative,health insurance
+3,2020-04,1748,female,negative,health insurance
+0,2020-01,7953,male,neutral,health insurance
+1,2020-02,10106,male,neutral,health insurance
+2,2020-03,30496,male,neutral,health insurance
+3,2020-04,9204,male,neutral,health insurance
+0,2020-01,1874,female,neutral,health insurance
+1,2020-02,2058,female,neutral,health insurance
+2,2020-03,7956,female,neutral,health insurance
+3,2020-04,2522,female,neutral,health insurance
+0,2020-01,4493,male,positive,health insurance
+1,2020-02,5948,male,positive,health insurance
+2,2020-03,13773,male,positive,health insurance
+3,2020-04,5557,male,positive,health insurance
+0,2020-01,1477,female,positive,health insurance
+1,2020-02,1806,female,positive,health insurance
+2,2020-03,3200,female,positive,health insurance
+3,2020-04,1017,female,positive,health insurance
+0,2020-01,2733,male,negative,disease
+1,2020-02,3807,male,negative,disease
+2,2020-03,8710,male,negative,disease
+3,2020-04,3261,male,negative,disease
+0,2020-01,477,female,negative,disease
+1,2020-02,511,female,negative,disease
+2,2020-03,1614,female,negative,disease
+3,2020-04,519,female,negative,disease
+0,2020-01,1651,male,neutral,disease
+1,2020-02,4003,male,neutral,disease
+2,2020-03,7931,male,neutral,disease
+3,2020-04,2409,male,neutral,disease
+0,2020-01,527,female,neutral,disease
+1,2020-02,430,female,neutral,disease
+2,2020-03,1071,female,neutral,disease
+3,2020-04,384,female,neutral,disease
+0,2020-01,1198,male,positive,disease
+1,2020-02,916,male,positive,disease
+2,2020-03,2079,male,positive,disease
+3,2020-04,826,male,positive,disease
+0,2020-01,300,female,positive,disease
+1,2020-02,122,female,positive,disease
+2,2020-03,259,female,positive,disease
+3,2020-04,276,female,positive,disease
+0,2020-01,287,male,negative,medicine
+1,2020-02,338,male,negative,medicine
+2,2020-03,691,male,negative,medicine
+3,2020-04,188,male,negative,medicine
+0,2020-01,42,female,negative,medicine
+1,2020-02,230,female,negative,medicine
+2,2020-03,98,female,negative,medicine
+3,2020-04,111,female,negative,medicine
+0,2020-01,414,male,neutral,medicine
+1,2020-02,400,male,neutral,medicine
+2,2020-03,1035,male,neutral,medicine
+3,2020-04,521,male,neutral,medicine
+0,2020-01,204,female,neutral,medicine
+1,2020-02,100,female,neutral,medicine
+2,2020-03,413,female,neutral,medicine
+3,2020-04,47,female,neutral,medicine
+0,2020-01,526,male,positive,medicine
+1,2020-02,354,male,positive,medicine
+2,2020-03,904,male,positive,medicine
+3,2020-04,225,male,positive,medicine
+0,2020-01,89,female,positive,medicine
+1,2020-02,77,female,positive,medicine
+2,2020-03,74,female,positive,medicine
+3,2020-04,51,female,positive,medicine
+0,2020-01,1531,male,negative,hospital
+1,2020-02,1802,male,negative,hospital
+2,2020-03,3525,male,negative,hospital
+3,2020-04,2011,male,negative,hospital
+0,2020-01,321,female,negative,hospital
+1,2020-02,646,female,negative,hospital
+2,2020-03,1423,female,negative,hospital
+3,2020-04,558,female,negative,hospital
+0,2020-01,1682,male,neutral,hospital
+1,2020-02,2550,male,neutral,hospital
+2,2020-03,5325,male,neutral,hospital
+3,2020-04,2858,male,neutral,hospital
+0,2020-01,409,female,neutral,hospital
+1,2020-02,411,female,neutral,hospital
+2,2020-03,1696,female,neutral,hospital
+3,2020-04,740,female,neutral,hospital
+0,2020-01,1505,male,positive,hospital
+1,2020-02,1401,male,positive,hospital
+2,2020-03,2041,male,positive,hospital
+3,2020-04,2105,male,positive,hospital
+0,2020-01,303,female,positive,hospital
+1,2020-02,252,female,positive,hospital
+2,2020-03,477,female,positive,hospital
+3,2020-04,462,female,positive,hospital
+0,2020-01,630,male,negative,doctor
+1,2020-02,759,male,negative,doctor
+2,2020-03,1342,male,negative,doctor
+3,2020-04,505,male,negative,doctor
+0,2020-01,277,female,negative,doctor
+1,2020-02,166,female,negative,doctor
+2,2020-03,623,female,negative,doctor
+3,2020-04,80,female,negative,doctor
+0,2020-01,1006,male,neutral,doctor
+1,2020-02,1387,male,neutral,doctor
+2,2020-03,2455,male,neutral,doctor
+3,2020-04,845,male,neutral,doctor
+0,2020-01,494,female,neutral,doctor
+1,2020-02,223,female,neutral,doctor
+2,2020-03,500,female,neutral,doctor
+3,2020-04,202,female,neutral,doctor
+0,2020-01,436,male,positive,doctor
+1,2020-02,684,male,positive,doctor
+2,2020-03,596,male,positive,doctor
+3,2020-04,525,male,positive,doctor
+0,2020-01,129,female,positive,doctor
+1,2020-02,98,female,positive,doctor
+2,2020-03,117,female,positive,doctor
+3,2020-04,124,female,positive,doctor
+0,2020-01,39,male,negative,nurse
+1,2020-02,74,male,negative,nurse
+2,2020-03,191,male,negative,nurse
+3,2020-04,113,male,negative,nurse
+0,2020-01,138,female,negative,nurse
+1,2020-02,38,female,negative,nurse
+2,2020-03,117,female,negative,nurse
+3,2020-04,37,female,negative,nurse
+0,2020-01,122,male,neutral,nurse
+1,2020-02,102,male,neutral,nurse
+2,2020-03,242,male,neutral,nurse
+3,2020-04,227,male,neutral,nurse
+0,2020-01,81,female,neutral,nurse
+1,2020-02,172,female,neutral,nurse
+2,2020-03,110,female,neutral,nurse
+3,2020-04,57,female,neutral,nurse
+0,2020-01,98,male,positive,nurse
+1,2020-02,172,male,positive,nurse
+2,2020-03,41,male,positive,nurse
+3,2020-04,187,male,positive,nurse
+0,2020-01,66,female,positive,nurse
+1,2020-02,124,female,positive,nurse
+2,2020-03,78,female,positive,nurse
+3,2020-04,49,female,positive,nurse

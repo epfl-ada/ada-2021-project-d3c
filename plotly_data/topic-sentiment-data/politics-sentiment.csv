@@ -1,0 +1,2303 @@
+,date,numOccurrences,gender,sentiment,topic
+0,2015-01,1881,male,negative,vote
+1,2015-02,2157,male,negative,vote
+2,2015-03,2490,male,negative,vote
+3,2015-04,1942,male,negative,vote
+4,2015-05,1218,male,negative,vote
+5,2015-06,1451,male,negative,vote
+6,2015-07,2831,male,negative,vote
+7,2015-08,3704,male,negative,vote
+8,2015-09,5371,male,negative,vote
+9,2015-10,3693,male,negative,vote
+10,2015-11,2695,male,negative,vote
+11,2015-12,2618,male,negative,vote
+0,2015-01,257,female,negative,vote
+1,2015-02,249,female,negative,vote
+2,2015-03,484,female,negative,vote
+3,2015-04,2335,female,negative,vote
+4,2015-05,232,female,negative,vote
+5,2015-06,347,female,negative,vote
+6,2015-07,498,female,negative,vote
+7,2015-08,581,female,negative,vote
+8,2015-09,605,female,negative,vote
+9,2015-10,1022,female,negative,vote
+10,2015-11,506,female,negative,vote
+11,2015-12,890,female,negative,vote
+0,2015-01,3332,male,neutral,vote
+1,2015-02,3110,male,neutral,vote
+2,2015-03,3908,male,neutral,vote
+3,2015-04,2644,male,neutral,vote
+4,2015-05,2582,male,neutral,vote
+5,2015-06,1795,male,neutral,vote
+6,2015-07,4479,male,neutral,vote
+7,2015-08,6394,male,neutral,vote
+8,2015-09,10041,male,neutral,vote
+9,2015-10,7753,male,neutral,vote
+10,2015-11,3496,male,neutral,vote
+11,2015-12,4767,male,neutral,vote
+0,2015-01,374,female,neutral,vote
+1,2015-02,592,female,neutral,vote
+2,2015-03,610,female,neutral,vote
+3,2015-04,839,female,neutral,vote
+4,2015-05,435,female,neutral,vote
+5,2015-06,344,female,neutral,vote
+6,2015-07,757,female,neutral,vote
+7,2015-08,852,female,neutral,vote
+8,2015-09,1177,female,neutral,vote
+9,2015-10,1229,female,neutral,vote
+10,2015-11,884,female,neutral,vote
+11,2015-12,585,female,neutral,vote
+0,2015-01,866,male,positive,vote
+1,2015-02,1192,male,positive,vote
+2,2015-03,1043,male,positive,vote
+3,2015-04,986,male,positive,vote
+4,2015-05,1158,male,positive,vote
+5,2015-06,598,male,positive,vote
+6,2015-07,1322,male,positive,vote
+7,2015-08,1625,male,positive,vote
+8,2015-09,1460,male,positive,vote
+9,2015-10,2230,male,positive,vote
+10,2015-11,1458,male,positive,vote
+11,2015-12,1564,male,positive,vote
+0,2015-01,179,female,positive,vote
+1,2015-02,456,female,positive,vote
+2,2015-03,314,female,positive,vote
+3,2015-04,697,female,positive,vote
+4,2015-05,214,female,positive,vote
+5,2015-06,65,female,positive,vote
+6,2015-07,244,female,positive,vote
+7,2015-08,338,female,positive,vote
+8,2015-09,1004,female,positive,vote
+9,2015-10,477,female,positive,vote
+10,2015-11,408,female,positive,vote
+11,2015-12,518,female,positive,vote
+0,2015-01,2394,male,negative,election
+1,2015-02,2135,male,negative,election
+2,2015-03,2731,male,negative,election
+3,2015-04,1638,male,negative,election
+4,2015-05,1287,male,negative,election
+5,2015-06,795,male,negative,election
+6,2015-07,1772,male,negative,election
+7,2015-08,4105,male,negative,election
+8,2015-09,4133,male,negative,election
+9,2015-10,4785,male,negative,election
+10,2015-11,3604,male,negative,election
+11,2015-12,2303,male,negative,election
+0,2015-01,310,female,negative,election
+1,2015-02,276,female,negative,election
+2,2015-03,306,female,negative,election
+3,2015-04,330,female,negative,election
+4,2015-05,185,female,negative,election
+5,2015-06,144,female,negative,election
+6,2015-07,497,female,negative,election
+7,2015-08,754,female,negative,election
+8,2015-09,738,female,negative,election
+9,2015-10,451,female,negative,election
+10,2015-11,288,female,negative,election
+11,2015-12,518,female,negative,election
+0,2015-01,3250,male,neutral,election
+1,2015-02,3009,male,neutral,election
+2,2015-03,3731,male,neutral,election
+3,2015-04,2437,male,neutral,election
+4,2015-05,2139,male,neutral,election
+5,2015-06,1291,male,neutral,election
+6,2015-07,2876,male,neutral,election
+7,2015-08,7420,male,neutral,election
+8,2015-09,4607,male,neutral,election
+9,2015-10,5879,male,neutral,election
+10,2015-11,4535,male,neutral,election
+11,2015-12,4240,male,neutral,election
+0,2015-01,612,female,neutral,election
+1,2015-02,508,female,neutral,election
+2,2015-03,415,female,neutral,election
+3,2015-04,519,female,neutral,election
+4,2015-05,225,female,neutral,election
+5,2015-06,234,female,neutral,election
+6,2015-07,604,female,neutral,election
+7,2015-08,863,female,neutral,election
+8,2015-09,1183,female,neutral,election
+9,2015-10,1209,female,neutral,election
+10,2015-11,1203,female,neutral,election
+11,2015-12,789,female,neutral,election
+0,2015-01,1378,male,positive,election
+1,2015-02,981,male,positive,election
+2,2015-03,1061,male,positive,election
+3,2015-04,1323,male,positive,election
+4,2015-05,700,male,positive,election
+5,2015-06,369,male,positive,election
+6,2015-07,748,male,positive,election
+7,2015-08,1940,male,positive,election
+8,2015-09,2137,male,positive,election
+9,2015-10,2373,male,positive,election
+10,2015-11,2745,male,positive,election
+11,2015-12,1133,male,positive,election
+0,2015-01,156,female,positive,election
+1,2015-02,145,female,positive,election
+2,2015-03,202,female,positive,election
+3,2015-04,168,female,positive,election
+4,2015-05,182,female,positive,election
+5,2015-06,74,female,positive,election
+6,2015-07,221,female,positive,election
+7,2015-08,290,female,positive,election
+8,2015-09,621,female,positive,election
+9,2015-10,642,female,positive,election
+10,2015-11,282,female,positive,election
+11,2015-12,242,female,positive,election
+0,2015-01,12005,male,negative,government
+1,2015-02,12748,male,negative,government
+2,2015-03,14532,male,negative,government
+3,2015-04,11685,male,negative,government
+4,2015-05,9755,male,negative,government
+5,2015-06,8448,male,negative,government
+6,2015-07,18880,male,negative,government
+7,2015-08,24951,male,negative,government
+8,2015-09,25591,male,negative,government
+9,2015-10,23709,male,negative,government
+10,2015-11,16596,male,negative,government
+11,2015-12,21483,male,negative,government
+0,2015-01,2426,female,negative,government
+1,2015-02,2104,female,negative,government
+2,2015-03,2692,female,negative,government
+3,2015-04,1435,female,negative,government
+4,2015-05,1442,female,negative,government
+5,2015-06,1094,female,negative,government
+6,2015-07,3074,female,negative,government
+7,2015-08,5166,female,negative,government
+8,2015-09,4991,female,negative,government
+9,2015-10,5136,female,negative,government
+10,2015-11,3334,female,negative,government
+11,2015-12,4104,female,negative,government
+0,2015-01,16891,male,neutral,government
+1,2015-02,19737,male,neutral,government
+2,2015-03,19579,male,neutral,government
+3,2015-04,14378,male,neutral,government
+4,2015-05,10699,male,neutral,government
+5,2015-06,9764,male,neutral,government
+6,2015-07,18489,male,neutral,government
+7,2015-08,28170,male,neutral,government
+8,2015-09,35472,male,neutral,government
+9,2015-10,32073,male,neutral,government
+10,2015-11,22120,male,neutral,government
+11,2015-12,24433,male,neutral,government
+0,2015-01,3034,female,neutral,government
+1,2015-02,2855,female,neutral,government
+2,2015-03,3436,female,neutral,government
+3,2015-04,2270,female,neutral,government
+4,2015-05,1668,female,neutral,government
+5,2015-06,1375,female,neutral,government
+6,2015-07,3038,female,neutral,government
+7,2015-08,5990,female,neutral,government
+8,2015-09,5781,female,neutral,government
+9,2015-10,5580,female,neutral,government
+10,2015-11,3958,female,neutral,government
+11,2015-12,4176,female,neutral,government
+0,2015-01,6911,male,positive,government
+1,2015-02,7180,male,positive,government
+2,2015-03,6642,male,positive,government
+3,2015-04,4818,male,positive,government
+4,2015-05,4361,male,positive,government
+5,2015-06,2863,male,positive,government
+6,2015-07,6103,male,positive,government
+7,2015-08,10110,male,positive,government
+8,2015-09,13954,male,positive,government
+9,2015-10,10375,male,positive,government
+10,2015-11,8803,male,positive,government
+11,2015-12,9524,male,positive,government
+0,2015-01,1048,female,positive,government
+1,2015-02,1158,female,positive,government
+2,2015-03,1243,female,positive,government
+3,2015-04,903,female,positive,government
+4,2015-05,627,female,positive,government
+5,2015-06,535,female,positive,government
+6,2015-07,1206,female,positive,government
+7,2015-08,1895,female,positive,government
+8,2015-09,2018,female,positive,government
+9,2015-10,2629,female,positive,government
+10,2015-11,2025,female,positive,government
+11,2015-12,1659,female,positive,government
+0,2015-01,5823,male,negative,party politics
+1,2015-02,7398,male,negative,party politics
+2,2015-03,6694,male,negative,party politics
+3,2015-04,4918,male,negative,party politics
+4,2015-05,4321,male,negative,party politics
+5,2015-06,3302,male,negative,party politics
+6,2015-07,9634,male,negative,party politics
+7,2015-08,13226,male,negative,party politics
+8,2015-09,14280,male,negative,party politics
+9,2015-10,14103,male,negative,party politics
+10,2015-11,8899,male,negative,party politics
+11,2015-12,13728,male,negative,party politics
+0,2015-01,900,female,negative,party politics
+1,2015-02,1319,female,negative,party politics
+2,2015-03,1290,female,negative,party politics
+3,2015-04,824,female,negative,party politics
+4,2015-05,482,female,negative,party politics
+5,2015-06,626,female,negative,party politics
+6,2015-07,1954,female,negative,party politics
+7,2015-08,3512,female,negative,party politics
+8,2015-09,2837,female,negative,party politics
+9,2015-10,1484,female,negative,party politics
+10,2015-11,1440,female,negative,party politics
+11,2015-12,1829,female,negative,party politics
+0,2015-01,7958,male,neutral,party politics
+1,2015-02,8588,male,neutral,party politics
+2,2015-03,8229,male,neutral,party politics
+3,2015-04,7467,male,neutral,party politics
+4,2015-05,5286,male,neutral,party politics
+5,2015-06,4361,male,neutral,party politics
+6,2015-07,12786,male,neutral,party politics
+7,2015-08,16813,male,neutral,party politics
+8,2015-09,16532,male,neutral,party politics
+9,2015-10,15308,male,neutral,party politics
+10,2015-11,11180,male,neutral,party politics
+11,2015-12,12526,male,neutral,party politics
+0,2015-01,1316,female,neutral,party politics
+1,2015-02,1373,female,neutral,party politics
+2,2015-03,1603,female,neutral,party politics
+3,2015-04,1228,female,neutral,party politics
+4,2015-05,943,female,neutral,party politics
+5,2015-06,693,female,neutral,party politics
+6,2015-07,2964,female,neutral,party politics
+7,2015-08,2469,female,neutral,party politics
+8,2015-09,3199,female,neutral,party politics
+9,2015-10,2964,female,neutral,party politics
+10,2015-11,2390,female,neutral,party politics
+11,2015-12,1855,female,neutral,party politics
+0,2015-01,3818,male,positive,party politics
+1,2015-02,2913,male,positive,party politics
+2,2015-03,3670,male,positive,party politics
+3,2015-04,2472,male,positive,party politics
+4,2015-05,2455,male,positive,party politics
+5,2015-06,1185,male,positive,party politics
+6,2015-07,3149,male,positive,party politics
+7,2015-08,6157,male,positive,party politics
+8,2015-09,8564,male,positive,party politics
+9,2015-10,6088,male,positive,party politics
+10,2015-11,3808,male,positive,party politics
+11,2015-12,5385,male,positive,party politics
+0,2015-01,765,female,positive,party politics
+1,2015-02,1260,female,positive,party politics
+2,2015-03,640,female,positive,party politics
+3,2015-04,714,female,positive,party politics
+4,2015-05,774,female,positive,party politics
+5,2015-06,254,female,positive,party politics
+6,2015-07,1161,female,positive,party politics
+7,2015-08,1230,female,positive,party politics
+8,2015-09,1097,female,positive,party politics
+9,2015-10,1504,female,positive,party politics
+10,2015-11,745,female,positive,party politics
+11,2015-12,1878,female,positive,party politics
+0,2015-01,5807,male,negative,law
+1,2015-02,6833,male,negative,law
+2,2015-03,9345,male,negative,law
+3,2015-04,6357,male,negative,law
+4,2015-05,3696,male,negative,law
+5,2015-06,4997,male,negative,law
+6,2015-07,7454,male,negative,law
+7,2015-08,11254,male,negative,law
+8,2015-09,11712,male,negative,law
+9,2015-10,11367,male,negative,law
+10,2015-11,7115,male,negative,law
+11,2015-12,10834,male,negative,law
+0,2015-01,968,female,negative,law
+1,2015-02,1482,female,negative,law
+2,2015-03,2243,female,negative,law
+3,2015-04,1310,female,negative,law
+4,2015-05,1087,female,negative,law
+5,2015-06,869,female,negative,law
+6,2015-07,1301,female,negative,law
+7,2015-08,2735,female,negative,law
+8,2015-09,3137,female,negative,law
+9,2015-10,1878,female,negative,law
+10,2015-11,1834,female,negative,law
+11,2015-12,2318,female,negative,law
+0,2015-01,7806,male,neutral,law
+1,2015-02,8886,male,neutral,law
+2,2015-03,11123,male,neutral,law
+3,2015-04,8662,male,neutral,law
+4,2015-05,5005,male,neutral,law
+5,2015-06,7394,male,neutral,law
+6,2015-07,10159,male,neutral,law
+7,2015-08,14011,male,neutral,law
+8,2015-09,14194,male,neutral,law
+9,2015-10,14535,male,neutral,law
+10,2015-11,9619,male,neutral,law
+11,2015-12,14058,male,neutral,law
+0,2015-01,1325,female,neutral,law
+1,2015-02,1938,female,neutral,law
+2,2015-03,2002,female,neutral,law
+3,2015-04,1284,female,neutral,law
+4,2015-05,998,female,neutral,law
+5,2015-06,889,female,neutral,law
+6,2015-07,1608,female,neutral,law
+7,2015-08,2060,female,neutral,law
+8,2015-09,3989,female,neutral,law
+9,2015-10,2428,female,neutral,law
+10,2015-11,1613,female,neutral,law
+11,2015-12,2909,female,neutral,law
+0,2015-01,1880,male,positive,law
+1,2015-02,2348,male,positive,law
+2,2015-03,2498,male,positive,law
+3,2015-04,2377,male,positive,law
+4,2015-05,1416,male,positive,law
+5,2015-06,1666,male,positive,law
+6,2015-07,2035,male,positive,law
+7,2015-08,3408,male,positive,law
+8,2015-09,2865,male,positive,law
+9,2015-10,2912,male,positive,law
+10,2015-11,1712,male,positive,law
+11,2015-12,2823,male,positive,law
+0,2015-01,301,female,positive,law
+1,2015-02,341,female,positive,law
+2,2015-03,405,female,positive,law
+3,2015-04,605,female,positive,law
+4,2015-05,505,female,positive,law
+5,2015-06,503,female,positive,law
+6,2015-07,954,female,positive,law
+7,2015-08,687,female,positive,law
+8,2015-09,813,female,positive,law
+9,2015-10,767,female,positive,law
+10,2015-11,514,female,positive,law
+11,2015-12,1122,female,positive,law
+0,2015-01,1608,male,negative,legal
+1,2015-02,1687,male,negative,legal
+2,2015-03,2158,male,negative,legal
+3,2015-04,1644,male,negative,legal
+4,2015-05,1152,male,negative,legal
+5,2015-06,1097,male,negative,legal
+6,2015-07,2833,male,negative,legal
+7,2015-08,3991,male,negative,legal
+8,2015-09,5321,male,negative,legal
+9,2015-10,3601,male,negative,legal
+10,2015-11,2435,male,negative,legal
+11,2015-12,3107,male,negative,legal
+0,2015-01,363,female,negative,legal
+1,2015-02,456,female,negative,legal
+2,2015-03,462,female,negative,legal
+3,2015-04,345,female,negative,legal
+4,2015-05,221,female,negative,legal
+5,2015-06,285,female,negative,legal
+6,2015-07,359,female,negative,legal
+7,2015-08,875,female,negative,legal
+8,2015-09,684,female,negative,legal
+9,2015-10,911,female,negative,legal
+10,2015-11,331,female,negative,legal
+11,2015-12,373,female,negative,legal
+0,2015-01,2695,male,neutral,legal
+1,2015-02,3261,male,neutral,legal
+2,2015-03,3523,male,neutral,legal
+3,2015-04,3232,male,neutral,legal
+4,2015-05,1858,male,neutral,legal
+5,2015-06,2077,male,neutral,legal
+6,2015-07,5414,male,neutral,legal
+7,2015-08,6103,male,neutral,legal
+8,2015-09,6666,male,neutral,legal
+9,2015-10,6999,male,neutral,legal
+10,2015-11,3763,male,neutral,legal
+11,2015-12,5085,male,neutral,legal
+0,2015-01,501,female,neutral,legal
+1,2015-02,661,female,neutral,legal
+2,2015-03,745,female,neutral,legal
+3,2015-04,883,female,neutral,legal
+4,2015-05,687,female,neutral,legal
+5,2015-06,334,female,neutral,legal
+6,2015-07,768,female,neutral,legal
+7,2015-08,907,female,neutral,legal
+8,2015-09,1213,female,neutral,legal
+9,2015-10,1177,female,neutral,legal
+10,2015-11,835,female,neutral,legal
+11,2015-12,884,female,neutral,legal
+0,2015-01,1083,male,positive,legal
+1,2015-02,641,male,positive,legal
+2,2015-03,744,male,positive,legal
+3,2015-04,572,male,positive,legal
+4,2015-05,346,male,positive,legal
+5,2015-06,315,male,positive,legal
+6,2015-07,1309,male,positive,legal
+7,2015-08,1245,male,positive,legal
+8,2015-09,1151,male,positive,legal
+9,2015-10,1391,male,positive,legal
+10,2015-11,855,male,positive,legal
+11,2015-12,1122,male,positive,legal
+0,2015-01,99,female,positive,legal
+1,2015-02,339,female,positive,legal
+2,2015-03,126,female,positive,legal
+3,2015-04,66,female,positive,legal
+4,2015-05,56,female,positive,legal
+5,2015-06,236,female,positive,legal
+6,2015-07,213,female,positive,legal
+7,2015-08,132,female,positive,legal
+8,2015-09,176,female,positive,legal
+9,2015-10,261,female,positive,legal
+10,2015-11,100,female,positive,legal
+11,2015-12,194,female,positive,legal
+0,2016-01,41,male,negative,vote
+1,2016-02,3151,male,negative,vote
+2,2016-03,32,male,negative,vote
+3,2016-04,3720,male,negative,vote
+4,2016-05,5437,male,negative,vote
+5,2016-06,184,male,negative,vote
+6,2016-07,4975,male,negative,vote
+7,2016-08,6839,male,negative,vote
+8,2016-09,6032,male,negative,vote
+9,2016-10,47,male,negative,vote
+10,2016-11,361,male,negative,vote
+11,2016-12,4118,male,negative,vote
+0,2016-01,7,female,negative,vote
+1,2016-02,440,female,negative,vote
+2,2016-03,5,female,negative,vote
+3,2016-04,682,female,negative,vote
+4,2016-05,1969,female,negative,vote
+5,2016-06,47,female,negative,vote
+6,2016-07,1614,female,negative,vote
+7,2016-08,2632,female,negative,vote
+8,2016-09,2071,female,negative,vote
+9,2016-10,31,female,negative,vote
+10,2016-11,97,female,negative,vote
+11,2016-12,2101,female,negative,vote
+0,2016-01,71,male,neutral,vote
+1,2016-02,7035,male,neutral,vote
+2,2016-03,56,male,neutral,vote
+3,2016-04,5117,male,neutral,vote
+4,2016-05,10789,male,neutral,vote
+5,2016-06,238,male,neutral,vote
+6,2016-07,10834,male,neutral,vote
+7,2016-08,11490,male,neutral,vote
+8,2016-09,9714,male,neutral,vote
+9,2016-10,50,male,neutral,vote
+10,2016-11,510,male,neutral,vote
+11,2016-12,8078,male,neutral,vote
+0,2016-01,9,female,neutral,vote
+1,2016-02,930,female,neutral,vote
+2,2016-03,9,female,neutral,vote
+3,2016-04,791,female,neutral,vote
+4,2016-05,2406,female,neutral,vote
+5,2016-06,80,female,neutral,vote
+6,2016-07,2542,female,neutral,vote
+7,2016-08,1939,female,neutral,vote
+8,2016-09,3759,female,neutral,vote
+9,2016-10,11,female,neutral,vote
+10,2016-11,54,female,neutral,vote
+11,2016-12,2436,female,neutral,vote
+0,2016-01,11,male,positive,vote
+1,2016-02,1481,male,positive,vote
+2,2016-03,20,male,positive,vote
+3,2016-04,1480,male,positive,vote
+4,2016-05,3476,male,positive,vote
+5,2016-06,74,male,positive,vote
+6,2016-07,3051,male,positive,vote
+7,2016-08,3164,male,positive,vote
+8,2016-09,3593,male,positive,vote
+9,2016-10,12,male,positive,vote
+10,2016-11,894,male,positive,vote
+11,2016-12,3446,male,positive,vote
+0,2016-01,2,female,positive,vote
+1,2016-02,154,female,positive,vote
+2,2016-03,1,female,positive,vote
+3,2016-04,345,female,positive,vote
+4,2016-05,475,female,positive,vote
+5,2016-06,18,female,positive,vote
+6,2016-07,963,female,positive,vote
+7,2016-08,556,female,positive,vote
+8,2016-09,1306,female,positive,vote
+9,2016-10,10,female,positive,vote
+10,2016-11,41,female,positive,vote
+11,2016-12,431,female,positive,vote
+0,2016-01,32,male,negative,election
+1,2016-02,3391,male,negative,election
+2,2016-03,27,male,negative,election
+3,2016-04,2700,male,negative,election
+4,2016-05,4804,male,negative,election
+5,2016-06,52,male,negative,election
+6,2016-07,9405,male,negative,election
+7,2016-08,10804,male,negative,election
+8,2016-09,6716,male,negative,election
+9,2016-10,128,male,negative,election
+10,2016-11,576,male,negative,election
+11,2016-12,12096,male,negative,election
+0,2016-01,4,female,negative,election
+1,2016-02,399,female,negative,election
+2,2016-03,10,female,negative,election
+3,2016-04,652,female,negative,election
+4,2016-05,1196,female,negative,election
+5,2016-06,11,female,negative,election
+6,2016-07,1855,female,negative,election
+7,2016-08,1246,female,negative,election
+8,2016-09,1303,female,negative,election
+9,2016-10,18,female,negative,election
+10,2016-11,133,female,negative,election
+11,2016-12,3853,female,negative,election
+0,2016-01,38,male,neutral,election
+1,2016-02,5376,male,neutral,election
+2,2016-03,43,male,neutral,election
+3,2016-04,3745,male,neutral,election
+4,2016-05,9733,male,neutral,election
+5,2016-06,207,male,neutral,election
+6,2016-07,9304,male,neutral,election
+7,2016-08,9671,male,neutral,election
+8,2016-09,11525,male,neutral,election
+9,2016-10,46,male,neutral,election
+10,2016-11,419,male,neutral,election
+11,2016-12,13185,male,neutral,election
+0,2016-01,8,female,neutral,election
+1,2016-02,645,female,neutral,election
+2,2016-03,3,female,neutral,election
+3,2016-04,942,female,neutral,election
+4,2016-05,2181,female,neutral,election
+5,2016-06,19,female,neutral,election
+6,2016-07,3617,female,neutral,election
+7,2016-08,1887,female,neutral,election
+8,2016-09,3269,female,neutral,election
+9,2016-10,19,female,neutral,election
+10,2016-11,107,female,neutral,election
+11,2016-12,2025,female,neutral,election
+0,2016-01,23,male,positive,election
+1,2016-02,1161,male,positive,election
+2,2016-03,12,male,positive,election
+3,2016-04,1068,male,positive,election
+4,2016-05,3587,male,positive,election
+5,2016-06,40,male,positive,election
+6,2016-07,4503,male,positive,election
+7,2016-08,3257,male,positive,election
+8,2016-09,4038,male,positive,election
+9,2016-10,76,male,positive,election
+10,2016-11,145,male,positive,election
+11,2016-12,3775,male,positive,election
+0,2016-01,4,female,positive,election
+1,2016-02,214,female,positive,election
+2,2016-03,5,female,positive,election
+3,2016-04,727,female,positive,election
+4,2016-05,1050,female,positive,election
+5,2016-06,6,female,positive,election
+6,2016-07,2058,female,positive,election
+7,2016-08,811,female,positive,election
+8,2016-09,969,female,positive,election
+9,2016-10,6,female,positive,election
+10,2016-11,27,female,positive,election
+11,2016-12,772,female,positive,election
+0,2016-01,274,male,negative,government
+1,2016-02,15146,male,negative,government
+2,2016-03,115,male,negative,government
+3,2016-04,10897,male,negative,government
+4,2016-05,26016,male,negative,government
+5,2016-06,409,male,negative,government
+6,2016-07,27929,male,negative,government
+7,2016-08,22705,male,negative,government
+8,2016-09,25943,male,negative,government
+9,2016-10,93,male,negative,government
+10,2016-11,489,male,negative,government
+11,2016-12,23246,male,negative,government
+0,2016-01,99,female,negative,government
+1,2016-02,2032,female,negative,government
+2,2016-03,18,female,negative,government
+3,2016-04,1933,female,negative,government
+4,2016-05,4819,female,negative,government
+5,2016-06,47,female,negative,government
+6,2016-07,4329,female,negative,government
+7,2016-08,5256,female,negative,government
+8,2016-09,6062,female,negative,government
+9,2016-10,23,female,negative,government
+10,2016-11,59,female,negative,government
+11,2016-12,4142,female,negative,government
+0,2016-01,687,male,neutral,government
+1,2016-02,17888,male,neutral,government
+2,2016-03,88,male,neutral,government
+3,2016-04,13607,male,neutral,government
+4,2016-05,32553,male,neutral,government
+5,2016-06,419,male,neutral,government
+6,2016-07,36514,male,neutral,government
+7,2016-08,26658,male,neutral,government
+8,2016-09,33589,male,neutral,government
+9,2016-10,89,male,neutral,government
+10,2016-11,569,male,neutral,government
+11,2016-12,31144,male,neutral,government
+0,2016-01,25,female,neutral,government
+1,2016-02,2271,female,neutral,government
+2,2016-03,18,female,neutral,government
+3,2016-04,2476,female,neutral,government
+4,2016-05,4214,female,neutral,government
+5,2016-06,54,female,neutral,government
+6,2016-07,5785,female,neutral,government
+7,2016-08,4808,female,neutral,government
+8,2016-09,7066,female,neutral,government
+9,2016-10,11,female,neutral,government
+10,2016-11,44,female,neutral,government
+11,2016-12,5413,female,neutral,government
+0,2016-01,167,male,positive,government
+1,2016-02,4864,male,positive,government
+2,2016-03,29,male,positive,government
+3,2016-04,4013,male,positive,government
+4,2016-05,10191,male,positive,government
+5,2016-06,119,male,positive,government
+6,2016-07,12322,male,positive,government
+7,2016-08,9877,male,positive,government
+8,2016-09,12166,male,positive,government
+9,2016-10,39,male,positive,government
+10,2016-11,434,male,positive,government
+11,2016-12,9766,male,positive,government
+0,2016-01,30,female,positive,government
+1,2016-02,1119,female,positive,government
+2,2016-03,7,female,positive,government
+3,2016-04,909,female,positive,government
+4,2016-05,2155,female,positive,government
+5,2016-06,15,female,positive,government
+6,2016-07,2160,female,positive,government
+7,2016-08,1992,female,positive,government
+8,2016-09,4017,female,positive,government
+9,2016-10,8,female,positive,government
+10,2016-11,146,female,positive,government
+11,2016-12,1779,female,positive,government
+0,2016-01,125,male,negative,party politics
+1,2016-02,7715,male,negative,party politics
+2,2016-03,97,male,negative,party politics
+3,2016-04,6770,male,negative,party politics
+4,2016-05,17108,male,negative,party politics
+5,2016-06,411,male,negative,party politics
+6,2016-07,22975,male,negative,party politics
+7,2016-08,18323,male,negative,party politics
+8,2016-09,16889,male,negative,party politics
+9,2016-10,49,male,negative,party politics
+10,2016-11,314,male,negative,party politics
+11,2016-12,13108,male,negative,party politics
+0,2016-01,13,female,negative,party politics
+1,2016-02,1094,female,negative,party politics
+2,2016-03,12,female,negative,party politics
+3,2016-04,2054,female,negative,party politics
+4,2016-05,3030,female,negative,party politics
+5,2016-06,48,female,negative,party politics
+6,2016-07,3536,female,negative,party politics
+7,2016-08,3181,female,negative,party politics
+8,2016-09,3328,female,negative,party politics
+9,2016-10,20,female,negative,party politics
+10,2016-11,43,female,negative,party politics
+11,2016-12,2329,female,negative,party politics
+0,2016-01,152,male,neutral,party politics
+1,2016-02,6725,male,neutral,party politics
+2,2016-03,85,male,neutral,party politics
+3,2016-04,8234,male,neutral,party politics
+4,2016-05,25649,male,neutral,party politics
+5,2016-06,387,male,neutral,party politics
+6,2016-07,29039,male,neutral,party politics
+7,2016-08,16177,male,neutral,party politics
+8,2016-09,17728,male,neutral,party politics
+9,2016-10,54,male,neutral,party politics
+10,2016-11,245,male,neutral,party politics
+11,2016-12,14161,male,neutral,party politics
+0,2016-01,32,female,neutral,party politics
+1,2016-02,1379,female,neutral,party politics
+2,2016-03,14,female,neutral,party politics
+3,2016-04,1449,female,neutral,party politics
+4,2016-05,4215,female,neutral,party politics
+5,2016-06,81,female,neutral,party politics
+6,2016-07,5064,female,neutral,party politics
+7,2016-08,4090,female,neutral,party politics
+8,2016-09,5828,female,neutral,party politics
+9,2016-10,13,female,neutral,party politics
+10,2016-11,67,female,neutral,party politics
+11,2016-12,3261,female,neutral,party politics
+0,2016-01,81,male,positive,party politics
+1,2016-02,3582,male,positive,party politics
+2,2016-03,26,male,positive,party politics
+3,2016-04,4609,male,positive,party politics
+4,2016-05,12392,male,positive,party politics
+5,2016-06,374,male,positive,party politics
+6,2016-07,15130,male,positive,party politics
+7,2016-08,7627,male,positive,party politics
+8,2016-09,6607,male,positive,party politics
+9,2016-10,13,male,positive,party politics
+10,2016-11,305,male,positive,party politics
+11,2016-12,5178,male,positive,party politics
+0,2016-01,14,female,positive,party politics
+1,2016-02,657,female,positive,party politics
+2,2016-03,18,female,positive,party politics
+3,2016-04,1143,female,positive,party politics
+4,2016-05,2314,female,positive,party politics
+5,2016-06,44,female,positive,party politics
+6,2016-07,4657,female,positive,party politics
+7,2016-08,2134,female,positive,party politics
+8,2016-09,1478,female,positive,party politics
+9,2016-10,8,female,positive,party politics
+10,2016-11,27,female,positive,party politics
+11,2016-12,1206,female,positive,party politics
+0,2016-01,115,male,negative,law
+1,2016-02,6773,male,negative,law
+2,2016-03,196,male,negative,law
+3,2016-04,4289,male,negative,law
+4,2016-05,11089,male,negative,law
+5,2016-06,368,male,negative,law
+6,2016-07,26798,male,negative,law
+7,2016-08,12678,male,negative,law
+8,2016-09,14388,male,negative,law
+9,2016-10,69,male,negative,law
+10,2016-11,280,male,negative,law
+11,2016-12,9494,male,negative,law
+0,2016-01,15,female,negative,law
+1,2016-02,971,female,negative,law
+2,2016-03,10,female,negative,law
+3,2016-04,938,female,negative,law
+4,2016-05,2938,female,negative,law
+5,2016-06,51,female,negative,law
+6,2016-07,3595,female,negative,law
+7,2016-08,1712,female,negative,law
+8,2016-09,2965,female,negative,law
+9,2016-10,8,female,negative,law
+10,2016-11,41,female,negative,law
+11,2016-12,1984,female,negative,law
+0,2016-01,263,male,neutral,law
+1,2016-02,9451,male,neutral,law
+2,2016-03,84,male,neutral,law
+3,2016-04,5459,male,neutral,law
+4,2016-05,11478,male,neutral,law
+5,2016-06,192,male,neutral,law
+6,2016-07,21874,male,neutral,law
+7,2016-08,15432,male,neutral,law
+8,2016-09,17543,male,neutral,law
+9,2016-10,72,male,neutral,law
+10,2016-11,1149,male,neutral,law
+11,2016-12,13152,male,neutral,law
+0,2016-01,19,female,neutral,law
+1,2016-02,1731,female,neutral,law
+2,2016-03,26,female,neutral,law
+3,2016-04,1184,female,neutral,law
+4,2016-05,2924,female,neutral,law
+5,2016-06,219,female,neutral,law
+6,2016-07,6137,female,neutral,law
+7,2016-08,3236,female,neutral,law
+8,2016-09,3836,female,neutral,law
+9,2016-10,10,female,neutral,law
+10,2016-11,184,female,neutral,law
+11,2016-12,3684,female,neutral,law
+0,2016-01,28,male,positive,law
+1,2016-02,2163,male,positive,law
+2,2016-03,18,male,positive,law
+3,2016-04,1661,male,positive,law
+4,2016-05,3581,male,positive,law
+5,2016-06,102,male,positive,law
+6,2016-07,6875,male,positive,law
+7,2016-08,2628,male,positive,law
+8,2016-09,4632,male,positive,law
+9,2016-10,9,male,positive,law
+10,2016-11,207,male,positive,law
+11,2016-12,4396,male,positive,law
+0,2016-01,4,female,positive,law
+1,2016-02,471,female,positive,law
+2,2016-03,3,female,positive,law
+3,2016-04,397,female,positive,law
+4,2016-05,930,female,positive,law
+5,2016-06,13,female,positive,law
+6,2016-07,892,female,positive,law
+7,2016-08,808,female,positive,law
+8,2016-09,776,female,positive,law
+9,2016-10,2,female,positive,law
+10,2016-11,64,female,positive,law
+11,2016-12,576,female,positive,law
+0,2016-01,22,male,negative,legal
+1,2016-02,1502,male,negative,legal
+2,2016-03,20,male,negative,legal
+3,2016-04,1365,male,negative,legal
+4,2016-05,3877,male,negative,legal
+5,2016-06,52,male,negative,legal
+6,2016-07,4672,male,negative,legal
+7,2016-08,3499,male,negative,legal
+8,2016-09,3523,male,negative,legal
+9,2016-10,19,male,negative,legal
+10,2016-11,370,male,negative,legal
+11,2016-12,2830,male,negative,legal
+0,2016-01,1,female,negative,legal
+1,2016-02,367,female,negative,legal
+2,2016-03,8,female,negative,legal
+3,2016-04,261,female,negative,legal
+4,2016-05,970,female,negative,legal
+5,2016-06,43,female,negative,legal
+6,2016-07,658,female,negative,legal
+7,2016-08,776,female,negative,legal
+8,2016-09,1081,female,negative,legal
+9,2016-10,2,female,negative,legal
+10,2016-11,9,female,negative,legal
+11,2016-12,492,female,negative,legal
+0,2016-01,45,male,neutral,legal
+1,2016-02,3938,male,neutral,legal
+2,2016-03,27,male,neutral,legal
+3,2016-04,2080,male,neutral,legal
+4,2016-05,5607,male,neutral,legal
+5,2016-06,181,male,neutral,legal
+6,2016-07,6401,male,neutral,legal
+7,2016-08,7344,male,neutral,legal
+8,2016-09,5661,male,neutral,legal
+9,2016-10,17,male,neutral,legal
+10,2016-11,255,male,neutral,legal
+11,2016-12,4576,male,neutral,legal
+0,2016-01,13,female,neutral,legal
+1,2016-02,934,female,neutral,legal
+2,2016-03,5,female,neutral,legal
+3,2016-04,680,female,neutral,legal
+4,2016-05,1349,female,neutral,legal
+5,2016-06,17,female,neutral,legal
+6,2016-07,1006,female,neutral,legal
+7,2016-08,640,female,neutral,legal
+8,2016-09,1682,female,neutral,legal
+9,2016-11,28,female,neutral,legal
+10,2016-12,1245,female,neutral,legal
+0,2016-01,25,male,positive,legal
+1,2016-02,1615,male,positive,legal
+2,2016-03,11,male,positive,legal
+3,2016-04,553,male,positive,legal
+4,2016-05,959,male,positive,legal
+5,2016-06,22,male,positive,legal
+6,2016-07,1289,male,positive,legal
+7,2016-08,1138,male,positive,legal
+8,2016-09,920,male,positive,legal
+9,2016-10,2,male,positive,legal
+10,2016-11,19,male,positive,legal
+11,2016-12,1192,male,positive,legal
+0,2016-01,2,female,positive,legal
+1,2016-02,211,female,positive,legal
+2,2016-04,125,female,positive,legal
+3,2016-05,379,female,positive,legal
+4,2016-06,8,female,positive,legal
+5,2016-07,279,female,positive,legal
+6,2016-08,236,female,positive,legal
+7,2016-09,567,female,positive,legal
+8,2016-10,1,female,positive,legal
+9,2016-11,2,female,positive,legal
+10,2016-12,162,female,positive,legal
+0,2017-01,184,male,negative,vote
+1,2017-02,2007,male,negative,vote
+2,2017-03,9638,male,negative,vote
+3,2017-04,8263,male,negative,vote
+4,2017-05,5903,male,negative,vote
+5,2017-06,7392,male,negative,vote
+6,2017-07,8930,male,negative,vote
+7,2017-08,9407,male,negative,vote
+8,2017-09,10863,male,negative,vote
+9,2017-10,6771,male,negative,vote
+10,2017-11,7342,male,negative,vote
+11,2017-12,18043,male,negative,vote
+0,2017-01,26,female,negative,vote
+1,2017-02,411,female,negative,vote
+2,2017-03,1540,female,negative,vote
+3,2017-04,1902,female,negative,vote
+4,2017-05,2708,female,negative,vote
+5,2017-06,2130,female,negative,vote
+6,2017-07,1164,female,negative,vote
+7,2017-08,1271,female,negative,vote
+8,2017-09,1366,female,negative,vote
+9,2017-10,1400,female,negative,vote
+10,2017-11,1547,female,negative,vote
+11,2017-12,1401,female,negative,vote
+0,2017-01,251,male,neutral,vote
+1,2017-02,2323,male,neutral,vote
+2,2017-03,11807,male,neutral,vote
+3,2017-04,13372,male,neutral,vote
+4,2017-05,8674,male,neutral,vote
+5,2017-06,10844,male,neutral,vote
+6,2017-07,16362,male,neutral,vote
+7,2017-08,11660,male,neutral,vote
+8,2017-09,17749,male,neutral,vote
+9,2017-10,9368,male,neutral,vote
+10,2017-11,9555,male,neutral,vote
+11,2017-12,14899,male,neutral,vote
+0,2017-01,42,female,neutral,vote
+1,2017-02,572,female,neutral,vote
+2,2017-03,2140,female,neutral,vote
+3,2017-04,1861,female,neutral,vote
+4,2017-05,2707,female,neutral,vote
+5,2017-06,1879,female,neutral,vote
+6,2017-07,2065,female,neutral,vote
+7,2017-08,1360,female,neutral,vote
+8,2017-09,2359,female,neutral,vote
+9,2017-10,4299,female,neutral,vote
+10,2017-11,2538,female,neutral,vote
+11,2017-12,5177,female,neutral,vote
+0,2017-01,60,male,positive,vote
+1,2017-02,532,male,positive,vote
+2,2017-03,2455,male,positive,vote
+3,2017-04,3174,male,positive,vote
+4,2017-05,2910,male,positive,vote
+5,2017-06,2902,male,positive,vote
+6,2017-07,3891,male,positive,vote
+7,2017-08,4010,male,positive,vote
+8,2017-09,4319,male,positive,vote
+9,2017-10,2960,male,positive,vote
+10,2017-11,3277,male,positive,vote
+11,2017-12,5043,male,positive,vote
+0,2017-01,3,female,positive,vote
+1,2017-02,80,female,positive,vote
+2,2017-03,437,female,positive,vote
+3,2017-04,802,female,positive,vote
+4,2017-05,1002,female,positive,vote
+5,2017-06,1001,female,positive,vote
+6,2017-07,597,female,positive,vote
+7,2017-08,514,female,positive,vote
+8,2017-09,591,female,positive,vote
+9,2017-10,947,female,positive,vote
+10,2017-11,749,female,positive,vote
+11,2017-12,718,female,positive,vote
+0,2017-01,284,male,negative,election
+1,2017-02,3205,male,negative,election
+2,2017-03,9773,male,negative,election
+3,2017-04,9241,male,negative,election
+4,2017-05,14749,male,negative,election
+5,2017-06,16702,male,negative,election
+6,2017-07,10729,male,negative,election
+7,2017-08,9526,male,negative,election
+8,2017-09,10414,male,negative,election
+9,2017-10,9612,male,negative,election
+10,2017-11,8954,male,negative,election
+11,2017-12,7879,male,negative,election
+0,2017-01,13,female,negative,election
+1,2017-02,493,female,negative,election
+2,2017-03,888,female,negative,election
+3,2017-04,2675,female,negative,election
+4,2017-05,3112,female,negative,election
+5,2017-06,3131,female,negative,election
+6,2017-07,1571,female,negative,election
+7,2017-08,1684,female,negative,election
+8,2017-09,2546,female,negative,election
+9,2017-10,1509,female,negative,election
+10,2017-11,1468,female,negative,election
+11,2017-12,1465,female,negative,election
+0,2017-01,366,male,neutral,election
+1,2017-02,3198,male,neutral,election
+2,2017-03,12324,male,neutral,election
+3,2017-04,13929,male,neutral,election
+4,2017-05,15330,male,neutral,election
+5,2017-06,13687,male,neutral,election
+6,2017-07,12015,male,neutral,election
+7,2017-08,10119,male,neutral,election
+8,2017-09,8768,male,neutral,election
+9,2017-10,12704,male,neutral,election
+10,2017-11,12470,male,neutral,election
+11,2017-12,10662,male,neutral,election
+0,2017-01,15,female,neutral,election
+1,2017-02,309,female,neutral,election
+2,2017-03,1113,female,neutral,election
+3,2017-04,4357,female,neutral,election
+4,2017-05,5723,female,neutral,election
+5,2017-06,3964,female,neutral,election
+6,2017-07,3057,female,neutral,election
+7,2017-08,2059,female,neutral,election
+8,2017-09,2000,female,neutral,election
+9,2017-10,1865,female,neutral,election
+10,2017-11,3469,female,neutral,election
+11,2017-12,2320,female,neutral,election
+0,2017-01,37,male,positive,election
+1,2017-02,1191,male,positive,election
+2,2017-03,2329,male,positive,election
+3,2017-04,3549,male,positive,election
+4,2017-05,7351,male,positive,election
+5,2017-06,4366,male,positive,election
+6,2017-07,3421,male,positive,election
+7,2017-08,3563,male,positive,election
+8,2017-09,3108,male,positive,election
+9,2017-10,2987,male,positive,election
+10,2017-11,2583,male,positive,election
+11,2017-12,3311,male,positive,election
+0,2017-01,5,female,positive,election
+1,2017-02,97,female,positive,election
+2,2017-03,1092,female,positive,election
+3,2017-04,844,female,positive,election
+4,2017-05,3012,female,positive,election
+5,2017-06,1244,female,positive,election
+6,2017-07,697,female,positive,election
+7,2017-08,624,female,positive,election
+8,2017-09,714,female,positive,election
+9,2017-10,739,female,positive,election
+10,2017-11,1016,female,positive,election
+11,2017-12,1138,female,positive,election
+0,2017-01,540,male,negative,government
+1,2017-02,11702,male,negative,government
+2,2017-03,28069,male,negative,government
+3,2017-04,33954,male,negative,government
+4,2017-05,26767,male,negative,government
+5,2017-06,34484,male,negative,government
+6,2017-07,34644,male,negative,government
+7,2017-08,38102,male,negative,government
+8,2017-09,31220,male,negative,government
+9,2017-10,38021,male,negative,government
+10,2017-11,30278,male,negative,government
+11,2017-12,26379,male,negative,government
+0,2017-01,69,female,negative,government
+1,2017-02,1820,female,negative,government
+2,2017-03,6647,female,negative,government
+3,2017-04,7834,female,negative,government
+4,2017-05,5430,female,negative,government
+5,2017-06,8080,female,negative,government
+6,2017-07,6103,female,negative,government
+7,2017-08,7538,female,negative,government
+8,2017-09,7349,female,negative,government
+9,2017-10,7338,female,negative,government
+10,2017-11,6636,female,negative,government
+11,2017-12,5846,female,negative,government
+0,2017-01,682,male,neutral,government
+1,2017-02,12194,male,neutral,government
+2,2017-03,41830,male,neutral,government
+3,2017-04,41316,male,neutral,government
+4,2017-05,37473,male,neutral,government
+5,2017-06,55540,male,neutral,government
+6,2017-07,41419,male,neutral,government
+7,2017-08,52559,male,neutral,government
+8,2017-09,46006,male,neutral,government
+9,2017-10,53144,male,neutral,government
+10,2017-11,38456,male,neutral,government
+11,2017-12,34867,male,neutral,government
+0,2017-01,69,female,neutral,government
+1,2017-02,2527,female,neutral,government
+2,2017-03,9053,female,neutral,government
+3,2017-04,8839,female,neutral,government
+4,2017-05,7517,female,neutral,government
+5,2017-06,44505,female,neutral,government
+6,2017-07,6498,female,neutral,government
+7,2017-08,8822,female,neutral,government
+8,2017-09,9246,female,neutral,government
+9,2017-10,12454,female,neutral,government
+10,2017-11,7866,female,neutral,government
+11,2017-12,8901,female,neutral,government
+0,2017-01,132,male,positive,government
+1,2017-02,3188,male,positive,government
+2,2017-03,16547,male,positive,government
+3,2017-04,17226,male,positive,government
+4,2017-05,13805,male,positive,government
+5,2017-06,13653,male,positive,government
+6,2017-07,13839,male,positive,government
+7,2017-08,19116,male,positive,government
+8,2017-09,13985,male,positive,government
+9,2017-10,17044,male,positive,government
+10,2017-11,10997,male,positive,government
+11,2017-12,10886,male,positive,government
+0,2017-01,87,female,positive,government
+1,2017-02,726,female,positive,government
+2,2017-03,2492,female,positive,government
+3,2017-04,2429,female,positive,government
+4,2017-05,2729,female,positive,government
+5,2017-06,5401,female,positive,government
+6,2017-07,2425,female,positive,government
+7,2017-08,3601,female,positive,government
+8,2017-09,6800,female,positive,government
+9,2017-10,5462,female,positive,government
+10,2017-11,3867,female,positive,government
+11,2017-12,2925,female,positive,government
+0,2017-01,460,male,negative,party politics
+1,2017-02,5653,male,negative,party politics
+2,2017-03,16495,male,negative,party politics
+3,2017-04,15472,male,negative,party politics
+4,2017-05,13660,male,negative,party politics
+5,2017-06,20675,male,negative,party politics
+6,2017-07,17368,male,negative,party politics
+7,2017-08,23451,male,negative,party politics
+8,2017-09,21064,male,negative,party politics
+9,2017-10,25191,male,negative,party politics
+10,2017-11,20585,male,negative,party politics
+11,2017-12,15175,male,negative,party politics
+0,2017-01,19,female,negative,party politics
+1,2017-02,1122,female,negative,party politics
+2,2017-03,2750,female,negative,party politics
+3,2017-04,3749,female,negative,party politics
+4,2017-05,3091,female,negative,party politics
+5,2017-06,4835,female,negative,party politics
+6,2017-07,3200,female,negative,party politics
+7,2017-08,4036,female,negative,party politics
+8,2017-09,4245,female,negative,party politics
+9,2017-10,6209,female,negative,party politics
+10,2017-11,5728,female,negative,party politics
+11,2017-12,2537,female,negative,party politics
+0,2017-01,363,male,neutral,party politics
+1,2017-02,7556,male,neutral,party politics
+2,2017-03,20326,male,neutral,party politics
+3,2017-04,20109,male,neutral,party politics
+4,2017-05,17958,male,neutral,party politics
+5,2017-06,31939,male,neutral,party politics
+6,2017-07,21041,male,neutral,party politics
+7,2017-08,21143,male,neutral,party politics
+8,2017-09,20324,male,neutral,party politics
+9,2017-10,26291,male,neutral,party politics
+10,2017-11,20403,male,neutral,party politics
+11,2017-12,15892,male,neutral,party politics
+0,2017-01,96,female,neutral,party politics
+1,2017-02,1554,female,neutral,party politics
+2,2017-03,3310,female,neutral,party politics
+3,2017-04,4718,female,neutral,party politics
+4,2017-05,4511,female,neutral,party politics
+5,2017-06,28198,female,neutral,party politics
+6,2017-07,2744,female,neutral,party politics
+7,2017-08,3908,female,neutral,party politics
+8,2017-09,4895,female,neutral,party politics
+9,2017-10,4854,female,neutral,party politics
+10,2017-11,5946,female,neutral,party politics
+11,2017-12,4096,female,neutral,party politics
+0,2017-01,341,male,positive,party politics
+1,2017-02,2553,male,positive,party politics
+2,2017-03,6819,male,positive,party politics
+3,2017-04,6004,male,positive,party politics
+4,2017-05,12473,male,positive,party politics
+5,2017-06,7382,male,positive,party politics
+6,2017-07,6349,male,positive,party politics
+7,2017-08,6566,male,positive,party politics
+8,2017-09,9287,male,positive,party politics
+9,2017-10,9708,male,positive,party politics
+10,2017-11,7180,male,positive,party politics
+11,2017-12,6871,male,positive,party politics
+0,2017-01,17,female,positive,party politics
+1,2017-02,583,female,positive,party politics
+2,2017-03,1607,female,positive,party politics
+3,2017-04,2424,female,positive,party politics
+4,2017-05,2071,female,positive,party politics
+5,2017-06,2896,female,positive,party politics
+6,2017-07,1455,female,positive,party politics
+7,2017-08,2154,female,positive,party politics
+8,2017-09,1885,female,positive,party politics
+9,2017-10,2422,female,positive,party politics
+10,2017-11,1950,female,positive,party politics
+11,2017-12,1263,female,positive,party politics
+0,2017-01,1434,male,negative,law
+1,2017-02,5602,male,negative,law
+2,2017-03,17639,male,negative,law
+3,2017-04,19493,male,negative,law
+4,2017-05,12589,male,negative,law
+5,2017-06,16759,male,negative,law
+6,2017-07,18590,male,negative,law
+7,2017-08,19464,male,negative,law
+8,2017-09,19131,male,negative,law
+9,2017-10,18577,male,negative,law
+10,2017-11,15150,male,negative,law
+11,2017-12,14177,male,negative,law
+0,2017-01,68,female,negative,law
+1,2017-02,1221,female,negative,law
+2,2017-03,3778,female,negative,law
+3,2017-04,2307,female,negative,law
+4,2017-05,2237,female,negative,law
+5,2017-06,4319,female,negative,law
+6,2017-07,4816,female,negative,law
+7,2017-08,4216,female,negative,law
+8,2017-09,3424,female,negative,law
+9,2017-10,3989,female,negative,law
+10,2017-11,3471,female,negative,law
+11,2017-12,2876,female,negative,law
+0,2017-01,1288,male,neutral,law
+1,2017-02,7294,male,neutral,law
+2,2017-03,20316,male,neutral,law
+3,2017-04,19396,male,neutral,law
+4,2017-05,18518,male,neutral,law
+5,2017-06,51966,male,neutral,law
+6,2017-07,19995,male,neutral,law
+7,2017-08,27530,male,neutral,law
+8,2017-09,50573,male,neutral,law
+9,2017-10,27614,male,neutral,law
+10,2017-11,24650,male,neutral,law
+11,2017-12,17961,male,neutral,law
+0,2017-01,153,female,neutral,law
+1,2017-02,1481,female,neutral,law
+2,2017-03,4053,female,neutral,law
+3,2017-04,2836,female,neutral,law
+4,2017-05,5082,female,neutral,law
+5,2017-06,4654,female,neutral,law
+6,2017-07,4254,female,neutral,law
+7,2017-08,4288,female,neutral,law
+8,2017-09,46968,female,neutral,law
+9,2017-10,4856,female,neutral,law
+10,2017-11,3169,female,neutral,law
+11,2017-12,3505,female,neutral,law
+0,2017-01,145,male,positive,law
+1,2017-02,1849,male,positive,law
+2,2017-03,5092,male,positive,law
+3,2017-04,5545,male,positive,law
+4,2017-05,7828,male,positive,law
+5,2017-06,4792,male,positive,law
+6,2017-07,6622,male,positive,law
+7,2017-08,7696,male,positive,law
+8,2017-09,5152,male,positive,law
+9,2017-10,8651,male,positive,law
+10,2017-11,4555,male,positive,law
+11,2017-12,5775,male,positive,law
+0,2017-01,24,female,positive,law
+1,2017-02,132,female,positive,law
+2,2017-03,1004,female,positive,law
+3,2017-04,509,female,positive,law
+4,2017-05,809,female,positive,law
+5,2017-06,939,female,positive,law
+6,2017-07,940,female,positive,law
+7,2017-08,980,female,positive,law
+8,2017-09,1166,female,positive,law
+9,2017-10,821,female,positive,law
+10,2017-11,677,female,positive,law
+11,2017-12,1597,female,positive,law
+0,2017-01,175,male,negative,legal
+1,2017-02,992,male,negative,legal
+2,2017-03,4321,male,negative,legal
+3,2017-04,3301,male,negative,legal
+4,2017-05,4292,male,negative,legal
+5,2017-06,4111,male,negative,legal
+6,2017-07,4068,male,negative,legal
+7,2017-08,6000,male,negative,legal
+8,2017-09,5899,male,negative,legal
+9,2017-10,4219,male,negative,legal
+10,2017-11,4314,male,negative,legal
+11,2017-12,3882,male,negative,legal
+0,2017-01,588,female,negative,legal
+1,2017-02,351,female,negative,legal
+2,2017-03,815,female,negative,legal
+3,2017-04,956,female,negative,legal
+4,2017-05,997,female,negative,legal
+5,2017-06,1221,female,negative,legal
+6,2017-07,868,female,negative,legal
+7,2017-08,695,female,negative,legal
+8,2017-09,1265,female,negative,legal
+9,2017-10,1737,female,negative,legal
+10,2017-11,1020,female,negative,legal
+11,2017-12,854,female,negative,legal
+0,2017-01,608,male,neutral,legal
+1,2017-02,2416,male,neutral,legal
+2,2017-03,7327,male,neutral,legal
+3,2017-04,6772,male,neutral,legal
+4,2017-05,6423,male,neutral,legal
+5,2017-06,6606,male,neutral,legal
+6,2017-07,7641,male,neutral,legal
+7,2017-08,8745,male,neutral,legal
+8,2017-09,8148,male,neutral,legal
+9,2017-10,9311,male,neutral,legal
+10,2017-11,7840,male,neutral,legal
+11,2017-12,6224,male,neutral,legal
+0,2017-01,56,female,neutral,legal
+1,2017-02,560,female,neutral,legal
+2,2017-03,1372,female,neutral,legal
+3,2017-04,1755,female,neutral,legal
+4,2017-05,1513,female,neutral,legal
+5,2017-06,1719,female,neutral,legal
+6,2017-07,1172,female,neutral,legal
+7,2017-08,2960,female,neutral,legal
+8,2017-09,2621,female,neutral,legal
+9,2017-10,1678,female,neutral,legal
+10,2017-11,2207,female,neutral,legal
+11,2017-12,1327,female,neutral,legal
+0,2017-01,756,male,positive,legal
+1,2017-02,511,male,positive,legal
+2,2017-03,1265,male,positive,legal
+3,2017-04,1066,male,positive,legal
+4,2017-05,1210,male,positive,legal
+5,2017-06,1829,male,positive,legal
+6,2017-07,1602,male,positive,legal
+7,2017-08,1602,male,positive,legal
+8,2017-09,1299,male,positive,legal
+9,2017-10,2060,male,positive,legal
+10,2017-11,1116,male,positive,legal
+11,2017-12,1149,male,positive,legal
+0,2017-01,15,female,positive,legal
+1,2017-02,105,female,positive,legal
+2,2017-03,391,female,positive,legal
+3,2017-04,509,female,positive,legal
+4,2017-05,298,female,positive,legal
+5,2017-06,202,female,positive,legal
+6,2017-07,142,female,positive,legal
+7,2017-08,122,female,positive,legal
+8,2017-09,769,female,positive,legal
+9,2017-10,297,female,positive,legal
+10,2017-11,200,female,positive,legal
+11,2017-12,324,female,positive,legal
+0,2018-01,7121,male,negative,vote
+1,2018-02,5893,male,negative,vote
+2,2018-03,6839,male,negative,vote
+3,2018-04,5019,male,negative,vote
+4,2018-05,6680,male,negative,vote
+5,2018-06,7552,male,negative,vote
+6,2018-07,5388,male,negative,vote
+7,2018-08,4178,male,negative,vote
+8,2018-09,11610,male,negative,vote
+9,2018-10,11244,male,negative,vote
+10,2018-11,9687,male,negative,vote
+11,2018-12,6743,male,negative,vote
+0,2018-01,1221,female,negative,vote
+1,2018-02,1419,female,negative,vote
+2,2018-03,2149,female,negative,vote
+3,2018-04,1077,female,negative,vote
+4,2018-05,1547,female,negative,vote
+5,2018-06,1464,female,negative,vote
+6,2018-07,1146,female,negative,vote
+7,2018-08,1872,female,negative,vote
+8,2018-09,4077,female,negative,vote
+9,2018-10,2618,female,negative,vote
+10,2018-11,4930,female,negative,vote
+11,2018-12,3307,female,negative,vote
+0,2018-01,8969,male,neutral,vote
+1,2018-02,6511,male,neutral,vote
+2,2018-03,9614,male,neutral,vote
+3,2018-04,7398,male,neutral,vote
+4,2018-05,8582,male,neutral,vote
+5,2018-06,12710,male,neutral,vote
+6,2018-07,5426,male,neutral,vote
+7,2018-08,7388,male,neutral,vote
+8,2018-09,21621,male,neutral,vote
+9,2018-10,15759,male,neutral,vote
+10,2018-11,18078,male,neutral,vote
+11,2018-12,9888,male,neutral,vote
+0,2018-01,1743,female,neutral,vote
+1,2018-02,2068,female,neutral,vote
+2,2018-03,2502,female,neutral,vote
+3,2018-04,2317,female,neutral,vote
+4,2018-05,2452,female,neutral,vote
+5,2018-06,1822,female,neutral,vote
+6,2018-07,2732,female,neutral,vote
+7,2018-08,994,female,neutral,vote
+8,2018-09,3868,female,neutral,vote
+9,2018-10,5278,female,neutral,vote
+10,2018-11,6462,female,neutral,vote
+11,2018-12,4241,female,neutral,vote
+0,2018-01,2131,male,positive,vote
+1,2018-02,1860,male,positive,vote
+2,2018-03,4718,male,positive,vote
+3,2018-04,2467,male,positive,vote
+4,2018-05,5925,male,positive,vote
+5,2018-06,3949,male,positive,vote
+6,2018-07,2922,male,positive,vote
+7,2018-08,2897,male,positive,vote
+8,2018-09,4113,male,positive,vote
+9,2018-10,4530,male,positive,vote
+10,2018-11,5875,male,positive,vote
+11,2018-12,2496,male,positive,vote
+0,2018-01,879,female,positive,vote
+1,2018-02,551,female,positive,vote
+2,2018-03,1419,female,positive,vote
+3,2018-04,311,female,positive,vote
+4,2018-05,940,female,positive,vote
+5,2018-06,855,female,positive,vote
+6,2018-07,446,female,positive,vote
+7,2018-08,713,female,positive,vote
+8,2018-09,1794,female,positive,vote
+9,2018-10,2573,female,positive,vote
+10,2018-11,3234,female,positive,vote
+11,2018-12,1016,female,positive,vote
+0,2018-01,5849,male,negative,election
+1,2018-02,8147,male,negative,election
+2,2018-03,11530,male,negative,election
+3,2018-04,6764,male,negative,election
+4,2018-05,7404,male,negative,election
+5,2018-06,5550,male,negative,election
+6,2018-07,10151,male,negative,election
+7,2018-08,7948,male,negative,election
+8,2018-09,8714,male,negative,election
+9,2018-10,11409,male,negative,election
+10,2018-11,13428,male,negative,election
+11,2018-12,6710,male,negative,election
+0,2018-01,1113,female,negative,election
+1,2018-02,1259,female,negative,election
+2,2018-03,1284,female,negative,election
+3,2018-04,981,female,negative,election
+4,2018-05,1084,female,negative,election
+5,2018-06,767,female,negative,election
+6,2018-07,1562,female,negative,election
+7,2018-08,1313,female,negative,election
+8,2018-09,1326,female,negative,election
+9,2018-10,2106,female,negative,election
+10,2018-11,3795,female,negative,election
+11,2018-12,1180,female,negative,election
+0,2018-01,7221,male,neutral,election
+1,2018-02,12434,male,neutral,election
+2,2018-03,12767,male,neutral,election
+3,2018-04,7504,male,neutral,election
+4,2018-05,8052,male,neutral,election
+5,2018-06,9311,male,neutral,election
+6,2018-07,15291,male,neutral,election
+7,2018-08,10571,male,neutral,election
+8,2018-09,10000,male,neutral,election
+9,2018-10,13217,male,neutral,election
+10,2018-11,15311,male,neutral,election
+11,2018-12,9261,male,neutral,election
+0,2018-01,1332,female,neutral,election
+1,2018-02,1585,female,neutral,election
+2,2018-03,2088,female,neutral,election
+3,2018-04,1961,female,neutral,election
+4,2018-05,1492,female,neutral,election
+5,2018-06,1440,female,neutral,election
+6,2018-07,1749,female,neutral,election
+7,2018-08,1108,female,neutral,election
+8,2018-09,1718,female,neutral,election
+9,2018-10,3700,female,neutral,election
+10,2018-11,3543,female,neutral,election
+11,2018-12,1684,female,neutral,election
+0,2018-01,3223,male,positive,election
+1,2018-02,2527,male,positive,election
+2,2018-03,3686,male,positive,election
+3,2018-04,2725,male,positive,election
+4,2018-05,2635,male,positive,election
+5,2018-06,2224,male,positive,election
+6,2018-07,2192,male,positive,election
+7,2018-08,3549,male,positive,election
+8,2018-09,3224,male,positive,election
+9,2018-10,3949,male,positive,election
+10,2018-11,6051,male,positive,election
+11,2018-12,2512,male,positive,election
+0,2018-01,259,female,positive,election
+1,2018-02,988,female,positive,election
+2,2018-03,718,female,positive,election
+3,2018-04,974,female,positive,election
+4,2018-05,517,female,positive,election
+5,2018-06,564,female,positive,election
+6,2018-07,600,female,positive,election
+7,2018-08,494,female,positive,election
+8,2018-09,312,female,positive,election
+9,2018-10,1083,female,positive,election
+10,2018-11,1915,female,positive,election
+11,2018-12,328,female,positive,election
+0,2018-01,43252,male,negative,government
+1,2018-02,36730,male,negative,government
+2,2018-03,33461,male,negative,government
+3,2018-04,30146,male,negative,government
+4,2018-05,29748,male,negative,government
+5,2018-06,27075,male,negative,government
+6,2018-07,27920,male,negative,government
+7,2018-08,24504,male,negative,government
+8,2018-09,28651,male,negative,government
+9,2018-10,32619,male,negative,government
+10,2018-11,27824,male,negative,government
+11,2018-12,33879,male,negative,government
+0,2018-01,10523,female,negative,government
+1,2018-02,8467,female,negative,government
+2,2018-03,10248,female,negative,government
+3,2018-04,8928,female,negative,government
+4,2018-05,5351,female,negative,government
+5,2018-06,7741,female,negative,government
+6,2018-07,7126,female,negative,government
+7,2018-08,5170,female,negative,government
+8,2018-09,8023,female,negative,government
+9,2018-10,10101,female,negative,government
+10,2018-11,6802,female,negative,government
+11,2018-12,8171,female,negative,government
+0,2018-01,44416,male,neutral,government
+1,2018-02,37531,male,neutral,government
+2,2018-03,45408,male,neutral,government
+3,2018-04,32660,male,neutral,government
+4,2018-05,35151,male,neutral,government
+5,2018-06,34190,male,neutral,government
+6,2018-07,29469,male,neutral,government
+7,2018-08,27181,male,neutral,government
+8,2018-09,36420,male,neutral,government
+9,2018-10,39263,male,neutral,government
+10,2018-11,35350,male,neutral,government
+11,2018-12,37212,male,neutral,government
+0,2018-01,9471,female,neutral,government
+1,2018-02,10033,female,neutral,government
+2,2018-03,10355,female,neutral,government
+3,2018-04,6450,female,neutral,government
+4,2018-05,7198,female,neutral,government
+5,2018-06,8193,female,neutral,government
+6,2018-07,5879,female,neutral,government
+7,2018-08,5729,female,neutral,government
+8,2018-09,8404,female,neutral,government
+9,2018-10,9582,female,neutral,government
+10,2018-11,10417,female,neutral,government
+11,2018-12,7945,female,neutral,government
+0,2018-01,12967,male,positive,government
+1,2018-02,13626,male,positive,government
+2,2018-03,15262,male,positive,government
+3,2018-04,11000,male,positive,government
+4,2018-05,12692,male,positive,government
+5,2018-06,12178,male,positive,government
+6,2018-07,12030,male,positive,government
+7,2018-08,10994,male,positive,government
+8,2018-09,12075,male,positive,government
+9,2018-10,13161,male,positive,government
+10,2018-11,12201,male,positive,government
+11,2018-12,13182,male,positive,government
+0,2018-01,4198,female,positive,government
+1,2018-02,3753,female,positive,government
+2,2018-03,4350,female,positive,government
+3,2018-04,3705,female,positive,government
+4,2018-05,3108,female,positive,government
+5,2018-06,3024,female,positive,government
+6,2018-07,2997,female,positive,government
+7,2018-08,3042,female,positive,government
+8,2018-09,3442,female,positive,government
+9,2018-10,5511,female,positive,government
+10,2018-11,3592,female,positive,government
+11,2018-12,2822,female,positive,government
+0,2018-01,19744,male,negative,party politics
+1,2018-02,19237,male,negative,party politics
+2,2018-03,18407,male,negative,party politics
+3,2018-04,18581,male,negative,party politics
+4,2018-05,16622,male,negative,party politics
+5,2018-06,14629,male,negative,party politics
+6,2018-07,15116,male,negative,party politics
+7,2018-08,18726,male,negative,party politics
+8,2018-09,24472,male,negative,party politics
+9,2018-10,21961,male,negative,party politics
+10,2018-11,15497,male,negative,party politics
+11,2018-12,13316,male,negative,party politics
+0,2018-01,4342,female,negative,party politics
+1,2018-02,4100,female,negative,party politics
+2,2018-03,4515,female,negative,party politics
+3,2018-04,3880,female,negative,party politics
+4,2018-05,4699,female,negative,party politics
+5,2018-06,2749,female,negative,party politics
+6,2018-07,5263,female,negative,party politics
+7,2018-08,4749,female,negative,party politics
+8,2018-09,6652,female,negative,party politics
+9,2018-10,5592,female,negative,party politics
+10,2018-11,5988,female,negative,party politics
+11,2018-12,3348,female,negative,party politics
+0,2018-01,18332,male,neutral,party politics
+1,2018-02,23568,male,neutral,party politics
+2,2018-03,21008,male,neutral,party politics
+3,2018-04,18656,male,neutral,party politics
+4,2018-05,16395,male,neutral,party politics
+5,2018-06,16406,male,neutral,party politics
+6,2018-07,15956,male,neutral,party politics
+7,2018-08,20536,male,neutral,party politics
+8,2018-09,22142,male,neutral,party politics
+9,2018-10,18893,male,neutral,party politics
+10,2018-11,19364,male,neutral,party politics
+11,2018-12,16563,male,neutral,party politics
+0,2018-01,4017,female,neutral,party politics
+1,2018-02,4113,female,neutral,party politics
+2,2018-03,5353,female,neutral,party politics
+3,2018-04,3120,female,neutral,party politics
+4,2018-05,4570,female,neutral,party politics
+5,2018-06,5168,female,neutral,party politics
+6,2018-07,3763,female,neutral,party politics
+7,2018-08,4169,female,neutral,party politics
+8,2018-09,5654,female,neutral,party politics
+9,2018-10,6117,female,neutral,party politics
+10,2018-11,4500,female,neutral,party politics
+11,2018-12,3448,female,neutral,party politics
+0,2018-01,6607,male,positive,party politics
+1,2018-02,7417,male,positive,party politics
+2,2018-03,8233,male,positive,party politics
+3,2018-04,6345,male,positive,party politics
+4,2018-05,6428,male,positive,party politics
+5,2018-06,7149,male,positive,party politics
+6,2018-07,5900,male,positive,party politics
+7,2018-08,7752,male,positive,party politics
+8,2018-09,6247,male,positive,party politics
+9,2018-10,6171,male,positive,party politics
+10,2018-11,6755,male,positive,party politics
+11,2018-12,5963,male,positive,party politics
+0,2018-01,2938,female,positive,party politics
+1,2018-02,2599,female,positive,party politics
+2,2018-03,3141,female,positive,party politics
+3,2018-04,1492,female,positive,party politics
+4,2018-05,1606,female,positive,party politics
+5,2018-06,1612,female,positive,party politics
+6,2018-07,1156,female,positive,party politics
+7,2018-08,1824,female,positive,party politics
+8,2018-09,1497,female,positive,party politics
+9,2018-10,1980,female,positive,party politics
+10,2018-11,2187,female,positive,party politics
+11,2018-12,1312,female,positive,party politics
+0,2018-01,16535,male,negative,law
+1,2018-02,23188,male,negative,law
+2,2018-03,24399,male,negative,law
+3,2018-04,17928,male,negative,law
+4,2018-05,16498,male,negative,law
+5,2018-06,13284,male,negative,law
+6,2018-07,15066,male,negative,law
+7,2018-08,11769,male,negative,law
+8,2018-09,15143,male,negative,law
+9,2018-10,13516,male,negative,law
+10,2018-11,10590,male,negative,law
+11,2018-12,11205,male,negative,law
+0,2018-01,2946,female,negative,law
+1,2018-02,3944,female,negative,law
+2,2018-03,4646,female,negative,law
+3,2018-04,4360,female,negative,law
+4,2018-05,4560,female,negative,law
+5,2018-06,5232,female,negative,law
+6,2018-07,2457,female,negative,law
+7,2018-08,1778,female,negative,law
+8,2018-09,3777,female,negative,law
+9,2018-10,8592,female,negative,law
+10,2018-11,3698,female,negative,law
+11,2018-12,2148,female,negative,law
+0,2018-01,17161,male,neutral,law
+1,2018-02,24960,male,neutral,law
+2,2018-03,29006,male,neutral,law
+3,2018-04,23777,male,neutral,law
+4,2018-05,23913,male,neutral,law
+5,2018-06,18914,male,neutral,law
+6,2018-07,16653,male,neutral,law
+7,2018-08,13721,male,neutral,law
+8,2018-09,16896,male,neutral,law
+9,2018-10,21139,male,neutral,law
+10,2018-11,12983,male,neutral,law
+11,2018-12,13863,male,neutral,law
+0,2018-01,4029,female,neutral,law
+1,2018-02,4477,female,neutral,law
+2,2018-03,3702,female,neutral,law
+3,2018-04,4295,female,neutral,law
+4,2018-05,4658,female,neutral,law
+5,2018-06,7536,female,neutral,law
+6,2018-07,2883,female,neutral,law
+7,2018-08,3146,female,neutral,law
+8,2018-09,4802,female,neutral,law
+9,2018-10,3659,female,neutral,law
+10,2018-11,3618,female,neutral,law
+11,2018-12,2866,female,neutral,law
+0,2018-01,3822,male,positive,law
+1,2018-02,6439,male,positive,law
+2,2018-03,12967,male,positive,law
+3,2018-04,5981,male,positive,law
+4,2018-05,4959,male,positive,law
+5,2018-06,4487,male,positive,law
+6,2018-07,3593,male,positive,law
+7,2018-08,2853,male,positive,law
+8,2018-09,3296,male,positive,law
+9,2018-10,6328,male,positive,law
+10,2018-11,4794,male,positive,law
+11,2018-12,3577,male,positive,law
+0,2018-01,1364,female,positive,law
+1,2018-02,980,female,positive,law
+2,2018-03,1174,female,positive,law
+3,2018-04,1773,female,positive,law
+4,2018-05,1442,female,positive,law
+5,2018-06,907,female,positive,law
+6,2018-07,853,female,positive,law
+7,2018-08,977,female,positive,law
+8,2018-09,745,female,positive,law
+9,2018-10,1116,female,positive,law
+10,2018-11,590,female,positive,law
+11,2018-12,1581,female,positive,law
+0,2018-01,4570,male,negative,legal
+1,2018-02,6363,male,negative,legal
+2,2018-03,7460,male,negative,legal
+3,2018-04,6547,male,negative,legal
+4,2018-05,5120,male,negative,legal
+5,2018-06,4746,male,negative,legal
+6,2018-07,2364,male,negative,legal
+7,2018-08,4326,male,negative,legal
+8,2018-09,3427,male,negative,legal
+9,2018-10,4238,male,negative,legal
+10,2018-11,2887,male,negative,legal
+11,2018-12,3696,male,negative,legal
+0,2018-01,1723,female,negative,legal
+1,2018-02,1425,female,negative,legal
+2,2018-03,1204,female,negative,legal
+3,2018-04,1101,female,negative,legal
+4,2018-05,1768,female,negative,legal
+5,2018-06,2333,female,negative,legal
+6,2018-07,910,female,negative,legal
+7,2018-08,888,female,negative,legal
+8,2018-09,1565,female,negative,legal
+9,2018-10,1625,female,negative,legal
+10,2018-11,865,female,negative,legal
+11,2018-12,1105,female,negative,legal
+0,2018-01,6200,male,neutral,legal
+1,2018-02,9277,male,neutral,legal
+2,2018-03,9737,male,neutral,legal
+3,2018-04,9212,male,neutral,legal
+4,2018-05,7644,male,neutral,legal
+5,2018-06,7999,male,neutral,legal
+6,2018-07,6163,male,neutral,legal
+7,2018-08,6581,male,neutral,legal
+8,2018-09,7303,male,neutral,legal
+9,2018-10,6516,male,neutral,legal
+10,2018-11,5716,male,neutral,legal
+11,2018-12,6598,male,neutral,legal
+0,2018-01,1846,female,neutral,legal
+1,2018-02,2339,female,neutral,legal
+2,2018-03,2281,female,neutral,legal
+3,2018-04,3840,female,neutral,legal
+4,2018-05,1769,female,neutral,legal
+5,2018-06,1367,female,neutral,legal
+6,2018-07,851,female,neutral,legal
+7,2018-08,2316,female,neutral,legal
+8,2018-09,1606,female,neutral,legal
+9,2018-10,1898,female,neutral,legal
+10,2018-11,1346,female,neutral,legal
+11,2018-12,1760,female,neutral,legal
+0,2018-01,2260,male,positive,legal
+1,2018-02,1919,male,positive,legal
+2,2018-03,2922,male,positive,legal
+3,2018-04,1815,male,positive,legal
+4,2018-05,2986,male,positive,legal
+5,2018-06,1554,male,positive,legal
+6,2018-07,1995,male,positive,legal
+7,2018-08,833,male,positive,legal
+8,2018-09,1852,male,positive,legal
+9,2018-10,2080,male,positive,legal
+10,2018-11,1912,male,positive,legal
+11,2018-12,903,male,positive,legal
+0,2018-01,806,female,positive,legal
+1,2018-02,788,female,positive,legal
+2,2018-03,375,female,positive,legal
+3,2018-04,975,female,positive,legal
+4,2018-05,1909,female,positive,legal
+5,2018-06,242,female,positive,legal
+6,2018-07,315,female,positive,legal
+7,2018-08,122,female,positive,legal
+8,2018-09,375,female,positive,legal
+9,2018-10,304,female,positive,legal
+10,2018-11,202,female,positive,legal
+11,2018-12,464,female,positive,legal
+0,2019-01,4176,male,negative,vote
+1,2019-02,4883,male,negative,vote
+2,2019-03,10303,male,negative,vote
+3,2019-04,4701,male,negative,vote
+4,2019-05,10667,male,negative,vote
+5,2019-06,3564,male,negative,vote
+6,2019-07,2941,male,negative,vote
+7,2019-08,4048,male,negative,vote
+8,2019-09,4662,male,negative,vote
+9,2019-10,7074,male,negative,vote
+10,2019-11,5790,male,negative,vote
+11,2019-12,7925,male,negative,vote
+0,2019-01,1730,female,negative,vote
+1,2019-02,806,female,negative,vote
+2,2019-03,2749,female,negative,vote
+3,2019-04,1031,female,negative,vote
+4,2019-05,3073,female,negative,vote
+5,2019-06,1056,female,negative,vote
+6,2019-07,892,female,negative,vote
+7,2019-08,1066,female,negative,vote
+8,2019-09,1283,female,negative,vote
+9,2019-10,2065,female,negative,vote
+10,2019-11,1381,female,negative,vote
+11,2019-12,2001,female,negative,vote
+0,2019-01,7256,male,neutral,vote
+1,2019-02,5009,male,neutral,vote
+2,2019-03,12852,male,neutral,vote
+3,2019-04,7452,male,neutral,vote
+4,2019-05,12693,male,neutral,vote
+5,2019-06,5280,male,neutral,vote
+6,2019-07,3352,male,neutral,vote
+7,2019-08,4144,male,neutral,vote
+8,2019-09,6481,male,neutral,vote
+9,2019-10,10345,male,neutral,vote
+10,2019-11,8342,male,neutral,vote
+11,2019-12,8399,male,neutral,vote
+0,2019-01,1818,female,neutral,vote
+1,2019-02,1093,female,neutral,vote
+2,2019-03,4301,female,neutral,vote
+3,2019-04,1504,female,neutral,vote
+4,2019-05,4398,female,neutral,vote
+5,2019-06,797,female,neutral,vote
+6,2019-07,1395,female,neutral,vote
+7,2019-08,1017,female,neutral,vote
+8,2019-09,2413,female,neutral,vote
+9,2019-10,3116,female,neutral,vote
+10,2019-11,3187,female,neutral,vote
+11,2019-12,4961,female,neutral,vote
+0,2019-01,2353,male,positive,vote
+1,2019-02,1428,male,positive,vote
+2,2019-03,2952,male,positive,vote
+3,2019-04,2583,male,positive,vote
+4,2019-05,3749,male,positive,vote
+5,2019-06,1913,male,positive,vote
+6,2019-07,1176,male,positive,vote
+7,2019-08,848,male,positive,vote
+8,2019-09,1461,male,positive,vote
+9,2019-10,2784,male,positive,vote
+10,2019-11,3224,male,positive,vote
+11,2019-12,2583,male,positive,vote
+0,2019-01,624,female,positive,vote
+1,2019-02,338,female,positive,vote
+2,2019-03,686,female,positive,vote
+3,2019-04,394,female,positive,vote
+4,2019-05,1755,female,positive,vote
+5,2019-06,577,female,positive,vote
+6,2019-07,543,female,positive,vote
+7,2019-08,154,female,positive,vote
+8,2019-09,300,female,positive,vote
+9,2019-10,371,female,positive,vote
+10,2019-11,1223,female,positive,vote
+11,2019-12,556,female,positive,vote
+0,2019-01,3902,male,negative,election
+1,2019-02,5894,male,negative,election
+2,2019-03,9443,male,negative,election
+3,2019-04,5446,male,negative,election
+4,2019-05,13180,male,negative,election
+5,2019-06,8297,male,negative,election
+6,2019-07,3472,male,negative,election
+7,2019-08,3274,male,negative,election
+8,2019-09,11194,male,negative,election
+9,2019-10,9623,male,negative,election
+10,2019-11,11280,male,negative,election
+11,2019-12,10748,male,negative,election
+0,2019-01,1159,female,negative,election
+1,2019-02,568,female,negative,election
+2,2019-03,1400,female,negative,election
+3,2019-04,1265,female,negative,election
+4,2019-05,2155,female,negative,election
+5,2019-06,850,female,negative,election
+6,2019-07,859,female,negative,election
+7,2019-08,836,female,negative,election
+8,2019-09,2227,female,negative,election
+9,2019-10,2996,female,negative,election
+10,2019-11,3528,female,negative,election
+11,2019-12,2775,female,negative,election
+0,2019-01,7111,male,neutral,election
+1,2019-02,5410,male,neutral,election
+2,2019-03,12223,male,neutral,election
+3,2019-04,7802,male,neutral,election
+4,2019-05,14362,male,neutral,election
+5,2019-06,6512,male,neutral,election
+6,2019-07,4892,male,neutral,election
+7,2019-08,4987,male,neutral,election
+8,2019-09,15049,male,neutral,election
+9,2019-10,13372,male,neutral,election
+10,2019-11,14888,male,neutral,election
+11,2019-12,10321,male,neutral,election
+0,2019-01,1056,female,neutral,election
+1,2019-02,849,female,neutral,election
+2,2019-03,1039,female,neutral,election
+3,2019-04,1218,female,neutral,election
+4,2019-05,3445,female,neutral,election
+5,2019-06,1681,female,neutral,election
+6,2019-07,857,female,neutral,election
+7,2019-08,1217,female,neutral,election
+8,2019-09,2165,female,neutral,election
+9,2019-10,3363,female,neutral,election
+10,2019-11,4607,female,neutral,election
+11,2019-12,4452,female,neutral,election
+0,2019-01,1500,male,positive,election
+1,2019-02,2082,male,positive,election
+2,2019-03,2832,male,positive,election
+3,2019-04,2296,male,positive,election
+4,2019-05,4773,male,positive,election
+5,2019-06,2844,male,positive,election
+6,2019-07,1179,male,positive,election
+7,2019-08,1315,male,positive,election
+8,2019-09,2273,male,positive,election
+9,2019-10,2838,male,positive,election
+10,2019-11,5528,male,positive,election
+11,2019-12,4452,male,positive,election
+0,2019-01,546,female,positive,election
+1,2019-02,256,female,positive,election
+2,2019-03,725,female,positive,election
+3,2019-04,737,female,positive,election
+4,2019-05,1852,female,positive,election
+5,2019-06,398,female,positive,election
+6,2019-07,213,female,positive,election
+7,2019-08,244,female,positive,election
+8,2019-09,829,female,positive,election
+9,2019-10,444,female,positive,election
+10,2019-11,1734,female,positive,election
+11,2019-12,629,female,positive,election
+0,2019-01,33500,male,negative,government
+1,2019-02,19766,male,negative,government
+2,2019-03,26293,male,negative,government
+3,2019-04,18456,male,negative,government
+4,2019-05,25651,male,negative,government
+5,2019-06,20763,male,negative,government
+6,2019-07,16430,male,negative,government
+7,2019-08,18903,male,negative,government
+8,2019-09,25272,male,negative,government
+9,2019-10,26654,male,negative,government
+10,2019-11,21640,male,negative,government
+11,2019-12,18799,male,negative,government
+0,2019-01,8261,female,negative,government
+1,2019-02,4529,female,negative,government
+2,2019-03,7192,female,negative,government
+3,2019-04,4313,female,negative,government
+4,2019-05,8031,female,negative,government
+5,2019-06,6001,female,negative,government
+6,2019-07,5479,female,negative,government
+7,2019-08,5019,female,negative,government
+8,2019-09,7447,female,negative,government
+9,2019-10,6428,female,negative,government
+10,2019-11,6653,female,negative,government
+11,2019-12,5179,female,negative,government
+0,2019-01,38343,male,neutral,government
+1,2019-02,24147,male,neutral,government
+2,2019-03,31808,male,neutral,government
+3,2019-04,24318,male,neutral,government
+4,2019-05,31224,male,neutral,government
+5,2019-06,27183,male,neutral,government
+6,2019-07,20345,male,neutral,government
+7,2019-08,23591,male,neutral,government
+8,2019-09,32822,male,neutral,government
+9,2019-10,36023,male,neutral,government
+10,2019-11,31011,male,neutral,government
+11,2019-12,24444,male,neutral,government
+0,2019-01,12217,female,neutral,government
+1,2019-02,5323,female,neutral,government
+2,2019-03,7394,female,neutral,government
+3,2019-04,5550,female,neutral,government
+4,2019-05,8170,female,neutral,government
+5,2019-06,7587,female,neutral,government
+6,2019-07,4235,female,neutral,government
+7,2019-08,4121,female,neutral,government
+8,2019-09,7346,female,neutral,government
+9,2019-10,6558,female,neutral,government
+10,2019-11,6061,female,neutral,government
+11,2019-12,5422,female,neutral,government
+0,2019-01,11794,male,positive,government
+1,2019-02,9018,male,positive,government
+2,2019-03,11073,male,positive,government
+3,2019-04,7664,male,positive,government
+4,2019-05,12930,male,positive,government
+5,2019-06,11236,male,positive,government
+6,2019-07,8020,male,positive,government
+7,2019-08,8376,male,positive,government
+8,2019-09,10271,male,positive,government
+9,2019-10,12259,male,positive,government
+10,2019-11,9471,male,positive,government
+11,2019-12,10671,male,positive,government
+0,2019-01,3914,female,positive,government
+1,2019-02,1938,female,positive,government
+2,2019-03,3592,female,positive,government
+3,2019-04,2164,female,positive,government
+4,2019-05,3313,female,positive,government
+5,2019-06,4004,female,positive,government
+6,2019-07,1812,female,positive,government
+7,2019-08,1930,female,positive,government
+8,2019-09,2480,female,positive,government
+9,2019-10,2044,female,positive,government
+10,2019-11,2181,female,positive,government
+11,2019-12,2044,female,positive,government
+0,2019-01,12287,male,negative,party politics
+1,2019-02,12321,male,negative,party politics
+2,2019-03,16112,male,negative,party politics
+3,2019-04,12465,male,negative,party politics
+4,2019-05,22642,male,negative,party politics
+5,2019-06,16500,male,negative,party politics
+6,2019-07,11972,male,negative,party politics
+7,2019-08,9674,male,negative,party politics
+8,2019-09,15805,male,negative,party politics
+9,2019-10,12970,male,negative,party politics
+10,2019-11,18225,male,negative,party politics
+11,2019-12,18961,male,negative,party politics
+0,2019-01,3472,female,negative,party politics
+1,2019-02,4076,female,negative,party politics
+2,2019-03,4561,female,negative,party politics
+3,2019-04,2785,female,negative,party politics
+4,2019-05,7072,female,negative,party politics
+5,2019-06,6500,female,negative,party politics
+6,2019-07,1943,female,negative,party politics
+7,2019-08,3106,female,negative,party politics
+8,2019-09,4058,female,negative,party politics
+9,2019-10,4389,female,negative,party politics
+10,2019-11,6116,female,negative,party politics
+11,2019-12,3878,female,negative,party politics
+0,2019-01,13076,male,neutral,party politics
+1,2019-02,12613,male,neutral,party politics
+2,2019-03,18390,male,neutral,party politics
+3,2019-04,12737,male,neutral,party politics
+4,2019-05,26035,male,neutral,party politics
+5,2019-06,18179,male,neutral,party politics
+6,2019-07,9906,male,neutral,party politics
+7,2019-08,12263,male,neutral,party politics
+8,2019-09,13849,male,neutral,party politics
+9,2019-10,16162,male,neutral,party politics
+10,2019-11,18956,male,neutral,party politics
+11,2019-12,17115,male,neutral,party politics
+0,2019-01,2983,female,neutral,party politics
+1,2019-02,3396,female,neutral,party politics
+2,2019-03,5739,female,neutral,party politics
+3,2019-04,4004,female,neutral,party politics
+4,2019-05,7822,female,neutral,party politics
+5,2019-06,4267,female,neutral,party politics
+6,2019-07,2770,female,neutral,party politics
+7,2019-08,2428,female,neutral,party politics
+8,2019-09,4270,female,neutral,party politics
+9,2019-10,5524,female,neutral,party politics
+10,2019-11,5170,female,neutral,party politics
+11,2019-12,5537,female,neutral,party politics
+0,2019-01,5149,male,positive,party politics
+1,2019-02,4310,male,positive,party politics
+2,2019-03,7009,male,positive,party politics
+3,2019-04,4607,male,positive,party politics
+4,2019-05,10614,male,positive,party politics
+5,2019-06,6670,male,positive,party politics
+6,2019-07,4746,male,positive,party politics
+7,2019-08,3946,male,positive,party politics
+8,2019-09,4965,male,positive,party politics
+9,2019-10,5334,male,positive,party politics
+10,2019-11,6272,male,positive,party politics
+11,2019-12,10138,male,positive,party politics
+0,2019-01,1257,female,positive,party politics
+1,2019-02,1575,female,positive,party politics
+2,2019-03,1489,female,positive,party politics
+3,2019-04,1262,female,positive,party politics
+4,2019-05,3813,female,positive,party politics
+5,2019-06,2240,female,positive,party politics
+6,2019-07,959,female,positive,party politics
+7,2019-08,1072,female,positive,party politics
+8,2019-09,1490,female,positive,party politics
+9,2019-10,1768,female,positive,party politics
+10,2019-11,1936,female,positive,party politics
+11,2019-12,1969,female,positive,party politics
+0,2019-01,9949,male,negative,law
+1,2019-02,10208,male,negative,law
+2,2019-03,9349,male,negative,law
+3,2019-04,8489,male,negative,law
+4,2019-05,12640,male,negative,law
+5,2019-06,10932,male,negative,law
+6,2019-07,8103,male,negative,law
+7,2019-08,9658,male,negative,law
+8,2019-09,10122,male,negative,law
+9,2019-10,11526,male,negative,law
+10,2019-11,10057,male,negative,law
+11,2019-12,11666,male,negative,law
+0,2019-01,2343,female,negative,law
+1,2019-02,3013,female,negative,law
+2,2019-03,3902,female,negative,law
+3,2019-04,3349,female,negative,law
+4,2019-05,4659,female,negative,law
+5,2019-06,2941,female,negative,law
+6,2019-07,1992,female,negative,law
+7,2019-08,2578,female,negative,law
+8,2019-09,3632,female,negative,law
+9,2019-10,2551,female,negative,law
+10,2019-11,3204,female,negative,law
+11,2019-12,2885,female,negative,law
+0,2019-01,14175,male,neutral,law
+1,2019-02,13083,male,neutral,law
+2,2019-03,14787,male,neutral,law
+3,2019-04,10970,male,neutral,law
+4,2019-05,13591,male,neutral,law
+5,2019-06,10599,male,neutral,law
+6,2019-07,9818,male,neutral,law
+7,2019-08,11839,male,neutral,law
+8,2019-09,14011,male,neutral,law
+9,2019-10,14174,male,neutral,law
+10,2019-11,13141,male,neutral,law
+11,2019-12,9599,male,neutral,law
+0,2019-01,3258,female,neutral,law
+1,2019-02,2331,female,neutral,law
+2,2019-03,3470,female,neutral,law
+3,2019-04,2609,female,neutral,law
+4,2019-05,3882,female,neutral,law
+5,2019-06,3026,female,neutral,law
+6,2019-07,2560,female,neutral,law
+7,2019-08,2448,female,neutral,law
+8,2019-09,4110,female,neutral,law
+9,2019-10,4753,female,neutral,law
+10,2019-11,3648,female,neutral,law
+11,2019-12,2060,female,neutral,law
+0,2019-01,2872,male,positive,law
+1,2019-02,2754,male,positive,law
+2,2019-03,3500,male,positive,law
+3,2019-04,2128,male,positive,law
+4,2019-05,2995,male,positive,law
+5,2019-06,3380,male,positive,law
+6,2019-07,2644,male,positive,law
+7,2019-08,3024,male,positive,law
+8,2019-09,2882,male,positive,law
+9,2019-10,2837,male,positive,law
+10,2019-11,2298,male,positive,law
+11,2019-12,2942,male,positive,law
+0,2019-01,645,female,positive,law
+1,2019-02,688,female,positive,law
+2,2019-03,469,female,positive,law
+3,2019-04,758,female,positive,law
+4,2019-05,944,female,positive,law
+5,2019-06,853,female,positive,law
+6,2019-07,619,female,positive,law
+7,2019-08,799,female,positive,law
+8,2019-09,825,female,positive,law
+9,2019-10,950,female,positive,law
+10,2019-11,1159,female,positive,law
+11,2019-12,756,female,positive,law
+0,2019-01,2661,male,negative,legal
+1,2019-02,3864,male,negative,legal
+2,2019-03,3793,male,negative,legal
+3,2019-04,3360,male,negative,legal
+4,2019-05,4190,male,negative,legal
+5,2019-06,3491,male,negative,legal
+6,2019-07,2490,male,negative,legal
+7,2019-08,2645,male,negative,legal
+8,2019-09,3359,male,negative,legal
+9,2019-10,3792,male,negative,legal
+10,2019-11,2784,male,negative,legal
+11,2019-12,3126,male,negative,legal
+0,2019-01,752,female,negative,legal
+1,2019-02,811,female,negative,legal
+2,2019-03,684,female,negative,legal
+3,2019-04,774,female,negative,legal
+4,2019-05,1466,female,negative,legal
+5,2019-06,1027,female,negative,legal
+6,2019-07,519,female,negative,legal
+7,2019-08,626,female,negative,legal
+8,2019-09,459,female,negative,legal
+9,2019-10,1327,female,negative,legal
+10,2019-11,1035,female,negative,legal
+11,2019-12,740,female,negative,legal
+0,2019-01,5702,male,neutral,legal
+1,2019-02,4265,male,neutral,legal
+2,2019-03,7834,male,neutral,legal
+3,2019-04,5741,male,neutral,legal
+4,2019-05,6799,male,neutral,legal
+5,2019-06,4835,male,neutral,legal
+6,2019-07,4046,male,neutral,legal
+7,2019-08,4347,male,neutral,legal
+8,2019-09,4337,male,neutral,legal
+9,2019-10,7612,male,neutral,legal
+10,2019-11,5237,male,neutral,legal
+11,2019-12,3148,male,neutral,legal
+0,2019-01,1193,female,neutral,legal
+1,2019-02,907,female,neutral,legal
+2,2019-03,1440,female,neutral,legal
+3,2019-04,785,female,neutral,legal
+4,2019-05,2209,female,neutral,legal
+5,2019-06,1371,female,neutral,legal
+6,2019-07,937,female,neutral,legal
+7,2019-08,685,female,neutral,legal
+8,2019-09,1457,female,neutral,legal
+9,2019-10,1556,female,neutral,legal
+10,2019-11,1299,female,neutral,legal
+11,2019-12,1502,female,neutral,legal
+0,2019-01,1123,male,positive,legal
+1,2019-02,1081,male,positive,legal
+2,2019-03,1036,male,positive,legal
+3,2019-04,1099,male,positive,legal
+4,2019-05,1164,male,positive,legal
+5,2019-06,1464,male,positive,legal
+6,2019-07,1207,male,positive,legal
+7,2019-08,980,male,positive,legal
+8,2019-09,846,male,positive,legal
+9,2019-10,861,male,positive,legal
+10,2019-11,1119,male,positive,legal
+11,2019-12,745,male,positive,legal
+0,2019-01,223,female,positive,legal
+1,2019-02,250,female,positive,legal
+2,2019-03,175,female,positive,legal
+3,2019-04,213,female,positive,legal
+4,2019-05,332,female,positive,legal
+5,2019-06,458,female,positive,legal
+6,2019-07,348,female,positive,legal
+7,2019-08,161,female,positive,legal
+8,2019-09,607,female,positive,legal
+9,2019-10,228,female,positive,legal
+10,2019-11,588,female,positive,legal
+11,2019-12,202,female,positive,legal
+0,2020-01,4160,male,negative,vote
+1,2020-02,3664,male,negative,vote
+2,2020-03,2107,male,negative,vote
+3,2020-04,848,male,negative,vote
+0,2020-01,1464,female,negative,vote
+1,2020-02,1347,female,negative,vote
+2,2020-03,354,female,negative,vote
+3,2020-04,191,female,negative,vote
+0,2020-01,7195,male,neutral,vote
+1,2020-02,5866,male,neutral,vote
+2,2020-03,4807,male,neutral,vote
+3,2020-04,1438,male,neutral,vote
+0,2020-01,2606,female,neutral,vote
+1,2020-02,1342,female,neutral,vote
+2,2020-03,896,female,neutral,vote
+3,2020-04,165,female,neutral,vote
+0,2020-01,1151,male,positive,vote
+1,2020-02,2631,male,positive,vote
+2,2020-03,1771,male,positive,vote
+3,2020-04,439,male,positive,vote
+0,2020-01,1064,female,positive,vote
+1,2020-02,623,female,positive,vote
+2,2020-03,801,female,positive,vote
+3,2020-04,100,female,positive,vote
+0,2020-01,7669,male,negative,election
+1,2020-02,7393,male,negative,election
+2,2020-03,3012,male,negative,election
+3,2020-04,754,male,negative,election
+0,2020-01,2046,female,negative,election
+1,2020-02,1084,female,negative,election
+2,2020-03,754,female,negative,election
+3,2020-04,84,female,negative,election
+0,2020-01,6812,male,neutral,election
+1,2020-02,7550,male,neutral,election
+2,2020-03,2702,male,neutral,election
+3,2020-04,1429,male,neutral,election
+0,2020-01,2159,female,neutral,election
+1,2020-02,2103,female,neutral,election
+2,2020-03,1043,female,neutral,election
+3,2020-04,197,female,neutral,election
+0,2020-01,2593,male,positive,election
+1,2020-02,1982,male,positive,election
+2,2020-03,949,male,positive,election
+3,2020-04,471,male,positive,election
+0,2020-01,736,female,positive,election
+1,2020-02,937,female,positive,election
+2,2020-03,312,female,positive,election
+3,2020-04,45,female,positive,election
+0,2020-01,20420,male,negative,government
+1,2020-02,18015,male,negative,government
+2,2020-03,15863,male,negative,government
+3,2020-04,6700,male,negative,government
+0,2020-01,4437,female,negative,government
+1,2020-02,5210,female,negative,government
+2,2020-03,3344,female,negative,government
+3,2020-04,1470,female,negative,government
+0,2020-01,28242,male,neutral,government
+1,2020-02,25954,male,neutral,government
+2,2020-03,32467,male,neutral,government
+3,2020-04,11387,male,neutral,government
+0,2020-01,6130,female,neutral,government
+1,2020-02,5863,female,neutral,government
+2,2020-03,6856,female,neutral,government
+3,2020-04,1973,female,neutral,government
+0,2020-01,9839,male,positive,government
+1,2020-02,8990,male,positive,government
+2,2020-03,11470,male,positive,government
+3,2020-04,4600,male,positive,government
+0,2020-01,3116,female,positive,government
+1,2020-02,2883,female,positive,government
+2,2020-03,2729,female,positive,government
+3,2020-04,927,female,positive,government
+0,2020-01,9737,male,negative,party politics
+1,2020-02,12796,male,negative,party politics
+2,2020-03,5817,male,negative,party politics
+3,2020-04,1769,male,negative,party politics
+0,2020-01,3110,female,negative,party politics
+1,2020-02,3607,female,negative,party politics
+2,2020-03,1082,female,negative,party politics
+3,2020-04,386,female,negative,party politics
+0,2020-01,12263,male,neutral,party politics
+1,2020-02,13645,male,neutral,party politics
+2,2020-03,5796,male,neutral,party politics
+3,2020-04,2190,male,neutral,party politics
+0,2020-01,4376,female,neutral,party politics
+1,2020-02,3444,female,neutral,party politics
+2,2020-03,1153,female,neutral,party politics
+3,2020-04,369,female,neutral,party politics
+0,2020-01,4657,male,positive,party politics
+1,2020-02,5222,male,positive,party politics
+2,2020-03,2692,male,positive,party politics
+3,2020-04,1529,male,positive,party politics
+0,2020-01,1795,female,positive,party politics
+1,2020-02,1989,female,positive,party politics
+2,2020-03,611,female,positive,party politics
+3,2020-04,351,female,positive,party politics
+0,2020-01,8513,male,negative,law
+1,2020-02,7585,male,negative,law
+2,2020-03,3797,male,negative,law
+3,2020-04,1211,male,negative,law
+0,2020-01,1822,female,negative,law
+1,2020-02,2192,female,negative,law
+2,2020-03,905,female,negative,law
+3,2020-04,314,female,negative,law
+0,2020-01,10961,male,neutral,law
+1,2020-02,9013,male,neutral,law
+2,2020-03,4925,male,neutral,law
+3,2020-04,1619,male,neutral,law
+0,2020-01,2394,female,neutral,law
+1,2020-02,1916,female,neutral,law
+2,2020-03,1014,female,neutral,law
+3,2020-04,234,female,neutral,law
+0,2020-01,2431,male,positive,law
+1,2020-02,2418,male,positive,law
+2,2020-03,851,male,positive,law
+3,2020-04,321,male,positive,law
+0,2020-01,799,female,positive,law
+1,2020-02,686,female,positive,law
+2,2020-03,223,female,positive,law
+3,2020-04,121,female,positive,law
+0,2020-01,2693,male,negative,legal
+1,2020-02,1940,male,negative,legal
+2,2020-03,1174,male,negative,legal
+3,2020-04,382,male,negative,legal
+0,2020-01,660,female,negative,legal
+1,2020-02,562,female,negative,legal
+2,2020-03,257,female,negative,legal
+3,2020-04,71,female,negative,legal
+0,2020-01,5503,male,neutral,legal
+1,2020-02,4351,male,neutral,legal
+2,2020-03,2342,male,neutral,legal
+3,2020-04,683,male,neutral,legal
+0,2020-01,867,female,neutral,legal
+1,2020-02,971,female,neutral,legal
+2,2020-03,482,female,neutral,legal
+3,2020-04,104,female,neutral,legal
+0,2020-01,752,male,positive,legal
+1,2020-02,583,male,positive,legal
+2,2020-03,250,male,positive,legal
+3,2020-04,182,male,positive,legal
+0,2020-01,268,female,positive,legal
+1,2020-02,255,female,positive,legal
+2,2020-03,68,female,positive,legal
+3,2020-04,24,female,positive,legal

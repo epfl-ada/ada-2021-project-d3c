@@ -1,0 +1,1893 @@
+,date,numOccurrences,gender,sentiment,topic
+0,2015-01,2373,male,negative,child brides
+1,2015-02,2182,male,negative,child brides
+2,2015-03,2186,male,negative,child brides
+3,2015-04,2006,male,negative,child brides
+4,2015-05,1380,male,negative,child brides
+5,2015-06,911,male,negative,child brides
+6,2015-07,3786,male,negative,child brides
+7,2015-08,4133,male,negative,child brides
+8,2015-09,4622,male,negative,child brides
+9,2015-10,4390,male,negative,child brides
+10,2015-11,3238,male,negative,child brides
+11,2015-12,2840,male,negative,child brides
+0,2015-01,586,female,negative,child brides
+1,2015-02,944,female,negative,child brides
+2,2015-03,705,female,negative,child brides
+3,2015-04,1015,female,negative,child brides
+4,2015-05,626,female,negative,child brides
+5,2015-06,490,female,negative,child brides
+6,2015-07,1511,female,negative,child brides
+7,2015-08,1602,female,negative,child brides
+8,2015-09,2062,female,negative,child brides
+9,2015-10,1597,female,negative,child brides
+10,2015-11,1434,female,negative,child brides
+11,2015-12,1526,female,negative,child brides
+0,2015-01,1973,male,neutral,child brides
+1,2015-02,1357,male,neutral,child brides
+2,2015-03,1598,male,neutral,child brides
+3,2015-04,1146,male,neutral,child brides
+4,2015-05,1063,male,neutral,child brides
+5,2015-06,874,male,neutral,child brides
+6,2015-07,2586,male,neutral,child brides
+7,2015-08,2130,male,neutral,child brides
+8,2015-09,3402,male,neutral,child brides
+9,2015-10,3038,male,neutral,child brides
+10,2015-11,1900,male,neutral,child brides
+11,2015-12,2376,male,neutral,child brides
+0,2015-01,862,female,neutral,child brides
+1,2015-02,504,female,neutral,child brides
+2,2015-03,665,female,neutral,child brides
+3,2015-04,493,female,neutral,child brides
+4,2015-05,360,female,neutral,child brides
+5,2015-06,392,female,neutral,child brides
+6,2015-07,1059,female,neutral,child brides
+7,2015-08,1509,female,neutral,child brides
+8,2015-09,1628,female,neutral,child brides
+9,2015-10,1481,female,neutral,child brides
+10,2015-11,882,female,neutral,child brides
+11,2015-12,1380,female,neutral,child brides
+0,2015-01,1816,male,positive,child brides
+1,2015-02,1107,male,positive,child brides
+2,2015-03,724,male,positive,child brides
+3,2015-04,750,male,positive,child brides
+4,2015-05,507,male,positive,child brides
+5,2015-06,316,male,positive,child brides
+6,2015-07,1442,male,positive,child brides
+7,2015-08,1816,male,positive,child brides
+8,2015-09,2245,male,positive,child brides
+9,2015-10,2079,male,positive,child brides
+10,2015-11,1787,male,positive,child brides
+11,2015-12,1820,male,positive,child brides
+0,2015-01,584,female,positive,child brides
+1,2015-02,519,female,positive,child brides
+2,2015-03,491,female,positive,child brides
+3,2015-04,303,female,positive,child brides
+4,2015-05,175,female,positive,child brides
+5,2015-06,188,female,positive,child brides
+6,2015-07,580,female,positive,child brides
+7,2015-08,643,female,positive,child brides
+8,2015-09,1560,female,positive,child brides
+9,2015-10,1627,female,positive,child brides
+10,2015-11,747,female,positive,child brides
+11,2015-12,508,female,positive,child brides
+0,2015-01,1442,male,negative,sexual harassment
+1,2015-02,1015,male,negative,sexual harassment
+2,2015-03,1550,male,negative,sexual harassment
+3,2015-04,1382,male,negative,sexual harassment
+4,2015-05,727,male,negative,sexual harassment
+5,2015-06,626,male,negative,sexual harassment
+6,2015-07,2319,male,negative,sexual harassment
+7,2015-08,3589,male,negative,sexual harassment
+8,2015-09,3012,male,negative,sexual harassment
+9,2015-10,1772,male,negative,sexual harassment
+10,2015-11,1646,male,negative,sexual harassment
+11,2015-12,2829,male,negative,sexual harassment
+0,2015-01,478,female,negative,sexual harassment
+1,2015-02,776,female,negative,sexual harassment
+2,2015-03,768,female,negative,sexual harassment
+3,2015-04,553,female,negative,sexual harassment
+4,2015-05,604,female,negative,sexual harassment
+5,2015-06,425,female,negative,sexual harassment
+6,2015-07,815,female,negative,sexual harassment
+7,2015-08,1314,female,negative,sexual harassment
+8,2015-09,1051,female,negative,sexual harassment
+9,2015-10,1452,female,negative,sexual harassment
+10,2015-11,1129,female,negative,sexual harassment
+11,2015-12,579,female,negative,sexual harassment
+0,2015-01,768,male,neutral,sexual harassment
+1,2015-02,831,male,neutral,sexual harassment
+2,2015-03,1316,male,neutral,sexual harassment
+3,2015-04,982,male,neutral,sexual harassment
+4,2015-05,436,male,neutral,sexual harassment
+5,2015-06,463,male,neutral,sexual harassment
+6,2015-07,2129,male,neutral,sexual harassment
+7,2015-08,1762,male,neutral,sexual harassment
+8,2015-09,2264,male,neutral,sexual harassment
+9,2015-10,1440,male,neutral,sexual harassment
+10,2015-11,1011,male,neutral,sexual harassment
+11,2015-12,825,male,neutral,sexual harassment
+0,2015-01,200,female,neutral,sexual harassment
+1,2015-02,432,female,neutral,sexual harassment
+2,2015-03,440,female,neutral,sexual harassment
+3,2015-04,396,female,neutral,sexual harassment
+4,2015-05,274,female,neutral,sexual harassment
+5,2015-06,195,female,neutral,sexual harassment
+6,2015-07,398,female,neutral,sexual harassment
+7,2015-08,1256,female,neutral,sexual harassment
+8,2015-09,669,female,neutral,sexual harassment
+9,2015-10,631,female,neutral,sexual harassment
+10,2015-11,908,female,neutral,sexual harassment
+11,2015-12,421,female,neutral,sexual harassment
+0,2015-01,428,male,positive,sexual harassment
+1,2015-02,112,male,positive,sexual harassment
+2,2015-03,152,male,positive,sexual harassment
+3,2015-04,199,male,positive,sexual harassment
+4,2015-05,64,male,positive,sexual harassment
+5,2015-06,314,male,positive,sexual harassment
+6,2015-07,881,male,positive,sexual harassment
+7,2015-08,523,male,positive,sexual harassment
+8,2015-09,303,male,positive,sexual harassment
+9,2015-10,214,male,positive,sexual harassment
+10,2015-11,216,male,positive,sexual harassment
+11,2015-12,133,male,positive,sexual harassment
+0,2015-01,47,female,positive,sexual harassment
+1,2015-02,123,female,positive,sexual harassment
+2,2015-03,75,female,positive,sexual harassment
+3,2015-04,57,female,positive,sexual harassment
+4,2015-05,59,female,positive,sexual harassment
+5,2015-06,71,female,positive,sexual harassment
+6,2015-07,58,female,positive,sexual harassment
+7,2015-08,306,female,positive,sexual harassment
+8,2015-09,121,female,positive,sexual harassment
+9,2015-10,171,female,positive,sexual harassment
+10,2015-11,63,female,positive,sexual harassment
+11,2015-12,59,female,positive,sexual harassment
+0,2015-01,47,male,negative,feminism
+1,2015-02,15,male,negative,feminism
+2,2015-03,8,male,negative,feminism
+3,2015-04,11,male,negative,feminism
+4,2015-05,34,male,negative,feminism
+5,2015-06,7,male,negative,feminism
+6,2015-07,22,male,negative,feminism
+7,2015-08,18,male,negative,feminism
+8,2015-09,21,male,negative,feminism
+9,2015-10,23,male,negative,feminism
+10,2015-11,8,male,negative,feminism
+11,2015-12,1,male,negative,feminism
+0,2015-01,362,female,negative,feminism
+1,2015-02,109,female,negative,feminism
+2,2015-03,136,female,negative,feminism
+3,2015-04,20,female,negative,feminism
+4,2015-05,38,female,negative,feminism
+5,2015-06,40,female,negative,feminism
+6,2015-07,119,female,negative,feminism
+7,2015-08,41,female,negative,feminism
+8,2015-09,93,female,negative,feminism
+9,2015-10,92,female,negative,feminism
+10,2015-11,36,female,negative,feminism
+11,2015-12,74,female,negative,feminism
+0,2015-01,42,male,neutral,feminism
+1,2015-02,31,male,neutral,feminism
+2,2015-03,10,male,neutral,feminism
+3,2015-04,20,male,neutral,feminism
+4,2015-05,9,male,neutral,feminism
+5,2015-06,15,male,neutral,feminism
+6,2015-07,9,male,neutral,feminism
+7,2015-08,20,male,neutral,feminism
+8,2015-09,17,male,neutral,feminism
+9,2015-10,25,male,neutral,feminism
+10,2015-11,8,male,neutral,feminism
+11,2015-12,57,male,neutral,feminism
+0,2015-01,64,female,neutral,feminism
+1,2015-02,68,female,neutral,feminism
+2,2015-03,116,female,neutral,feminism
+3,2015-04,58,female,neutral,feminism
+4,2015-05,38,female,neutral,feminism
+5,2015-06,55,female,neutral,feminism
+6,2015-07,48,female,neutral,feminism
+7,2015-08,164,female,neutral,feminism
+8,2015-09,203,female,neutral,feminism
+9,2015-10,151,female,neutral,feminism
+10,2015-11,301,female,neutral,feminism
+11,2015-12,65,female,neutral,feminism
+0,2015-01,20,male,positive,feminism
+1,2015-02,5,male,positive,feminism
+2,2015-03,3,male,positive,feminism
+3,2015-04,2,male,positive,feminism
+4,2015-05,8,male,positive,feminism
+5,2015-06,3,male,positive,feminism
+6,2015-07,1,male,positive,feminism
+7,2015-08,126,male,positive,feminism
+8,2015-09,1,male,positive,feminism
+9,2015-10,4,male,positive,feminism
+10,2015-11,10,male,positive,feminism
+11,2015-12,10,male,positive,feminism
+0,2015-01,17,female,positive,feminism
+1,2015-02,15,female,positive,feminism
+2,2015-03,16,female,positive,feminism
+3,2015-04,16,female,positive,feminism
+4,2015-05,29,female,positive,feminism
+5,2015-06,24,female,positive,feminism
+6,2015-07,22,female,positive,feminism
+7,2015-08,32,female,positive,feminism
+8,2015-09,200,female,positive,feminism
+9,2015-10,46,female,positive,feminism
+10,2015-11,61,female,positive,feminism
+11,2015-12,32,female,positive,feminism
+0,2015-01,828,male,negative,gender inequality
+1,2015-02,684,male,negative,gender inequality
+2,2015-03,839,male,negative,gender inequality
+3,2015-04,736,male,negative,gender inequality
+4,2015-05,554,male,negative,gender inequality
+5,2015-06,371,male,negative,gender inequality
+6,2015-07,959,male,negative,gender inequality
+7,2015-08,1161,male,negative,gender inequality
+8,2015-09,1119,male,negative,gender inequality
+9,2015-10,1332,male,negative,gender inequality
+10,2015-11,1043,male,negative,gender inequality
+11,2015-12,876,male,negative,gender inequality
+0,2015-01,504,female,negative,gender inequality
+1,2015-02,220,female,negative,gender inequality
+2,2015-03,662,female,negative,gender inequality
+3,2015-04,511,female,negative,gender inequality
+4,2015-05,210,female,negative,gender inequality
+5,2015-06,312,female,negative,gender inequality
+6,2015-07,392,female,negative,gender inequality
+7,2015-08,521,female,negative,gender inequality
+8,2015-09,881,female,negative,gender inequality
+9,2015-10,416,female,negative,gender inequality
+10,2015-11,358,female,negative,gender inequality
+11,2015-12,675,female,negative,gender inequality
+0,2015-01,640,male,neutral,gender inequality
+1,2015-02,480,male,neutral,gender inequality
+2,2015-03,986,male,neutral,gender inequality
+3,2015-04,850,male,neutral,gender inequality
+4,2015-05,409,male,neutral,gender inequality
+5,2015-06,364,male,neutral,gender inequality
+6,2015-07,878,male,neutral,gender inequality
+7,2015-08,1120,male,neutral,gender inequality
+8,2015-09,1619,male,neutral,gender inequality
+9,2015-10,991,male,neutral,gender inequality
+10,2015-11,1373,male,neutral,gender inequality
+11,2015-12,924,male,neutral,gender inequality
+0,2015-01,406,female,neutral,gender inequality
+1,2015-02,421,female,neutral,gender inequality
+2,2015-03,687,female,neutral,gender inequality
+3,2015-04,716,female,neutral,gender inequality
+4,2015-05,279,female,neutral,gender inequality
+5,2015-06,278,female,neutral,gender inequality
+6,2015-07,604,female,neutral,gender inequality
+7,2015-08,770,female,neutral,gender inequality
+8,2015-09,1033,female,neutral,gender inequality
+9,2015-10,742,female,neutral,gender inequality
+10,2015-11,551,female,neutral,gender inequality
+11,2015-12,608,female,neutral,gender inequality
+0,2015-01,308,male,positive,gender inequality
+1,2015-02,244,male,positive,gender inequality
+2,2015-03,322,male,positive,gender inequality
+3,2015-04,285,male,positive,gender inequality
+4,2015-05,145,male,positive,gender inequality
+5,2015-06,133,male,positive,gender inequality
+6,2015-07,248,male,positive,gender inequality
+7,2015-08,808,male,positive,gender inequality
+8,2015-09,513,male,positive,gender inequality
+9,2015-10,939,male,positive,gender inequality
+10,2015-11,447,male,positive,gender inequality
+11,2015-12,451,male,positive,gender inequality
+0,2015-01,87,female,positive,gender inequality
+1,2015-02,180,female,positive,gender inequality
+2,2015-03,270,female,positive,gender inequality
+3,2015-04,162,female,positive,gender inequality
+4,2015-05,85,female,positive,gender inequality
+5,2015-06,196,female,positive,gender inequality
+6,2015-07,189,female,positive,gender inequality
+7,2015-08,294,female,positive,gender inequality
+8,2015-09,457,female,positive,gender inequality
+9,2015-10,382,female,positive,gender inequality
+10,2015-11,201,female,positive,gender inequality
+11,2015-12,345,female,positive,gender inequality
+0,2015-01,442,male,negative,abortion
+1,2015-02,323,male,negative,abortion
+2,2015-03,581,male,negative,abortion
+3,2015-04,233,male,negative,abortion
+4,2015-05,173,male,negative,abortion
+5,2015-06,356,male,negative,abortion
+6,2015-07,1200,male,negative,abortion
+7,2015-08,1853,male,negative,abortion
+8,2015-09,2594,male,negative,abortion
+9,2015-10,814,male,negative,abortion
+10,2015-11,799,male,negative,abortion
+11,2015-12,1051,male,negative,abortion
+0,2015-01,251,female,negative,abortion
+1,2015-02,118,female,negative,abortion
+2,2015-03,440,female,negative,abortion
+3,2015-04,210,female,negative,abortion
+4,2015-05,84,female,negative,abortion
+5,2015-06,250,female,negative,abortion
+6,2015-07,835,female,negative,abortion
+7,2015-08,774,female,negative,abortion
+8,2015-09,729,female,negative,abortion
+9,2015-10,957,female,negative,abortion
+10,2015-11,505,female,negative,abortion
+11,2015-12,491,female,negative,abortion
+0,2015-01,291,male,neutral,abortion
+1,2015-02,149,male,neutral,abortion
+2,2015-03,229,male,neutral,abortion
+3,2015-04,177,male,neutral,abortion
+4,2015-05,198,male,neutral,abortion
+5,2015-06,124,male,neutral,abortion
+6,2015-07,488,male,neutral,abortion
+7,2015-08,632,male,neutral,abortion
+8,2015-09,1208,male,neutral,abortion
+9,2015-10,380,male,neutral,abortion
+10,2015-11,227,male,neutral,abortion
+11,2015-12,270,male,neutral,abortion
+0,2015-01,251,female,neutral,abortion
+1,2015-02,118,female,neutral,abortion
+2,2015-03,160,female,neutral,abortion
+3,2015-04,163,female,neutral,abortion
+4,2015-05,52,female,neutral,abortion
+5,2015-06,137,female,neutral,abortion
+6,2015-07,229,female,neutral,abortion
+7,2015-08,595,female,neutral,abortion
+8,2015-09,319,female,neutral,abortion
+9,2015-10,291,female,neutral,abortion
+10,2015-11,95,female,neutral,abortion
+11,2015-12,207,female,neutral,abortion
+0,2015-01,23,male,positive,abortion
+1,2015-02,4,male,positive,abortion
+2,2015-03,52,male,positive,abortion
+3,2015-04,3,male,positive,abortion
+4,2015-05,1,male,positive,abortion
+5,2015-06,10,male,positive,abortion
+6,2015-07,13,male,positive,abortion
+7,2015-08,51,male,positive,abortion
+8,2015-09,36,male,positive,abortion
+9,2015-10,8,male,positive,abortion
+10,2015-11,14,male,positive,abortion
+11,2015-12,8,male,positive,abortion
+0,2015-01,11,female,positive,abortion
+1,2015-02,5,female,positive,abortion
+2,2015-03,16,female,positive,abortion
+3,2015-04,4,female,positive,abortion
+4,2015-05,10,female,positive,abortion
+5,2015-06,4,female,positive,abortion
+6,2015-07,61,female,positive,abortion
+7,2015-08,9,female,positive,abortion
+8,2015-09,31,female,positive,abortion
+9,2015-10,14,female,positive,abortion
+10,2015-11,62,female,positive,abortion
+11,2015-12,10,female,positive,abortion
+0,2016-01,38,male,negative,child brides
+1,2016-02,1783,male,negative,child brides
+2,2016-03,96,male,negative,child brides
+3,2016-04,1368,male,negative,child brides
+4,2016-05,6027,male,negative,child brides
+5,2016-06,110,male,negative,child brides
+6,2016-07,2703,male,negative,child brides
+7,2016-08,4061,male,negative,child brides
+8,2016-09,4612,male,negative,child brides
+9,2016-10,8,male,negative,child brides
+10,2016-11,110,male,negative,child brides
+11,2016-12,3281,male,negative,child brides
+0,2016-01,26,female,negative,child brides
+1,2016-02,890,female,negative,child brides
+2,2016-03,3,female,negative,child brides
+3,2016-04,699,female,negative,child brides
+4,2016-05,3158,female,negative,child brides
+5,2016-06,21,female,negative,child brides
+6,2016-07,1270,female,negative,child brides
+7,2016-08,1504,female,negative,child brides
+8,2016-09,2146,female,negative,child brides
+9,2016-10,5,female,negative,child brides
+10,2016-11,78,female,negative,child brides
+11,2016-12,1513,female,negative,child brides
+0,2016-01,43,male,neutral,child brides
+1,2016-02,1221,male,neutral,child brides
+2,2016-03,15,male,neutral,child brides
+3,2016-04,1451,male,neutral,child brides
+4,2016-05,3127,male,neutral,child brides
+5,2016-06,48,male,neutral,child brides
+6,2016-07,2321,male,neutral,child brides
+7,2016-08,3207,male,neutral,child brides
+8,2016-09,2785,male,neutral,child brides
+9,2016-10,13,male,neutral,child brides
+10,2016-11,41,male,neutral,child brides
+11,2016-12,2762,male,neutral,child brides
+0,2016-01,7,female,neutral,child brides
+1,2016-02,468,female,neutral,child brides
+2,2016-03,4,female,neutral,child brides
+3,2016-04,652,female,neutral,child brides
+4,2016-05,1278,female,neutral,child brides
+5,2016-06,29,female,neutral,child brides
+6,2016-07,1101,female,neutral,child brides
+7,2016-08,1445,female,neutral,child brides
+8,2016-09,1972,female,neutral,child brides
+9,2016-10,4,female,neutral,child brides
+10,2016-11,18,female,neutral,child brides
+11,2016-12,1148,female,neutral,child brides
+0,2016-01,16,male,positive,child brides
+1,2016-02,492,male,positive,child brides
+2,2016-03,4,male,positive,child brides
+3,2016-04,614,male,positive,child brides
+4,2016-05,1392,male,positive,child brides
+5,2016-06,15,male,positive,child brides
+6,2016-07,1501,male,positive,child brides
+7,2016-08,1890,male,positive,child brides
+8,2016-09,2180,male,positive,child brides
+9,2016-10,9,male,positive,child brides
+10,2016-11,109,male,positive,child brides
+11,2016-12,2302,male,positive,child brides
+0,2016-01,6,female,positive,child brides
+1,2016-02,298,female,positive,child brides
+2,2016-03,3,female,positive,child brides
+3,2016-04,288,female,positive,child brides
+4,2016-05,855,female,positive,child brides
+5,2016-06,39,female,positive,child brides
+6,2016-07,1246,female,positive,child brides
+7,2016-08,1179,female,positive,child brides
+8,2016-09,1278,female,positive,child brides
+9,2016-10,2,female,positive,child brides
+10,2016-11,24,female,positive,child brides
+11,2016-12,943,female,positive,child brides
+0,2016-01,17,male,negative,sexual harassment
+1,2016-02,2236,male,negative,sexual harassment
+2,2016-03,7,male,negative,sexual harassment
+3,2016-04,1480,male,negative,sexual harassment
+4,2016-05,2728,male,negative,sexual harassment
+5,2016-06,115,male,negative,sexual harassment
+6,2016-07,2264,male,negative,sexual harassment
+7,2016-08,3037,male,negative,sexual harassment
+8,2016-09,4228,male,negative,sexual harassment
+9,2016-10,52,male,negative,sexual harassment
+10,2016-11,790,male,negative,sexual harassment
+11,2016-12,5036,male,negative,sexual harassment
+0,2016-01,15,female,negative,sexual harassment
+1,2016-02,510,female,negative,sexual harassment
+2,2016-03,10,female,negative,sexual harassment
+3,2016-04,518,female,negative,sexual harassment
+4,2016-05,1086,female,negative,sexual harassment
+5,2016-06,12,female,negative,sexual harassment
+6,2016-07,2763,female,negative,sexual harassment
+7,2016-08,1894,female,negative,sexual harassment
+8,2016-09,2080,female,negative,sexual harassment
+9,2016-10,25,female,negative,sexual harassment
+10,2016-11,70,female,negative,sexual harassment
+11,2016-12,1016,female,negative,sexual harassment
+0,2016-01,16,male,neutral,sexual harassment
+1,2016-02,705,male,neutral,sexual harassment
+2,2016-03,17,male,neutral,sexual harassment
+3,2016-04,834,male,neutral,sexual harassment
+4,2016-05,2027,male,neutral,sexual harassment
+5,2016-06,17,male,neutral,sexual harassment
+6,2016-07,2126,male,neutral,sexual harassment
+7,2016-08,1226,male,neutral,sexual harassment
+8,2016-09,2011,male,neutral,sexual harassment
+9,2016-10,7,male,neutral,sexual harassment
+10,2016-11,158,male,neutral,sexual harassment
+11,2016-12,1424,male,neutral,sexual harassment
+0,2016-01,10,female,neutral,sexual harassment
+1,2016-02,467,female,neutral,sexual harassment
+2,2016-03,9,female,neutral,sexual harassment
+3,2016-04,371,female,neutral,sexual harassment
+4,2016-05,1116,female,neutral,sexual harassment
+5,2016-06,53,female,neutral,sexual harassment
+6,2016-07,1234,female,neutral,sexual harassment
+7,2016-08,864,female,neutral,sexual harassment
+8,2016-09,1431,female,neutral,sexual harassment
+9,2016-10,4,female,neutral,sexual harassment
+10,2016-11,78,female,neutral,sexual harassment
+11,2016-12,768,female,neutral,sexual harassment
+0,2016-01,1,male,positive,sexual harassment
+1,2016-02,173,male,positive,sexual harassment
+2,2016-03,1,male,positive,sexual harassment
+3,2016-04,228,male,positive,sexual harassment
+4,2016-05,377,male,positive,sexual harassment
+5,2016-06,3,male,positive,sexual harassment
+6,2016-07,394,male,positive,sexual harassment
+7,2016-08,198,male,positive,sexual harassment
+8,2016-09,517,male,positive,sexual harassment
+9,2016-10,2,male,positive,sexual harassment
+10,2016-11,3,male,positive,sexual harassment
+11,2016-12,263,male,positive,sexual harassment
+0,2016-01,3,female,positive,sexual harassment
+1,2016-02,59,female,positive,sexual harassment
+2,2016-04,29,female,positive,sexual harassment
+3,2016-05,251,female,positive,sexual harassment
+4,2016-06,2,female,positive,sexual harassment
+5,2016-07,201,female,positive,sexual harassment
+6,2016-08,107,female,positive,sexual harassment
+7,2016-09,121,female,positive,sexual harassment
+8,2016-10,5,female,positive,sexual harassment
+9,2016-11,52,female,positive,sexual harassment
+10,2016-12,76,female,positive,sexual harassment
+0,2016-01,1,male,negative,feminism
+1,2016-02,6,male,negative,feminism
+2,2016-04,10,male,negative,feminism
+3,2016-05,18,male,negative,feminism
+4,2016-07,3,male,negative,feminism
+5,2016-08,14,male,negative,feminism
+6,2016-09,34,male,negative,feminism
+7,2016-11,1,male,negative,feminism
+8,2016-12,25,male,negative,feminism
+0,2016-01,1,female,negative,feminism
+1,2016-02,220,female,negative,feminism
+2,2016-03,4,female,negative,feminism
+3,2016-04,62,female,negative,feminism
+4,2016-05,79,female,negative,feminism
+5,2016-06,17,female,negative,feminism
+6,2016-07,92,female,negative,feminism
+7,2016-08,131,female,negative,feminism
+8,2016-09,82,female,negative,feminism
+9,2016-10,1,female,negative,feminism
+10,2016-11,3,female,negative,feminism
+11,2016-12,61,female,negative,feminism
+0,2016-01,1,male,neutral,feminism
+1,2016-02,11,male,neutral,feminism
+2,2016-04,55,male,neutral,feminism
+3,2016-05,56,male,neutral,feminism
+4,2016-07,19,male,neutral,feminism
+5,2016-08,70,male,neutral,feminism
+6,2016-09,371,male,neutral,feminism
+7,2016-11,1,male,neutral,feminism
+8,2016-12,13,male,neutral,feminism
+0,2016-01,3,female,neutral,feminism
+1,2016-02,155,female,neutral,feminism
+2,2016-03,5,female,neutral,feminism
+3,2016-04,43,female,neutral,feminism
+4,2016-05,117,female,neutral,feminism
+5,2016-06,129,female,neutral,feminism
+6,2016-07,159,female,neutral,feminism
+7,2016-08,62,female,neutral,feminism
+8,2016-09,288,female,neutral,feminism
+9,2016-10,1,female,neutral,feminism
+10,2016-11,1,female,neutral,feminism
+11,2016-12,111,female,neutral,feminism
+0,2016-02,2,male,positive,feminism
+1,2016-04,3,male,positive,feminism
+2,2016-05,2,male,positive,feminism
+3,2016-07,5,male,positive,feminism
+4,2016-08,15,male,positive,feminism
+5,2016-09,37,male,positive,feminism
+6,2016-11,1,male,positive,feminism
+7,2016-12,13,male,positive,feminism
+0,2016-01,1,female,positive,feminism
+1,2016-02,43,female,positive,feminism
+2,2016-04,8,female,positive,feminism
+3,2016-05,94,female,positive,feminism
+4,2016-06,2,female,positive,feminism
+5,2016-07,181,female,positive,feminism
+6,2016-08,33,female,positive,feminism
+7,2016-09,62,female,positive,feminism
+8,2016-12,42,female,positive,feminism
+0,2016-01,10,male,negative,gender inequality
+1,2016-02,418,male,negative,gender inequality
+2,2016-03,4,male,negative,gender inequality
+3,2016-04,705,male,negative,gender inequality
+4,2016-05,2238,male,negative,gender inequality
+5,2016-06,22,male,negative,gender inequality
+6,2016-07,1739,male,negative,gender inequality
+7,2016-08,1255,male,negative,gender inequality
+8,2016-09,1120,male,negative,gender inequality
+9,2016-10,14,male,negative,gender inequality
+10,2016-11,45,male,negative,gender inequality
+11,2016-12,791,male,negative,gender inequality
+0,2016-01,7,female,negative,gender inequality
+1,2016-02,197,female,negative,gender inequality
+2,2016-03,4,female,negative,gender inequality
+3,2016-04,1271,female,negative,gender inequality
+4,2016-05,824,female,negative,gender inequality
+5,2016-06,10,female,negative,gender inequality
+6,2016-07,559,female,negative,gender inequality
+7,2016-08,607,female,negative,gender inequality
+8,2016-09,1463,female,negative,gender inequality
+9,2016-10,3,female,negative,gender inequality
+10,2016-11,10,female,negative,gender inequality
+11,2016-12,496,female,negative,gender inequality
+0,2016-01,20,male,neutral,gender inequality
+1,2016-02,799,male,neutral,gender inequality
+2,2016-03,38,male,neutral,gender inequality
+3,2016-04,1016,male,neutral,gender inequality
+4,2016-05,2109,male,neutral,gender inequality
+5,2016-06,39,male,neutral,gender inequality
+6,2016-07,1095,male,neutral,gender inequality
+7,2016-08,12416,male,neutral,gender inequality
+8,2016-09,1981,male,neutral,gender inequality
+9,2016-10,11,male,neutral,gender inequality
+10,2016-11,19,male,neutral,gender inequality
+11,2016-12,1073,male,neutral,gender inequality
+0,2016-01,10,female,neutral,gender inequality
+1,2016-02,301,female,neutral,gender inequality
+2,2016-03,13,female,neutral,gender inequality
+3,2016-04,438,female,neutral,gender inequality
+4,2016-05,942,female,neutral,gender inequality
+5,2016-06,52,female,neutral,gender inequality
+6,2016-07,577,female,neutral,gender inequality
+7,2016-08,721,female,neutral,gender inequality
+8,2016-09,898,female,neutral,gender inequality
+9,2016-10,4,female,neutral,gender inequality
+10,2016-11,32,female,neutral,gender inequality
+11,2016-12,1291,female,neutral,gender inequality
+0,2016-01,4,male,positive,gender inequality
+1,2016-02,209,male,positive,gender inequality
+2,2016-03,4,male,positive,gender inequality
+3,2016-04,386,male,positive,gender inequality
+4,2016-05,730,male,positive,gender inequality
+5,2016-06,9,male,positive,gender inequality
+6,2016-07,686,male,positive,gender inequality
+7,2016-08,459,male,positive,gender inequality
+8,2016-09,576,male,positive,gender inequality
+9,2016-10,6,male,positive,gender inequality
+10,2016-11,8,male,positive,gender inequality
+11,2016-12,585,male,positive,gender inequality
+0,2016-01,5,female,positive,gender inequality
+1,2016-02,211,female,positive,gender inequality
+2,2016-03,4,female,positive,gender inequality
+3,2016-04,338,female,positive,gender inequality
+4,2016-05,528,female,positive,gender inequality
+5,2016-06,9,female,positive,gender inequality
+6,2016-07,435,female,positive,gender inequality
+7,2016-08,239,female,positive,gender inequality
+8,2016-09,591,female,positive,gender inequality
+9,2016-10,5,female,positive,gender inequality
+10,2016-11,92,female,positive,gender inequality
+11,2016-12,326,female,positive,gender inequality
+0,2016-01,16,male,negative,abortion
+1,2016-02,835,male,negative,abortion
+2,2016-03,131,male,negative,abortion
+3,2016-04,200,male,negative,abortion
+4,2016-05,608,male,negative,abortion
+5,2016-06,48,male,negative,abortion
+6,2016-07,627,male,negative,abortion
+7,2016-08,584,male,negative,abortion
+8,2016-09,310,male,negative,abortion
+9,2016-10,9,male,negative,abortion
+10,2016-11,42,male,negative,abortion
+11,2016-12,464,male,negative,abortion
+0,2016-01,16,female,negative,abortion
+1,2016-02,146,female,negative,abortion
+2,2016-03,4,female,negative,abortion
+3,2016-04,223,female,negative,abortion
+4,2016-05,983,female,negative,abortion
+5,2016-06,12,female,negative,abortion
+6,2016-07,336,female,negative,abortion
+7,2016-08,395,female,negative,abortion
+8,2016-09,257,female,negative,abortion
+9,2016-10,5,female,negative,abortion
+10,2016-11,11,female,negative,abortion
+11,2016-12,343,female,negative,abortion
+0,2016-01,25,male,neutral,abortion
+1,2016-02,582,male,neutral,abortion
+2,2016-03,1,male,neutral,abortion
+3,2016-04,112,male,neutral,abortion
+4,2016-05,254,male,neutral,abortion
+5,2016-06,29,male,neutral,abortion
+6,2016-07,439,male,neutral,abortion
+7,2016-08,88,male,neutral,abortion
+8,2016-09,169,male,neutral,abortion
+9,2016-10,5,male,neutral,abortion
+10,2016-11,6,male,neutral,abortion
+11,2016-12,239,male,neutral,abortion
+0,2016-01,4,female,neutral,abortion
+1,2016-02,180,female,neutral,abortion
+2,2016-03,1,female,neutral,abortion
+3,2016-04,83,female,neutral,abortion
+4,2016-05,561,female,neutral,abortion
+5,2016-06,18,female,neutral,abortion
+6,2016-07,272,female,neutral,abortion
+7,2016-08,94,female,neutral,abortion
+8,2016-09,215,female,neutral,abortion
+9,2016-11,15,female,neutral,abortion
+10,2016-12,694,female,neutral,abortion
+0,2016-01,1,male,positive,abortion
+1,2016-02,34,male,positive,abortion
+2,2016-03,1,male,positive,abortion
+3,2016-04,11,male,positive,abortion
+4,2016-05,25,male,positive,abortion
+5,2016-07,28,male,positive,abortion
+6,2016-08,9,male,positive,abortion
+7,2016-09,8,male,positive,abortion
+8,2016-12,15,male,positive,abortion
+0,2016-02,10,female,positive,abortion
+1,2016-04,7,female,positive,abortion
+2,2016-05,12,female,positive,abortion
+3,2016-06,12,female,positive,abortion
+4,2016-07,23,female,positive,abortion
+5,2016-08,8,female,positive,abortion
+6,2016-09,15,female,positive,abortion
+7,2016-10,1,female,positive,abortion
+8,2016-11,1,female,positive,abortion
+9,2016-12,29,female,positive,abortion
+0,2017-01,92,male,negative,child brides
+1,2017-02,1564,male,negative,child brides
+2,2017-03,4106,male,negative,child brides
+3,2017-04,4917,male,negative,child brides
+4,2017-05,4962,male,negative,child brides
+5,2017-06,4497,male,negative,child brides
+6,2017-07,5977,male,negative,child brides
+7,2017-08,6253,male,negative,child brides
+8,2017-09,4441,male,negative,child brides
+9,2017-10,5409,male,negative,child brides
+10,2017-11,4705,male,negative,child brides
+11,2017-12,5893,male,negative,child brides
+0,2017-01,81,female,negative,child brides
+1,2017-02,641,female,negative,child brides
+2,2017-03,2250,female,negative,child brides
+3,2017-04,2449,female,negative,child brides
+4,2017-05,2299,female,negative,child brides
+5,2017-06,1960,female,negative,child brides
+6,2017-07,3100,female,negative,child brides
+7,2017-08,5003,female,negative,child brides
+8,2017-09,2377,female,negative,child brides
+9,2017-10,3978,female,negative,child brides
+10,2017-11,2158,female,negative,child brides
+11,2017-12,2127,female,negative,child brides
+0,2017-01,45,male,neutral,child brides
+1,2017-02,1207,male,neutral,child brides
+2,2017-03,2908,male,neutral,child brides
+3,2017-04,2711,male,neutral,child brides
+4,2017-05,3743,male,neutral,child brides
+5,2017-06,47417,male,neutral,child brides
+6,2017-07,3408,male,neutral,child brides
+7,2017-08,4019,male,neutral,child brides
+8,2017-09,3727,male,neutral,child brides
+9,2017-10,3564,male,neutral,child brides
+10,2017-11,2861,male,neutral,child brides
+11,2017-12,3600,male,neutral,child brides
+0,2017-01,10,female,neutral,child brides
+1,2017-02,700,female,neutral,child brides
+2,2017-03,1827,female,neutral,child brides
+3,2017-04,2121,female,neutral,child brides
+4,2017-05,1469,female,neutral,child brides
+5,2017-06,1968,female,neutral,child brides
+6,2017-07,2439,female,neutral,child brides
+7,2017-08,3165,female,neutral,child brides
+8,2017-09,1898,female,neutral,child brides
+9,2017-10,2410,female,neutral,child brides
+10,2017-11,1485,female,neutral,child brides
+11,2017-12,1219,female,neutral,child brides
+0,2017-01,85,male,positive,child brides
+1,2017-02,623,male,positive,child brides
+2,2017-03,1865,male,positive,child brides
+3,2017-04,1386,male,positive,child brides
+4,2017-05,2033,male,positive,child brides
+5,2017-06,1316,male,positive,child brides
+6,2017-07,2393,male,positive,child brides
+7,2017-08,2473,male,positive,child brides
+8,2017-09,2210,male,positive,child brides
+9,2017-10,1831,male,positive,child brides
+10,2017-11,2453,male,positive,child brides
+11,2017-12,3034,male,positive,child brides
+0,2017-01,387,female,positive,child brides
+1,2017-02,380,female,positive,child brides
+2,2017-03,1106,female,positive,child brides
+3,2017-04,1444,female,positive,child brides
+4,2017-05,1440,female,positive,child brides
+5,2017-06,1249,female,positive,child brides
+6,2017-07,1682,female,positive,child brides
+7,2017-08,1709,female,positive,child brides
+8,2017-09,1333,female,positive,child brides
+9,2017-10,1364,female,positive,child brides
+10,2017-11,913,female,positive,child brides
+11,2017-12,1275,female,positive,child brides
+0,2017-01,83,male,negative,sexual harassment
+1,2017-02,930,male,negative,sexual harassment
+2,2017-03,2592,male,negative,sexual harassment
+3,2017-04,4073,male,negative,sexual harassment
+4,2017-05,2722,male,negative,sexual harassment
+5,2017-06,5979,male,negative,sexual harassment
+6,2017-07,2902,male,negative,sexual harassment
+7,2017-08,3749,male,negative,sexual harassment
+8,2017-09,4827,male,negative,sexual harassment
+9,2017-10,12714,male,negative,sexual harassment
+10,2017-11,19652,male,negative,sexual harassment
+11,2017-12,12914,male,negative,sexual harassment
+0,2017-01,23,female,negative,sexual harassment
+1,2017-02,776,female,negative,sexual harassment
+2,2017-03,1228,female,negative,sexual harassment
+3,2017-04,2997,female,negative,sexual harassment
+4,2017-05,1364,female,negative,sexual harassment
+5,2017-06,2137,female,negative,sexual harassment
+6,2017-07,2722,female,negative,sexual harassment
+7,2017-08,1974,female,negative,sexual harassment
+8,2017-09,3213,female,negative,sexual harassment
+9,2017-10,10557,female,negative,sexual harassment
+10,2017-11,10308,female,negative,sexual harassment
+11,2017-12,9502,female,negative,sexual harassment
+0,2017-01,64,male,neutral,sexual harassment
+1,2017-02,632,male,neutral,sexual harassment
+2,2017-03,1545,male,neutral,sexual harassment
+3,2017-04,1447,male,neutral,sexual harassment
+4,2017-05,1409,male,neutral,sexual harassment
+5,2017-06,1875,male,neutral,sexual harassment
+6,2017-07,1910,male,neutral,sexual harassment
+7,2017-08,1396,male,neutral,sexual harassment
+8,2017-09,1900,male,neutral,sexual harassment
+9,2017-10,3579,male,neutral,sexual harassment
+10,2017-11,11311,male,neutral,sexual harassment
+11,2017-12,4955,male,neutral,sexual harassment
+0,2017-01,19,female,neutral,sexual harassment
+1,2017-02,232,female,neutral,sexual harassment
+2,2017-03,786,female,neutral,sexual harassment
+3,2017-04,1928,female,neutral,sexual harassment
+4,2017-05,691,female,neutral,sexual harassment
+5,2017-06,706,female,neutral,sexual harassment
+6,2017-07,845,female,neutral,sexual harassment
+7,2017-08,2125,female,neutral,sexual harassment
+8,2017-09,2115,female,neutral,sexual harassment
+9,2017-10,4048,female,neutral,sexual harassment
+10,2017-11,5788,female,neutral,sexual harassment
+11,2017-12,3429,female,neutral,sexual harassment
+0,2017-01,21,male,positive,sexual harassment
+1,2017-02,203,male,positive,sexual harassment
+2,2017-03,182,male,positive,sexual harassment
+3,2017-04,222,male,positive,sexual harassment
+4,2017-05,366,male,positive,sexual harassment
+5,2017-06,231,male,positive,sexual harassment
+6,2017-07,95,male,positive,sexual harassment
+7,2017-08,715,male,positive,sexual harassment
+8,2017-09,1118,male,positive,sexual harassment
+9,2017-10,530,male,positive,sexual harassment
+10,2017-11,605,male,positive,sexual harassment
+11,2017-12,937,male,positive,sexual harassment
+0,2017-01,2,female,positive,sexual harassment
+1,2017-02,40,female,positive,sexual harassment
+2,2017-03,144,female,positive,sexual harassment
+3,2017-04,275,female,positive,sexual harassment
+4,2017-05,287,female,positive,sexual harassment
+5,2017-06,117,female,positive,sexual harassment
+6,2017-07,145,female,positive,sexual harassment
+7,2017-08,820,female,positive,sexual harassment
+8,2017-09,652,female,positive,sexual harassment
+9,2017-10,1040,female,positive,sexual harassment
+10,2017-11,365,female,positive,sexual harassment
+11,2017-12,394,female,positive,sexual harassment
+0,2017-01,3,male,negative,feminism
+1,2017-02,9,male,negative,feminism
+2,2017-03,113,male,negative,feminism
+3,2017-04,25,male,negative,feminism
+4,2017-05,25,male,negative,feminism
+5,2017-06,58,male,negative,feminism
+6,2017-07,40,male,negative,feminism
+7,2017-08,65,male,negative,feminism
+8,2017-09,33,male,negative,feminism
+9,2017-10,14,male,negative,feminism
+10,2017-11,26,male,negative,feminism
+11,2017-12,40,male,negative,feminism
+0,2017-01,2,female,negative,feminism
+1,2017-02,48,female,negative,feminism
+2,2017-03,885,female,negative,feminism
+3,2017-04,89,female,negative,feminism
+4,2017-05,124,female,negative,feminism
+5,2017-06,180,female,negative,feminism
+6,2017-07,49,female,negative,feminism
+7,2017-08,244,female,negative,feminism
+8,2017-09,280,female,negative,feminism
+9,2017-10,333,female,negative,feminism
+10,2017-11,106,female,negative,feminism
+11,2017-12,52,female,negative,feminism
+0,2017-02,19,male,neutral,feminism
+1,2017-03,53,male,neutral,feminism
+2,2017-04,30,male,neutral,feminism
+3,2017-05,152,male,neutral,feminism
+4,2017-06,33,male,neutral,feminism
+5,2017-07,31,male,neutral,feminism
+6,2017-08,25,male,neutral,feminism
+7,2017-09,20,male,neutral,feminism
+8,2017-10,25,male,neutral,feminism
+9,2017-11,33,male,neutral,feminism
+10,2017-12,83,male,neutral,feminism
+0,2017-01,2,female,neutral,feminism
+1,2017-02,412,female,neutral,feminism
+2,2017-03,548,female,neutral,feminism
+3,2017-04,257,female,neutral,feminism
+4,2017-05,348,female,neutral,feminism
+5,2017-06,139,female,neutral,feminism
+6,2017-07,67,female,neutral,feminism
+7,2017-08,121,female,neutral,feminism
+8,2017-09,128,female,neutral,feminism
+9,2017-10,200,female,neutral,feminism
+10,2017-11,159,female,neutral,feminism
+11,2017-12,273,female,neutral,feminism
+0,2017-02,2,male,positive,feminism
+1,2017-03,18,male,positive,feminism
+2,2017-04,15,male,positive,feminism
+3,2017-05,12,male,positive,feminism
+4,2017-06,52,male,positive,feminism
+5,2017-07,4,male,positive,feminism
+6,2017-08,2,male,positive,feminism
+7,2017-09,2,male,positive,feminism
+8,2017-10,53,male,positive,feminism
+9,2017-11,6,male,positive,feminism
+10,2017-12,25,male,positive,feminism
+0,2017-02,14,female,positive,feminism
+1,2017-03,140,female,positive,feminism
+2,2017-04,88,female,positive,feminism
+3,2017-05,45,female,positive,feminism
+4,2017-06,28,female,positive,feminism
+5,2017-07,96,female,positive,feminism
+6,2017-08,31,female,positive,feminism
+7,2017-09,18,female,positive,feminism
+8,2017-10,103,female,positive,feminism
+9,2017-11,65,female,positive,feminism
+10,2017-12,19,female,positive,feminism
+0,2017-01,28,male,negative,gender inequality
+1,2017-02,440,male,negative,gender inequality
+2,2017-03,1443,male,negative,gender inequality
+3,2017-04,1050,male,negative,gender inequality
+4,2017-05,1029,male,negative,gender inequality
+5,2017-06,1179,male,negative,gender inequality
+6,2017-07,2315,male,negative,gender inequality
+7,2017-08,3006,male,negative,gender inequality
+8,2017-09,3290,male,negative,gender inequality
+9,2017-10,1717,male,negative,gender inequality
+10,2017-11,1926,male,negative,gender inequality
+11,2017-12,1125,male,negative,gender inequality
+0,2017-01,3,female,negative,gender inequality
+1,2017-02,155,female,negative,gender inequality
+2,2017-03,767,female,negative,gender inequality
+3,2017-04,688,female,negative,gender inequality
+4,2017-05,746,female,negative,gender inequality
+5,2017-06,496,female,negative,gender inequality
+6,2017-07,892,female,negative,gender inequality
+7,2017-08,1983,female,negative,gender inequality
+8,2017-09,1053,female,negative,gender inequality
+9,2017-10,1231,female,negative,gender inequality
+10,2017-11,639,female,negative,gender inequality
+11,2017-12,684,female,negative,gender inequality
+0,2017-01,70,male,neutral,gender inequality
+1,2017-02,518,male,neutral,gender inequality
+2,2017-03,3374,male,neutral,gender inequality
+3,2017-04,1457,male,neutral,gender inequality
+4,2017-05,1697,male,neutral,gender inequality
+5,2017-06,13970,male,neutral,gender inequality
+6,2017-07,2382,male,neutral,gender inequality
+7,2017-08,2093,male,neutral,gender inequality
+8,2017-09,2039,male,neutral,gender inequality
+9,2017-10,1792,male,neutral,gender inequality
+10,2017-11,1822,male,neutral,gender inequality
+11,2017-12,1646,male,neutral,gender inequality
+0,2017-01,22,female,neutral,gender inequality
+1,2017-02,331,female,neutral,gender inequality
+2,2017-03,1377,female,neutral,gender inequality
+3,2017-04,923,female,neutral,gender inequality
+4,2017-05,1110,female,neutral,gender inequality
+5,2017-06,22958,female,neutral,gender inequality
+6,2017-07,903,female,neutral,gender inequality
+7,2017-08,1854,female,neutral,gender inequality
+8,2017-09,857,female,neutral,gender inequality
+9,2017-10,1177,female,neutral,gender inequality
+10,2017-11,1500,female,neutral,gender inequality
+11,2017-12,884,female,neutral,gender inequality
+0,2017-01,9,male,positive,gender inequality
+1,2017-02,216,male,positive,gender inequality
+2,2017-03,887,male,positive,gender inequality
+3,2017-04,560,male,positive,gender inequality
+4,2017-05,776,male,positive,gender inequality
+5,2017-06,1245,male,positive,gender inequality
+6,2017-07,847,male,positive,gender inequality
+7,2017-08,1216,male,positive,gender inequality
+8,2017-09,1460,male,positive,gender inequality
+9,2017-10,755,male,positive,gender inequality
+10,2017-11,574,male,positive,gender inequality
+11,2017-12,663,male,positive,gender inequality
+0,2017-01,18,female,positive,gender inequality
+1,2017-02,160,female,positive,gender inequality
+2,2017-03,994,female,positive,gender inequality
+3,2017-04,476,female,positive,gender inequality
+4,2017-05,521,female,positive,gender inequality
+5,2017-06,273,female,positive,gender inequality
+6,2017-07,774,female,positive,gender inequality
+7,2017-08,641,female,positive,gender inequality
+8,2017-09,329,female,positive,gender inequality
+9,2017-10,570,female,positive,gender inequality
+10,2017-11,653,female,positive,gender inequality
+11,2017-12,262,female,positive,gender inequality
+0,2017-01,15,male,negative,abortion
+1,2017-02,316,male,negative,abortion
+2,2017-03,814,male,negative,abortion
+3,2017-04,813,male,negative,abortion
+4,2017-05,1358,male,negative,abortion
+5,2017-06,691,male,negative,abortion
+6,2017-07,792,male,negative,abortion
+7,2017-08,585,male,negative,abortion
+8,2017-09,1208,male,negative,abortion
+9,2017-10,2418,male,negative,abortion
+10,2017-11,1487,male,negative,abortion
+11,2017-12,1450,male,negative,abortion
+0,2017-01,16,female,negative,abortion
+1,2017-02,764,female,negative,abortion
+2,2017-03,624,female,negative,abortion
+3,2017-04,635,female,negative,abortion
+4,2017-05,607,female,negative,abortion
+5,2017-06,539,female,negative,abortion
+6,2017-07,450,female,negative,abortion
+7,2017-08,830,female,negative,abortion
+8,2017-09,393,female,negative,abortion
+9,2017-10,434,female,negative,abortion
+10,2017-11,241,female,negative,abortion
+11,2017-12,339,female,negative,abortion
+0,2017-01,11,male,neutral,abortion
+1,2017-02,294,male,neutral,abortion
+2,2017-03,316,male,neutral,abortion
+3,2017-04,324,male,neutral,abortion
+4,2017-05,731,male,neutral,abortion
+5,2017-06,432,male,neutral,abortion
+6,2017-07,279,male,neutral,abortion
+7,2017-08,210,male,neutral,abortion
+8,2017-09,693,male,neutral,abortion
+9,2017-10,1234,male,neutral,abortion
+10,2017-11,673,male,neutral,abortion
+11,2017-12,320,male,neutral,abortion
+0,2017-01,2,female,neutral,abortion
+1,2017-02,143,female,neutral,abortion
+2,2017-03,261,female,neutral,abortion
+3,2017-04,334,female,neutral,abortion
+4,2017-05,249,female,neutral,abortion
+5,2017-06,221,female,neutral,abortion
+6,2017-07,193,female,neutral,abortion
+7,2017-08,601,female,neutral,abortion
+8,2017-09,366,female,neutral,abortion
+9,2017-10,270,female,neutral,abortion
+10,2017-11,188,female,neutral,abortion
+11,2017-12,241,female,neutral,abortion
+0,2017-02,16,male,positive,abortion
+1,2017-03,169,male,positive,abortion
+2,2017-04,17,male,positive,abortion
+3,2017-05,56,male,positive,abortion
+4,2017-06,52,male,positive,abortion
+5,2017-07,106,male,positive,abortion
+6,2017-08,7,male,positive,abortion
+7,2017-09,24,male,positive,abortion
+8,2017-10,42,male,positive,abortion
+9,2017-11,17,male,positive,abortion
+10,2017-12,33,male,positive,abortion
+0,2017-02,36,female,positive,abortion
+1,2017-03,38,female,positive,abortion
+2,2017-04,75,female,positive,abortion
+3,2017-05,91,female,positive,abortion
+4,2017-06,22,female,positive,abortion
+5,2017-07,28,female,positive,abortion
+6,2017-08,37,female,positive,abortion
+7,2017-09,47,female,positive,abortion
+8,2017-10,30,female,positive,abortion
+9,2017-11,28,female,positive,abortion
+10,2017-12,11,female,positive,abortion
+0,2018-01,6308,male,negative,child brides
+1,2018-02,7318,male,negative,child brides
+2,2018-03,7231,male,negative,child brides
+3,2018-04,7034,male,negative,child brides
+4,2018-05,6736,male,negative,child brides
+5,2018-06,7040,male,negative,child brides
+6,2018-07,4016,male,negative,child brides
+7,2018-08,2954,male,negative,child brides
+8,2018-09,4249,male,negative,child brides
+9,2018-10,3650,male,negative,child brides
+10,2018-11,3411,male,negative,child brides
+11,2018-12,3282,male,negative,child brides
+0,2018-01,3961,female,negative,child brides
+1,2018-02,2324,female,negative,child brides
+2,2018-03,3634,female,negative,child brides
+3,2018-04,2409,female,negative,child brides
+4,2018-05,2267,female,negative,child brides
+5,2018-06,2457,female,negative,child brides
+6,2018-07,1990,female,negative,child brides
+7,2018-08,1918,female,negative,child brides
+8,2018-09,2181,female,negative,child brides
+9,2018-10,1871,female,negative,child brides
+10,2018-11,1383,female,negative,child brides
+11,2018-12,1100,female,negative,child brides
+0,2018-01,3690,male,neutral,child brides
+1,2018-02,3485,male,neutral,child brides
+2,2018-03,4543,male,neutral,child brides
+3,2018-04,2986,male,neutral,child brides
+4,2018-05,2629,male,neutral,child brides
+5,2018-06,4243,male,neutral,child brides
+6,2018-07,2453,male,neutral,child brides
+7,2018-08,2749,male,neutral,child brides
+8,2018-09,2726,male,neutral,child brides
+9,2018-10,2803,male,neutral,child brides
+10,2018-11,2152,male,neutral,child brides
+11,2018-12,2016,male,neutral,child brides
+0,2018-01,1321,female,neutral,child brides
+1,2018-02,1683,female,neutral,child brides
+2,2018-03,3363,female,neutral,child brides
+3,2018-04,1997,female,neutral,child brides
+4,2018-05,1293,female,neutral,child brides
+5,2018-06,2090,female,neutral,child brides
+6,2018-07,997,female,neutral,child brides
+7,2018-08,1346,female,neutral,child brides
+8,2018-09,1620,female,neutral,child brides
+9,2018-10,1214,female,neutral,child brides
+10,2018-11,1340,female,neutral,child brides
+11,2018-12,1097,female,neutral,child brides
+0,2018-01,1908,male,positive,child brides
+1,2018-02,2753,male,positive,child brides
+2,2018-03,2245,male,positive,child brides
+3,2018-04,1523,male,positive,child brides
+4,2018-05,1464,male,positive,child brides
+5,2018-06,2599,male,positive,child brides
+6,2018-07,1756,male,positive,child brides
+7,2018-08,1525,male,positive,child brides
+8,2018-09,1419,male,positive,child brides
+9,2018-10,1590,male,positive,child brides
+10,2018-11,1714,male,positive,child brides
+11,2018-12,1422,male,positive,child brides
+0,2018-01,1401,female,positive,child brides
+1,2018-02,1110,female,positive,child brides
+2,2018-03,1381,female,positive,child brides
+3,2018-04,973,female,positive,child brides
+4,2018-05,1719,female,positive,child brides
+5,2018-06,1072,female,positive,child brides
+6,2018-07,980,female,positive,child brides
+7,2018-08,768,female,positive,child brides
+8,2018-09,811,female,positive,child brides
+9,2018-10,791,female,positive,child brides
+10,2018-11,796,female,positive,child brides
+11,2018-12,905,female,positive,child brides
+0,2018-01,7282,male,negative,sexual harassment
+1,2018-02,10155,male,negative,sexual harassment
+2,2018-03,8431,male,negative,sexual harassment
+3,2018-04,6008,male,negative,sexual harassment
+4,2018-05,5922,male,negative,sexual harassment
+5,2018-06,4302,male,negative,sexual harassment
+6,2018-07,5257,male,negative,sexual harassment
+7,2018-08,4293,male,negative,sexual harassment
+8,2018-09,8553,male,negative,sexual harassment
+9,2018-10,7860,male,negative,sexual harassment
+10,2018-11,3362,male,negative,sexual harassment
+11,2018-12,2829,male,negative,sexual harassment
+0,2018-01,8240,female,negative,sexual harassment
+1,2018-02,6361,female,negative,sexual harassment
+2,2018-03,5925,female,negative,sexual harassment
+3,2018-04,3800,female,negative,sexual harassment
+4,2018-05,2301,female,negative,sexual harassment
+5,2018-06,2153,female,negative,sexual harassment
+6,2018-07,2226,female,negative,sexual harassment
+7,2018-08,2027,female,negative,sexual harassment
+8,2018-09,8500,female,negative,sexual harassment
+9,2018-10,9558,female,negative,sexual harassment
+10,2018-11,2203,female,negative,sexual harassment
+11,2018-12,1771,female,negative,sexual harassment
+0,2018-01,4093,male,neutral,sexual harassment
+1,2018-02,3168,male,neutral,sexual harassment
+2,2018-03,3666,male,neutral,sexual harassment
+3,2018-04,3003,male,neutral,sexual harassment
+4,2018-05,7747,male,neutral,sexual harassment
+5,2018-06,4385,male,neutral,sexual harassment
+6,2018-07,2400,male,neutral,sexual harassment
+7,2018-08,1389,male,neutral,sexual harassment
+8,2018-09,3523,male,neutral,sexual harassment
+9,2018-10,4216,male,neutral,sexual harassment
+10,2018-11,2189,male,neutral,sexual harassment
+11,2018-12,1335,male,neutral,sexual harassment
+0,2018-01,3965,female,neutral,sexual harassment
+1,2018-02,3206,female,neutral,sexual harassment
+2,2018-03,2260,female,neutral,sexual harassment
+3,2018-04,2311,female,neutral,sexual harassment
+4,2018-05,2260,female,neutral,sexual harassment
+5,2018-06,598,female,neutral,sexual harassment
+6,2018-07,856,female,neutral,sexual harassment
+7,2018-08,1186,female,neutral,sexual harassment
+8,2018-09,4297,female,neutral,sexual harassment
+9,2018-10,2609,female,neutral,sexual harassment
+10,2018-11,1491,female,neutral,sexual harassment
+11,2018-12,1346,female,neutral,sexual harassment
+0,2018-01,840,male,positive,sexual harassment
+1,2018-02,599,male,positive,sexual harassment
+2,2018-03,296,male,positive,sexual harassment
+3,2018-04,627,male,positive,sexual harassment
+4,2018-05,402,male,positive,sexual harassment
+5,2018-06,352,male,positive,sexual harassment
+6,2018-07,316,male,positive,sexual harassment
+7,2018-08,247,male,positive,sexual harassment
+8,2018-09,229,male,positive,sexual harassment
+9,2018-10,662,male,positive,sexual harassment
+10,2018-11,593,male,positive,sexual harassment
+11,2018-12,238,male,positive,sexual harassment
+0,2018-01,2044,female,positive,sexual harassment
+1,2018-02,813,female,positive,sexual harassment
+2,2018-03,345,female,positive,sexual harassment
+3,2018-04,322,female,positive,sexual harassment
+4,2018-05,117,female,positive,sexual harassment
+5,2018-06,189,female,positive,sexual harassment
+6,2018-07,100,female,positive,sexual harassment
+7,2018-08,183,female,positive,sexual harassment
+8,2018-09,1887,female,positive,sexual harassment
+9,2018-10,570,female,positive,sexual harassment
+10,2018-11,363,female,positive,sexual harassment
+11,2018-12,169,female,positive,sexual harassment
+0,2018-01,26,male,negative,feminism
+1,2018-02,114,male,negative,feminism
+2,2018-03,18,male,negative,feminism
+3,2018-04,23,male,negative,feminism
+4,2018-05,17,male,negative,feminism
+5,2018-06,35,male,negative,feminism
+6,2018-07,34,male,negative,feminism
+7,2018-08,14,male,negative,feminism
+8,2018-09,7,male,negative,feminism
+9,2018-10,19,male,negative,feminism
+10,2018-11,37,male,negative,feminism
+11,2018-12,9,male,negative,feminism
+0,2018-01,157,female,negative,feminism
+1,2018-02,344,female,negative,feminism
+2,2018-03,82,female,negative,feminism
+3,2018-04,71,female,negative,feminism
+4,2018-05,57,female,negative,feminism
+5,2018-06,58,female,negative,feminism
+6,2018-07,34,female,negative,feminism
+7,2018-08,25,female,negative,feminism
+8,2018-09,88,female,negative,feminism
+9,2018-10,342,female,negative,feminism
+10,2018-11,317,female,negative,feminism
+11,2018-12,65,female,negative,feminism
+0,2018-01,198,male,neutral,feminism
+1,2018-02,44,male,neutral,feminism
+2,2018-03,30,male,neutral,feminism
+3,2018-04,15,male,neutral,feminism
+4,2018-05,117,male,neutral,feminism
+5,2018-06,16,male,neutral,feminism
+6,2018-07,16,male,neutral,feminism
+7,2018-08,18,male,neutral,feminism
+8,2018-09,7,male,neutral,feminism
+9,2018-10,18,male,neutral,feminism
+10,2018-11,21,male,neutral,feminism
+11,2018-12,10,male,neutral,feminism
+0,2018-01,365,female,neutral,feminism
+1,2018-02,216,female,neutral,feminism
+2,2018-03,232,female,neutral,feminism
+3,2018-04,57,female,neutral,feminism
+4,2018-05,161,female,neutral,feminism
+5,2018-06,105,female,neutral,feminism
+6,2018-07,46,female,neutral,feminism
+7,2018-08,44,female,neutral,feminism
+8,2018-09,108,female,neutral,feminism
+9,2018-10,363,female,neutral,feminism
+10,2018-11,72,female,neutral,feminism
+11,2018-12,52,female,neutral,feminism
+0,2018-01,24,male,positive,feminism
+1,2018-02,6,male,positive,feminism
+2,2018-03,9,male,positive,feminism
+3,2018-04,45,male,positive,feminism
+4,2018-05,10,male,positive,feminism
+5,2018-06,4,male,positive,feminism
+6,2018-07,10,male,positive,feminism
+7,2018-08,8,male,positive,feminism
+8,2018-09,35,male,positive,feminism
+9,2018-10,15,male,positive,feminism
+10,2018-11,7,male,positive,feminism
+11,2018-12,4,male,positive,feminism
+0,2018-01,87,female,positive,feminism
+1,2018-02,88,female,positive,feminism
+2,2018-03,52,female,positive,feminism
+3,2018-04,75,female,positive,feminism
+4,2018-05,30,female,positive,feminism
+5,2018-06,14,female,positive,feminism
+6,2018-07,90,female,positive,feminism
+7,2018-08,17,female,positive,feminism
+8,2018-09,60,female,positive,feminism
+9,2018-10,44,female,positive,feminism
+10,2018-11,17,female,positive,feminism
+11,2018-12,10,female,positive,feminism
+0,2018-01,1699,male,negative,gender inequality
+1,2018-02,1979,male,negative,gender inequality
+2,2018-03,1298,male,negative,gender inequality
+3,2018-04,1897,male,negative,gender inequality
+4,2018-05,1006,male,negative,gender inequality
+5,2018-06,971,male,negative,gender inequality
+6,2018-07,497,male,negative,gender inequality
+7,2018-08,1014,male,negative,gender inequality
+8,2018-09,1329,male,negative,gender inequality
+9,2018-10,1548,male,negative,gender inequality
+10,2018-11,1336,male,negative,gender inequality
+11,2018-12,704,male,negative,gender inequality
+0,2018-01,1315,female,negative,gender inequality
+1,2018-02,1335,female,negative,gender inequality
+2,2018-03,1464,female,negative,gender inequality
+3,2018-04,1000,female,negative,gender inequality
+4,2018-05,491,female,negative,gender inequality
+5,2018-06,429,female,negative,gender inequality
+6,2018-07,563,female,negative,gender inequality
+7,2018-08,738,female,negative,gender inequality
+8,2018-09,1348,female,negative,gender inequality
+9,2018-10,1439,female,negative,gender inequality
+10,2018-11,1116,female,negative,gender inequality
+11,2018-12,399,female,negative,gender inequality
+0,2018-01,1650,male,neutral,gender inequality
+1,2018-02,1604,male,neutral,gender inequality
+2,2018-03,9965,male,neutral,gender inequality
+3,2018-04,1579,male,neutral,gender inequality
+4,2018-05,1508,male,neutral,gender inequality
+5,2018-06,1110,male,neutral,gender inequality
+6,2018-07,959,male,neutral,gender inequality
+7,2018-08,764,male,neutral,gender inequality
+8,2018-09,1698,male,neutral,gender inequality
+9,2018-10,1683,male,neutral,gender inequality
+10,2018-11,2080,male,neutral,gender inequality
+11,2018-12,1277,male,neutral,gender inequality
+0,2018-01,1504,female,neutral,gender inequality
+1,2018-02,1462,female,neutral,gender inequality
+2,2018-03,1950,female,neutral,gender inequality
+3,2018-04,1508,female,neutral,gender inequality
+4,2018-05,1026,female,neutral,gender inequality
+5,2018-06,656,female,neutral,gender inequality
+6,2018-07,539,female,neutral,gender inequality
+7,2018-08,977,female,neutral,gender inequality
+8,2018-09,824,female,neutral,gender inequality
+9,2018-10,1423,female,neutral,gender inequality
+10,2018-11,681,female,neutral,gender inequality
+11,2018-12,540,female,neutral,gender inequality
+0,2018-01,731,male,positive,gender inequality
+1,2018-02,1237,male,positive,gender inequality
+2,2018-03,786,male,positive,gender inequality
+3,2018-04,989,male,positive,gender inequality
+4,2018-05,446,male,positive,gender inequality
+5,2018-06,1470,male,positive,gender inequality
+6,2018-07,469,male,positive,gender inequality
+7,2018-08,533,male,positive,gender inequality
+8,2018-09,533,male,positive,gender inequality
+9,2018-10,1129,male,positive,gender inequality
+10,2018-11,603,male,positive,gender inequality
+11,2018-12,497,male,positive,gender inequality
+0,2018-01,1244,female,positive,gender inequality
+1,2018-02,716,female,positive,gender inequality
+2,2018-03,1064,female,positive,gender inequality
+3,2018-04,535,female,positive,gender inequality
+4,2018-05,253,female,positive,gender inequality
+5,2018-06,954,female,positive,gender inequality
+6,2018-07,354,female,positive,gender inequality
+7,2018-08,329,female,positive,gender inequality
+8,2018-09,496,female,positive,gender inequality
+9,2018-10,641,female,positive,gender inequality
+10,2018-11,281,female,positive,gender inequality
+11,2018-12,329,female,positive,gender inequality
+0,2018-01,1159,male,negative,abortion
+1,2018-02,774,male,negative,abortion
+2,2018-03,1990,male,negative,abortion
+3,2018-04,609,male,negative,abortion
+4,2018-05,3164,male,negative,abortion
+5,2018-06,1104,male,negative,abortion
+6,2018-07,1112,male,negative,abortion
+7,2018-08,485,male,negative,abortion
+8,2018-09,886,male,negative,abortion
+9,2018-10,916,male,negative,abortion
+10,2018-11,355,male,negative,abortion
+11,2018-12,419,male,negative,abortion
+0,2018-01,500,female,negative,abortion
+1,2018-02,516,female,negative,abortion
+2,2018-03,655,female,negative,abortion
+3,2018-04,780,female,negative,abortion
+4,2018-05,1234,female,negative,abortion
+5,2018-06,1269,female,negative,abortion
+6,2018-07,698,female,negative,abortion
+7,2018-08,351,female,negative,abortion
+8,2018-09,736,female,negative,abortion
+9,2018-10,1097,female,negative,abortion
+10,2018-11,569,female,negative,abortion
+11,2018-12,272,female,negative,abortion
+0,2018-01,734,male,neutral,abortion
+1,2018-02,305,male,neutral,abortion
+2,2018-03,564,male,neutral,abortion
+3,2018-04,476,male,neutral,abortion
+4,2018-05,942,male,neutral,abortion
+5,2018-06,1061,male,neutral,abortion
+6,2018-07,849,male,neutral,abortion
+7,2018-08,499,male,neutral,abortion
+8,2018-09,550,male,neutral,abortion
+9,2018-10,586,male,neutral,abortion
+10,2018-11,181,male,neutral,abortion
+11,2018-12,323,male,neutral,abortion
+0,2018-01,315,female,neutral,abortion
+1,2018-02,154,female,neutral,abortion
+2,2018-03,243,female,neutral,abortion
+3,2018-04,217,female,neutral,abortion
+4,2018-05,1521,female,neutral,abortion
+5,2018-06,721,female,neutral,abortion
+6,2018-07,505,female,neutral,abortion
+7,2018-08,339,female,neutral,abortion
+8,2018-09,521,female,neutral,abortion
+9,2018-10,266,female,neutral,abortion
+10,2018-11,458,female,neutral,abortion
+11,2018-12,144,female,neutral,abortion
+0,2018-01,40,male,positive,abortion
+1,2018-02,24,male,positive,abortion
+2,2018-03,17,male,positive,abortion
+3,2018-04,18,male,positive,abortion
+4,2018-05,42,male,positive,abortion
+5,2018-06,31,male,positive,abortion
+6,2018-07,31,male,positive,abortion
+7,2018-08,25,male,positive,abortion
+8,2018-09,113,male,positive,abortion
+9,2018-10,44,male,positive,abortion
+10,2018-11,9,male,positive,abortion
+11,2018-12,12,male,positive,abortion
+0,2018-01,100,female,positive,abortion
+1,2018-02,34,female,positive,abortion
+2,2018-03,43,female,positive,abortion
+3,2018-04,11,female,positive,abortion
+4,2018-05,173,female,positive,abortion
+5,2018-06,21,female,positive,abortion
+6,2018-07,52,female,positive,abortion
+7,2018-08,6,female,positive,abortion
+8,2018-09,14,female,positive,abortion
+9,2018-10,144,female,positive,abortion
+10,2018-11,17,female,positive,abortion
+11,2018-12,21,female,positive,abortion
+0,2019-01,2471,male,negative,child brides
+1,2019-02,3517,male,negative,child brides
+2,2019-03,3444,male,negative,child brides
+3,2019-04,2853,male,negative,child brides
+4,2019-05,4401,male,negative,child brides
+5,2019-06,4527,male,negative,child brides
+6,2019-07,2609,male,negative,child brides
+7,2019-08,2753,male,negative,child brides
+8,2019-09,3411,male,negative,child brides
+9,2019-10,2712,male,negative,child brides
+10,2019-11,2059,male,negative,child brides
+11,2019-12,3009,male,negative,child brides
+0,2019-01,1116,female,negative,child brides
+1,2019-02,1187,female,negative,child brides
+2,2019-03,1598,female,negative,child brides
+3,2019-04,1231,female,negative,child brides
+4,2019-05,2193,female,negative,child brides
+5,2019-06,1735,female,negative,child brides
+6,2019-07,1009,female,negative,child brides
+7,2019-08,1785,female,negative,child brides
+8,2019-09,1596,female,negative,child brides
+9,2019-10,908,female,negative,child brides
+10,2019-11,1486,female,negative,child brides
+11,2019-12,1530,female,negative,child brides
+0,2019-01,1929,male,neutral,child brides
+1,2019-02,2384,male,neutral,child brides
+2,2019-03,2515,male,neutral,child brides
+3,2019-04,1669,male,neutral,child brides
+4,2019-05,3194,male,neutral,child brides
+5,2019-06,2363,male,neutral,child brides
+6,2019-07,1385,male,neutral,child brides
+7,2019-08,1971,male,neutral,child brides
+8,2019-09,2090,male,neutral,child brides
+9,2019-10,2276,male,neutral,child brides
+10,2019-11,1634,male,neutral,child brides
+11,2019-12,1404,male,neutral,child brides
+0,2019-01,1485,female,neutral,child brides
+1,2019-02,1614,female,neutral,child brides
+2,2019-03,1577,female,neutral,child brides
+3,2019-04,1044,female,neutral,child brides
+4,2019-05,1764,female,neutral,child brides
+5,2019-06,1210,female,neutral,child brides
+6,2019-07,971,female,neutral,child brides
+7,2019-08,906,female,neutral,child brides
+8,2019-09,954,female,neutral,child brides
+9,2019-10,999,female,neutral,child brides
+10,2019-11,892,female,neutral,child brides
+11,2019-12,1064,female,neutral,child brides
+0,2019-01,1137,male,positive,child brides
+1,2019-02,1036,male,positive,child brides
+2,2019-03,1455,male,positive,child brides
+3,2019-04,727,male,positive,child brides
+4,2019-05,2019,male,positive,child brides
+5,2019-06,1445,male,positive,child brides
+6,2019-07,773,male,positive,child brides
+7,2019-08,1038,male,positive,child brides
+8,2019-09,1049,male,positive,child brides
+9,2019-10,1255,male,positive,child brides
+10,2019-11,1150,male,positive,child brides
+11,2019-12,1371,male,positive,child brides
+0,2019-01,675,female,positive,child brides
+1,2019-02,741,female,positive,child brides
+2,2019-03,520,female,positive,child brides
+3,2019-04,696,female,positive,child brides
+4,2019-05,1494,female,positive,child brides
+5,2019-06,781,female,positive,child brides
+6,2019-07,586,female,positive,child brides
+7,2019-08,582,female,positive,child brides
+8,2019-09,792,female,positive,child brides
+9,2019-10,756,female,positive,child brides
+10,2019-11,570,female,positive,child brides
+11,2019-12,816,female,positive,child brides
+0,2019-01,2548,male,negative,sexual harassment
+1,2019-02,5923,male,negative,sexual harassment
+2,2019-03,2714,male,negative,sexual harassment
+3,2019-04,2003,male,negative,sexual harassment
+4,2019-05,3529,male,negative,sexual harassment
+5,2019-06,3264,male,negative,sexual harassment
+6,2019-07,2195,male,negative,sexual harassment
+7,2019-08,1876,male,negative,sexual harassment
+8,2019-09,2019,male,negative,sexual harassment
+9,2019-10,2887,male,negative,sexual harassment
+10,2019-11,2363,male,negative,sexual harassment
+11,2019-12,2331,male,negative,sexual harassment
+0,2019-01,1601,female,negative,sexual harassment
+1,2019-02,1771,female,negative,sexual harassment
+2,2019-03,2789,female,negative,sexual harassment
+3,2019-04,1049,female,negative,sexual harassment
+4,2019-05,1745,female,negative,sexual harassment
+5,2019-06,1580,female,negative,sexual harassment
+6,2019-07,1078,female,negative,sexual harassment
+7,2019-08,1363,female,negative,sexual harassment
+8,2019-09,1414,female,negative,sexual harassment
+9,2019-10,1303,female,negative,sexual harassment
+10,2019-11,1184,female,negative,sexual harassment
+11,2019-12,911,female,negative,sexual harassment
+0,2019-01,2056,male,neutral,sexual harassment
+1,2019-02,1834,male,neutral,sexual harassment
+2,2019-03,1746,male,neutral,sexual harassment
+3,2019-04,1224,male,neutral,sexual harassment
+4,2019-05,1573,male,neutral,sexual harassment
+5,2019-06,1349,male,neutral,sexual harassment
+6,2019-07,739,male,neutral,sexual harassment
+7,2019-08,1693,male,neutral,sexual harassment
+8,2019-09,1288,male,neutral,sexual harassment
+9,2019-10,1340,male,neutral,sexual harassment
+10,2019-11,1475,male,neutral,sexual harassment
+11,2019-12,704,male,neutral,sexual harassment
+0,2019-01,788,female,neutral,sexual harassment
+1,2019-02,679,female,neutral,sexual harassment
+2,2019-03,1335,female,neutral,sexual harassment
+3,2019-04,805,female,neutral,sexual harassment
+4,2019-05,1319,female,neutral,sexual harassment
+5,2019-06,809,female,neutral,sexual harassment
+6,2019-07,733,female,neutral,sexual harassment
+7,2019-08,465,female,neutral,sexual harassment
+8,2019-09,443,female,neutral,sexual harassment
+9,2019-10,569,female,neutral,sexual harassment
+10,2019-11,690,female,neutral,sexual harassment
+11,2019-12,772,female,neutral,sexual harassment
+0,2019-01,432,male,positive,sexual harassment
+1,2019-02,270,male,positive,sexual harassment
+2,2019-03,196,male,positive,sexual harassment
+3,2019-04,134,male,positive,sexual harassment
+4,2019-05,652,male,positive,sexual harassment
+5,2019-06,222,male,positive,sexual harassment
+6,2019-07,175,male,positive,sexual harassment
+7,2019-08,342,male,positive,sexual harassment
+8,2019-09,175,male,positive,sexual harassment
+9,2019-10,156,male,positive,sexual harassment
+10,2019-11,245,male,positive,sexual harassment
+11,2019-12,134,male,positive,sexual harassment
+0,2019-01,144,female,positive,sexual harassment
+1,2019-02,232,female,positive,sexual harassment
+2,2019-03,249,female,positive,sexual harassment
+3,2019-04,207,female,positive,sexual harassment
+4,2019-05,128,female,positive,sexual harassment
+5,2019-06,258,female,positive,sexual harassment
+6,2019-07,97,female,positive,sexual harassment
+7,2019-08,328,female,positive,sexual harassment
+8,2019-09,74,female,positive,sexual harassment
+9,2019-10,212,female,positive,sexual harassment
+10,2019-11,264,female,positive,sexual harassment
+11,2019-12,407,female,positive,sexual harassment
+0,2019-01,15,male,negative,feminism
+1,2019-02,20,male,negative,feminism
+2,2019-03,12,male,negative,feminism
+3,2019-04,8,male,negative,feminism
+4,2019-05,5,male,negative,feminism
+5,2019-06,34,male,negative,feminism
+6,2019-07,8,male,negative,feminism
+7,2019-08,7,male,negative,feminism
+8,2019-09,56,male,negative,feminism
+9,2019-10,34,male,negative,feminism
+10,2019-11,6,male,negative,feminism
+11,2019-12,6,male,negative,feminism
+0,2019-01,129,female,negative,feminism
+1,2019-02,22,female,negative,feminism
+2,2019-03,121,female,negative,feminism
+3,2019-04,34,female,negative,feminism
+4,2019-05,30,female,negative,feminism
+5,2019-06,38,female,negative,feminism
+6,2019-07,18,female,negative,feminism
+7,2019-08,33,female,negative,feminism
+8,2019-09,36,female,negative,feminism
+9,2019-10,54,female,negative,feminism
+10,2019-11,80,female,negative,feminism
+11,2019-12,44,female,negative,feminism
+0,2019-01,6,male,neutral,feminism
+1,2019-02,16,male,neutral,feminism
+2,2019-03,47,male,neutral,feminism
+3,2019-04,16,male,neutral,feminism
+4,2019-05,42,male,neutral,feminism
+5,2019-06,34,male,neutral,feminism
+6,2019-07,4,male,neutral,feminism
+7,2019-08,27,male,neutral,feminism
+8,2019-09,5,male,neutral,feminism
+9,2019-10,16,male,neutral,feminism
+10,2019-11,14,male,neutral,feminism
+11,2019-12,17,male,neutral,feminism
+0,2019-01,42,female,neutral,feminism
+1,2019-02,73,female,neutral,feminism
+2,2019-03,377,female,neutral,feminism
+3,2019-04,61,female,neutral,feminism
+4,2019-05,103,female,neutral,feminism
+5,2019-06,57,female,neutral,feminism
+6,2019-07,18,female,neutral,feminism
+7,2019-08,124,female,neutral,feminism
+8,2019-09,68,female,neutral,feminism
+9,2019-10,52,female,neutral,feminism
+10,2019-11,36,female,neutral,feminism
+11,2019-12,65,female,neutral,feminism
+0,2019-01,4,male,positive,feminism
+1,2019-02,3,male,positive,feminism
+2,2019-03,9,male,positive,feminism
+3,2019-04,2,male,positive,feminism
+4,2019-05,5,male,positive,feminism
+5,2019-06,4,male,positive,feminism
+6,2019-07,4,male,positive,feminism
+7,2019-08,15,male,positive,feminism
+8,2019-09,1,male,positive,feminism
+9,2019-10,8,male,positive,feminism
+10,2019-11,1,male,positive,feminism
+0,2019-01,35,female,positive,feminism
+1,2019-02,24,female,positive,feminism
+2,2019-03,125,female,positive,feminism
+3,2019-04,19,female,positive,feminism
+4,2019-05,20,female,positive,feminism
+5,2019-06,23,female,positive,feminism
+6,2019-07,15,female,positive,feminism
+7,2019-08,19,female,positive,feminism
+8,2019-09,21,female,positive,feminism
+9,2019-10,10,female,positive,feminism
+10,2019-11,26,female,positive,feminism
+11,2019-12,13,female,positive,feminism
+0,2019-01,1093,male,negative,gender inequality
+1,2019-02,1118,male,negative,gender inequality
+2,2019-03,1188,male,negative,gender inequality
+3,2019-04,664,male,negative,gender inequality
+4,2019-05,1225,male,negative,gender inequality
+5,2019-06,1835,male,negative,gender inequality
+6,2019-07,607,male,negative,gender inequality
+7,2019-08,1184,male,negative,gender inequality
+8,2019-09,1223,male,negative,gender inequality
+9,2019-10,1134,male,negative,gender inequality
+10,2019-11,1083,male,negative,gender inequality
+11,2019-12,1201,male,negative,gender inequality
+0,2019-01,667,female,negative,gender inequality
+1,2019-02,408,female,negative,gender inequality
+2,2019-03,994,female,negative,gender inequality
+3,2019-04,673,female,negative,gender inequality
+4,2019-05,722,female,negative,gender inequality
+5,2019-06,508,female,negative,gender inequality
+6,2019-07,427,female,negative,gender inequality
+7,2019-08,385,female,negative,gender inequality
+8,2019-09,412,female,negative,gender inequality
+9,2019-10,555,female,negative,gender inequality
+10,2019-11,386,female,negative,gender inequality
+11,2019-12,324,female,negative,gender inequality
+0,2019-01,1169,male,neutral,gender inequality
+1,2019-02,1060,male,neutral,gender inequality
+2,2019-03,1268,male,neutral,gender inequality
+3,2019-04,804,male,neutral,gender inequality
+4,2019-05,1489,male,neutral,gender inequality
+5,2019-06,1070,male,neutral,gender inequality
+6,2019-07,1025,male,neutral,gender inequality
+7,2019-08,967,male,neutral,gender inequality
+8,2019-09,1527,male,neutral,gender inequality
+9,2019-10,831,male,neutral,gender inequality
+10,2019-11,1162,male,neutral,gender inequality
+11,2019-12,969,male,neutral,gender inequality
+0,2019-01,613,female,neutral,gender inequality
+1,2019-02,688,female,neutral,gender inequality
+2,2019-03,1410,female,neutral,gender inequality
+3,2019-04,541,female,neutral,gender inequality
+4,2019-05,1122,female,neutral,gender inequality
+5,2019-06,868,female,neutral,gender inequality
+6,2019-07,664,female,neutral,gender inequality
+7,2019-08,479,female,neutral,gender inequality
+8,2019-09,648,female,neutral,gender inequality
+9,2019-10,1153,female,neutral,gender inequality
+10,2019-11,790,female,neutral,gender inequality
+11,2019-12,317,female,neutral,gender inequality
+0,2019-01,432,male,positive,gender inequality
+1,2019-02,490,male,positive,gender inequality
+2,2019-03,899,male,positive,gender inequality
+3,2019-04,491,male,positive,gender inequality
+4,2019-05,627,male,positive,gender inequality
+5,2019-06,561,male,positive,gender inequality
+6,2019-07,683,male,positive,gender inequality
+7,2019-08,728,male,positive,gender inequality
+8,2019-09,506,male,positive,gender inequality
+9,2019-10,568,male,positive,gender inequality
+10,2019-11,569,male,positive,gender inequality
+11,2019-12,473,male,positive,gender inequality
+0,2019-01,429,female,positive,gender inequality
+1,2019-02,411,female,positive,gender inequality
+2,2019-03,900,female,positive,gender inequality
+3,2019-04,218,female,positive,gender inequality
+4,2019-05,425,female,positive,gender inequality
+5,2019-06,531,female,positive,gender inequality
+6,2019-07,286,female,positive,gender inequality
+7,2019-08,241,female,positive,gender inequality
+8,2019-09,331,female,positive,gender inequality
+9,2019-10,484,female,positive,gender inequality
+10,2019-11,3138,female,positive,gender inequality
+11,2019-12,262,female,positive,gender inequality
+0,2019-01,848,male,negative,abortion
+1,2019-02,1538,male,negative,abortion
+2,2019-03,701,male,negative,abortion
+3,2019-04,599,male,negative,abortion
+4,2019-05,2182,male,negative,abortion
+5,2019-06,1430,male,negative,abortion
+6,2019-07,608,male,negative,abortion
+7,2019-08,768,male,negative,abortion
+8,2019-09,1361,male,negative,abortion
+9,2019-10,1048,male,negative,abortion
+10,2019-11,720,male,negative,abortion
+11,2019-12,174,male,negative,abortion
+0,2019-01,553,female,negative,abortion
+1,2019-02,1064,female,negative,abortion
+2,2019-03,666,female,negative,abortion
+3,2019-04,725,female,negative,abortion
+4,2019-05,3422,female,negative,abortion
+5,2019-06,1300,female,negative,abortion
+6,2019-07,361,female,negative,abortion
+7,2019-08,347,female,negative,abortion
+8,2019-09,534,female,negative,abortion
+9,2019-10,445,female,negative,abortion
+10,2019-11,174,female,negative,abortion
+11,2019-12,184,female,negative,abortion
+0,2019-01,457,male,neutral,abortion
+1,2019-02,908,male,neutral,abortion
+2,2019-03,480,male,neutral,abortion
+3,2019-04,388,male,neutral,abortion
+4,2019-05,1957,male,neutral,abortion
+5,2019-06,1160,male,neutral,abortion
+6,2019-07,289,male,neutral,abortion
+7,2019-08,531,male,neutral,abortion
+8,2019-09,480,male,neutral,abortion
+9,2019-10,509,male,neutral,abortion
+10,2019-11,252,male,neutral,abortion
+11,2019-12,170,male,neutral,abortion
+0,2019-01,673,female,neutral,abortion
+1,2019-02,315,female,neutral,abortion
+2,2019-03,342,female,neutral,abortion
+3,2019-04,371,female,neutral,abortion
+4,2019-05,1946,female,neutral,abortion
+5,2019-06,1108,female,neutral,abortion
+6,2019-07,359,female,neutral,abortion
+7,2019-08,159,female,neutral,abortion
+8,2019-09,401,female,neutral,abortion
+9,2019-10,428,female,neutral,abortion
+10,2019-11,319,female,neutral,abortion
+11,2019-12,314,female,neutral,abortion
+0,2019-01,71,male,positive,abortion
+1,2019-02,34,male,positive,abortion
+2,2019-03,35,male,positive,abortion
+3,2019-04,34,male,positive,abortion
+4,2019-05,152,male,positive,abortion
+5,2019-06,40,male,positive,abortion
+6,2019-07,10,male,positive,abortion
+7,2019-08,16,male,positive,abortion
+8,2019-09,18,male,positive,abortion
+9,2019-10,20,male,positive,abortion
+10,2019-11,14,male,positive,abortion
+11,2019-12,15,male,positive,abortion
+0,2019-01,47,female,positive,abortion
+1,2019-02,77,female,positive,abortion
+2,2019-03,33,female,positive,abortion
+3,2019-04,43,female,positive,abortion
+4,2019-05,324,female,positive,abortion
+5,2019-06,331,female,positive,abortion
+6,2019-07,78,female,positive,abortion
+7,2019-08,17,female,positive,abortion
+8,2019-09,10,female,positive,abortion
+9,2019-10,45,female,positive,abortion
+10,2019-11,52,female,positive,abortion
+11,2019-12,64,female,positive,abortion
+0,2020-01,2407,male,negative,child brides
+1,2020-02,2459,male,negative,child brides
+2,2020-03,1729,male,negative,child brides
+3,2020-04,655,male,negative,child brides
+0,2020-01,1049,female,negative,child brides
+1,2020-02,890,female,negative,child brides
+2,2020-03,676,female,negative,child brides
+3,2020-04,220,female,negative,child brides
+0,2020-01,1755,male,neutral,child brides
+1,2020-02,1499,male,neutral,child brides
+2,2020-03,1685,male,neutral,child brides
+3,2020-04,540,male,neutral,child brides
+0,2020-01,710,female,neutral,child brides
+1,2020-02,1116,female,neutral,child brides
+2,2020-03,825,female,neutral,child brides
+3,2020-04,231,female,neutral,child brides
+0,2020-01,1324,male,positive,child brides
+1,2020-02,946,male,positive,child brides
+2,2020-03,555,male,positive,child brides
+3,2020-04,237,male,positive,child brides
+0,2020-01,588,female,positive,child brides
+1,2020-02,637,female,positive,child brides
+2,2020-03,342,female,positive,child brides
+3,2020-04,89,female,positive,child brides
+0,2020-01,1608,male,negative,sexual harassment
+1,2020-02,2420,male,negative,sexual harassment
+2,2020-03,1352,male,negative,sexual harassment
+3,2020-04,212,male,negative,sexual harassment
+0,2020-01,1244,female,negative,sexual harassment
+1,2020-02,1350,female,negative,sexual harassment
+2,2020-03,418,female,negative,sexual harassment
+3,2020-04,103,female,negative,sexual harassment
+0,2020-01,685,male,neutral,sexual harassment
+1,2020-02,1185,male,neutral,sexual harassment
+2,2020-03,660,male,neutral,sexual harassment
+3,2020-04,202,male,neutral,sexual harassment
+0,2020-01,673,female,neutral,sexual harassment
+1,2020-02,526,female,neutral,sexual harassment
+2,2020-03,288,female,neutral,sexual harassment
+3,2020-04,98,female,neutral,sexual harassment
+0,2020-01,257,male,positive,sexual harassment
+1,2020-02,261,male,positive,sexual harassment
+2,2020-03,76,male,positive,sexual harassment
+3,2020-04,12,male,positive,sexual harassment
+0,2020-01,112,female,positive,sexual harassment
+1,2020-02,219,female,positive,sexual harassment
+2,2020-03,61,female,positive,sexual harassment
+3,2020-04,43,female,positive,sexual harassment
+0,2020-01,11,male,negative,feminism
+1,2020-02,19,male,negative,feminism
+2,2020-03,4,male,negative,feminism
+3,2020-04,1,male,negative,feminism
+0,2020-01,10,female,negative,feminism
+1,2020-02,9,female,negative,feminism
+2,2020-03,9,female,negative,feminism
+3,2020-04,2,female,negative,feminism
+0,2020-01,11,male,neutral,feminism
+1,2020-02,6,male,neutral,feminism
+2,2020-03,6,male,neutral,feminism
+0,2020-01,95,female,neutral,feminism
+1,2020-02,34,female,neutral,feminism
+2,2020-03,77,female,neutral,feminism
+3,2020-04,21,female,neutral,feminism
+0,2020-01,4,male,positive,feminism
+1,2020-02,2,male,positive,feminism
+2,2020-03,6,male,positive,feminism
+3,2020-04,1,male,positive,feminism
+0,2020-01,17,female,positive,feminism
+1,2020-02,14,female,positive,feminism
+2,2020-03,3,female,positive,feminism
+0,2020-01,940,male,negative,gender inequality
+1,2020-02,559,male,negative,gender inequality
+2,2020-03,543,male,negative,gender inequality
+3,2020-04,142,male,negative,gender inequality
+0,2020-01,278,female,negative,gender inequality
+1,2020-02,333,female,negative,gender inequality
+2,2020-03,237,female,negative,gender inequality
+3,2020-04,75,female,negative,gender inequality
+0,2020-01,1036,male,neutral,gender inequality
+1,2020-02,931,male,neutral,gender inequality
+2,2020-03,470,male,neutral,gender inequality
+3,2020-04,86,male,neutral,gender inequality
+0,2020-01,588,female,neutral,gender inequality
+1,2020-02,366,female,neutral,gender inequality
+2,2020-03,443,female,neutral,gender inequality
+3,2020-04,93,female,neutral,gender inequality
+0,2020-01,642,male,positive,gender inequality
+1,2020-02,439,male,positive,gender inequality
+2,2020-03,153,male,positive,gender inequality
+3,2020-04,36,male,positive,gender inequality
+0,2020-01,403,female,positive,gender inequality
+1,2020-02,541,female,positive,gender inequality
+2,2020-03,344,female,positive,gender inequality
+3,2020-04,31,female,positive,gender inequality
+0,2020-01,452,male,negative,abortion
+1,2020-02,405,male,negative,abortion
+2,2020-03,975,male,negative,abortion
+3,2020-04,174,male,negative,abortion
+0,2020-01,473,female,negative,abortion
+1,2020-02,433,female,negative,abortion
+2,2020-03,331,female,negative,abortion
+3,2020-04,139,female,negative,abortion
+0,2020-01,364,male,neutral,abortion
+1,2020-02,309,male,neutral,abortion
+2,2020-03,326,male,neutral,abortion
+3,2020-04,69,male,neutral,abortion
+0,2020-01,453,female,neutral,abortion
+1,2020-02,197,female,neutral,abortion
+2,2020-03,184,female,neutral,abortion
+3,2020-04,138,female,neutral,abortion
+0,2020-01,81,male,positive,abortion
+1,2020-02,12,male,positive,abortion
+2,2020-03,21,male,positive,abortion
+3,2020-04,2,male,positive,abortion
+0,2020-01,34,female,positive,abortion
+1,2020-02,11,female,positive,abortion
+2,2020-03,90,female,positive,abortion
+3,2020-04,22,female,positive,abortion
