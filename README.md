@@ -40,10 +40,10 @@ We plan to continue our research in the following directions, and we list here v
 
 ## Contributions
 
-- **Xiaoyu Chen**: Builds the website pages and modifies the website pages, also checks our data story.
+- **Xiaoyu Chen**: Builds the website page and modifies it, also checks our data story.
 - **Siyi Liu**: Takes charge of data processing pipeline on Quotebank dataset  (with different years, discover valuable and interesting patterns based on it), and conceptualizes the data story.
-- **Xiaotian Su**: Visualizes the data including histogram, line-chart, scatterplot, etc. Designs the layout and visual style of the website, modifies the weibsite page, and checks our data story.
-- **Xinyu Zhou**: Designs regression models used in this project, conceptualizes the data story, helps Xiaotian visualize the data including Stack-bar and heatmap and modifies the website page.
+- **Xiaotian Su**: Visualizes the data including histogram, line-chart,etc. Designs the layout and visual style of the website, modifies the weibsite page, and checks our data story.
+- **Xinyu Zhou**: Designs regression models used in this project, conceptualizes the data story, helps Xiaotian visualize the data including Stack-bar and Heatmap and modifies the website page.
 
 
 
