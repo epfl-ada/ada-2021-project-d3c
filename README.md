@@ -47,9 +47,9 @@ We plan to continue our research in the following directions, and we list here v
 ## Contribution
 
 - **Xiaoyu Chen**: Builds the website page and design the layout, mainly responsible for the front-end coding, also checks our data story.
-- **Siyi Liu**: Apply data processing pipeline on Quotebank datasets with different years, discover valuable and interesting patterns based on it, and conceptualize the data story.
-- **Xiaotian Su**: Visualize the data using plotly and dash including histogram, line-chart, bar-chart, etc. Design the layout and visual style of the website, then realize it. Minor modification for data story descriptions.
-- **Xinyu Zhou**: Designs regression models used in this project, conceptualizes the data story, helps Xiaotian visualize the data including Stack-bar and Heatmap and modifies the website page.
+- **Siyi Liu**: Applies data processing pipeline on Quotebank datasets with different years, discoveres valuable and interesting patterns based on it, and conceptualizes the data story.
+- **Xiaotian Su**: Visualizes the data using plotly and dash including histogram, line-chart, bar-chart, etc. Designs the layout and visual style of the website, then realizes it. Minor modification for data story descriptions.
+- **Xinyu Zhou**: Designs regression models used in this project, conceptualizes the data story, visualizes the data and updates the plots including Stack-bar, Heatmap, etc. Modifies the layout of website page.
 
 
 
