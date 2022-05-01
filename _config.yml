@@ -1,4 +1,0 @@
-deploy:
-  type: git
-  repository: git@github.com:epfl-ada/ada-2021-project-d3c.git
-  branch: master
