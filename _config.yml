@@ -1,0 +1,4 @@
+deploy:
+  type: git
+  repository: git@github.com:chenxiaoyuXD/chenxiaoyuXD.GitHub.io.git
+  branch: master
