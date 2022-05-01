@@ -1,0 +1,1596 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<!--- Basic Page Needs  -->
+<meta charset="utf-8">
+<title>Home</title>
+<meta name="description" content="">
+<meta name="author" content="">
+<meta name="keywords" content="">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<!-- Mobile Specific Meta  -->
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<!-- CSS -->
+<link rel="stylesheet" href="css/bootstrap.min.css">
+<link rel="stylesheet" href="css/jquery-ui.css">
+<link rel="stylesheet" href="css/all.min.css">
+<link rel="stylesheet" href="css/owl.carousel.min.css">
+<link rel="stylesheet" href="css/animate.css">
+<link rel="stylesheet" href="css/stellarnav.min.css">
+<link rel="stylesheet" href="css/magnific-popup.css">
+<!-- <link rel="stylesheet" href="fonts/stylesheet.css"> -->
+<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/responsive.css">
+<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+	<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+	<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+	<![endif]-->
+<style type="text/css">
+	h3.counter { text-align:center; color: #FFC576; margin: 0 0 10px }
+</style>
+</head>
+
+<body>
+<header>
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-1 col-sm-6 col-12">
+				<img style="margin-top: 5px" src="img/gender_logo.png" alt="logo">
+			</div>
+			<div class="col-lg-11 col-sm-6 col-12">
+				<div class="main-menu stellarnav">
+					<ul>
+						<li><a href="#ch0">introduction</a></li>
+						<li><a href="#ch1">1.General<br/>  Overview</a></li>
+						<li><a href="#ch2">2.News Outlet<br/>Nationality and Party</a></li>
+						<li><a href="#ch3">3.Topics</a></li>
+						<li><a href="#ch4">4.linguistic<br/> bias</a></li>
+						<li><a href="#ch5">5.conclusion</a></li>
+						<li><a href="#ch6">team</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+</header>
+<section class="hero-area">
+	<div class="hero-element-4"><img src="img/cover.png" alt=""></div>
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-10 col-12">
+				<div class="hero-content">
+					<h2 class="title" style="margin-bottom: 50px;">
+						Women’s Underrepresentation
+					<h2>
+					<h3 class="intro">in the news quotations</h3>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<section class="testimonial-area">
+	<div class="container" style="padding: 100px 0;">
+		<h1>
+			“Gender bias does worldwide damage. It’s a cause of low productivity on farms.
+			It’s a source of poverty and disease. It’s at the core of social customs that keep women down.”
+		</h1>
+		<br/>
+		<br/>
+		<p style="text-align: right; color: #FFC576; font-family: Playfair Display, serif; font-size: 22px">--Melinda Gates<br/>The Moment of Lift: How Empowering Women Changes the World
+		</p>
+	</div>
+</section>
+
+<section class="testimonial-area" id="ch0">
+	<div class="container">
+		<div class="section-title">
+			<h2 class="title" style="text-align: center;">
+				Gender bias: What can we find from quotations? 
+			</h2>
+		</div>
+		<div class="row">
+			<div class="col-lg-8 col-md-6 col-12">
+				<p class="text">
+					Gender bias in the news media has gotten a lot of attention lately, and the variations in news coverage caused by gender have been studied from a variety of angles.
+					However, quoting, which is common in all forms of news coverage, has received insufficient attention.
+					Quoted material in the news helps us to look at gender bias in the news from a new perspective
+					because quotes are <b style="color: #FFC576;">straightforward</b>, <b style="color: #FFC576;">direct</b>, and <b style="color: #FFC576;">accurate</b> expressions of the speaker's point of view.
+				</p>
+				<p class="text">
+					As a result, we ask a new set of <b style="color: #FFC576;">questions</b>:
+					Is it true that male speakers speak "<b style="color: #FFC576;">louder</b>" than female speakers? Is this caused by news coverage or by the gender itself, if it is true? Is it also possible to derive the <b style="color: #FFC576;">portraits</b> of each gender from quotations?
+				</p>	
+			</div>
+			<div class="col-lg-4 col-md-6 col-12">
+				<img src="img/quotation.png" alt="">
+			</div>
+		</div>
+		<p class="text", style="margin: 5px, 20px;">
+			In short, our data story examines not just the preferences of different news outlets when quoting speakers of various genders,
+			but also the impact of various political parties and countries on gender prejudice.
+			In addition, we investigate gender prejudice in self-defined themes and at the linguistic level so as to better understand why bias appears in quotations.
+		</p>	
+		<div style="padding:30px 0px;">
+			<h3>Dataset Overview</h3>
+		</div>
+		
+		<p class="text">
+			Our research is based on the Quotebank<a href="https://zenodo.org/record/4277311#.YbyL0p7MJPZ"><sup>[1]</sup></a> dataset,
+			which covers the period from January 1, 2015 through April 30, 2020. Following the wrangling of the original dataset, we now have:
+		</p>
+
+		<div class="row">
+			<div class="col-lg-4 col-md-6 col-12">
+				<h3 class="counter">2,301,973</h3>
+				<h5 style="text-align:center; margin: 0 0 20px">
+					different speakers.
+				</h5>
+			</div>
+			<div class="col-lg-4 col-md-6 col-12">
+				<h3 class="counter">74,377,416</h3>
+				<h5 style="text-align:center; margin: 0 0 20px">
+					different quotations.
+				</h5>
+			</div>
+			<div class="col-lg-4 col-md-6 col-12">
+				<h3 class="counter">288,772,111</h3>
+				<h5 style="text-align:center; margin: 0 0 20px">
+					occurrence of quotations.
+				</h5>
+			</div>
+			<div class="col-lg-4 col-md-6 col-12">
+				<h3 class="counter">12,715</h3>
+				<h5 style="text-align:center; margin: 0 0 20px">
+					different news domains.
+				</h5>
+			</div>
+			<div class="col-lg-4 col-md-6 col-12">
+				<h3 class="counter">3,064</h3>
+				<h5 style="text-align:center; margin: 0 0 20px">
+					different speakers' party affiliations.
+				</h5>
+			</div>
+			<div class="col-lg-4 col-md-6 col-12">
+				<h3 class="counter">579</h3>
+				<h5 style="text-align:center; margin: 0 0 20px">different speakers' nationalities.
+			</h5>
+			</div>
+		</div>
+		<p class="text">
+			Because there were a tiny number of sexual minorities in the sample,
+			we categorized them as "<b style="color: #FFC576;">others</b>" and limited our study to binary gender representations.			
+		</p>
+	</div>
+</section>
+
+<section class="info-tab-area" id="ch1">
+	<div class="container">
+		<div class="section-title">
+			<h2 class="title" style="text-align: center;">
+				1. Men’s voice is three times louder than women!
+			</h2>
+		</div>
+		<p class="text">
+			From January 1, 2015, through April 30, 2020, we show three types of gender percentages.
+			(The total number of quotations that appear in the media is referred to as the <b style="color: #FFC576;">Occurrence</b>.
+			The number of different speakers in the dataset is referred to as <b style="color: #FFC576;">Speaker</b>.
+			And the number of different quotations is represented by the term <b style="color: #FFC576;">Quotation</b>.)
+		</p>
+		<iframe scrolling="no" style="border:none;" seamless="seamless" src="./plotly/total_gender_percentage_figure.html" height="300" width="100%">
+		</iframe>
+		<p class="text">
+			At first glance, it's easy to notice that over <b style="color: #FFC576;">80%</b> of the speakers quoted by sources are men, which is consistent with past gender bias research<sup><a href="https://sociologicalscience.com/download/vol-6/september/SocSci_v6_526to550.pdf">[2]</a></sup>
+			<sup><a href = "https://dl.acm.org/doi/pdf/10.1145/2740908.2742007?casa_token=PAvKpQE1sV4AAAAA:SkAfvOs6ZwtksMz-Rdg99zgfH-dcq6F4LIrJagZRuQjQsqlLm4vnAPHgQ4JDrAxelQVVGQYOKUjOrg">[3]</a></sup>
+			<sup><a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0245533">[4]</a></sup>.
+			You may be persuaded to assume that there are many more males than females on the planet; however, this is incorrect for the entire world's population, or even for citizens of the United States (for both the gender ratio is about <b style="color: #FFC576;">1:1</b>).
+			Interestingly, the percentage of women speakers is around <b style="color: #FFC576;">5%</b> greater than the other two forms of aggregations, implying that despite accounting for about a quarter of all speakers, news outlets mentioned them less. We are still far from gender equality, as evidenced by women's underrepresentation in society and in news articles.
+		</p>
+		<p class="text">To be more specific, we show the top ten most quoted speakers each year from 2015 to 2019. As we can observe (unsurprisingly), men have dominated the news quotations: Men made up the majority of the top ten quotes.
+		</p>
+		<br/>
+	<div class="tab-bg-element"></div>
+		<div class="info-tab">
+			<ul class="nav nav-tabs" id="myTab" role="tablist">
+				<li class="nav-item">
+					<a class="nav-link active" id="about-tab" data-toggle="tab" href="#about" role="tab" aria-controls="about" aria-selected="true">2015</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" id="service-tab" data-toggle="tab" href="#service" role="tab" aria-controls="service" aria-selected="false">2016</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" id="interviews-tab" data-toggle="tab" href="#interviews" role="tab" aria-controls="interviews" aria-selected="false">2017</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" id="awards-tab" data-toggle="tab" href="#awards" role="tab" aria-controls="awards" aria-selected="false">2018</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" id="exhibitions-tab" data-toggle="tab" href="#exhibitions" role="tab" aria-controls="exhibitions" aria-selected="false">2019</a>
+				</li>
+			</ul>
+			<div class="tab-content" id="myTabContent">
+				<div class="tab-pane fade show active" id="about" role="tabpanel" aria-labelledby="about-tab">
+					<div class="content-exhibitions">
+						<div class="row">
+							<div class="col-lg-3 col-md-6 col-12">
+								<a href="https://en.wikipedia.org/wiki/Barack_Obama">
+									<div class="single-exhibition">
+									<div class="img"><img src="img/2015/2015_0.jpg" alt=""></div>
+									<div class="content">
+										<h6 class="name">Occurrence: 535250</h6>
+										<h6 class="name">Party: Democratic Party</h6>
+										<h6 class="name">Gender: Male</h6>
+										<h6 class="name">Nationality: USA</h6>
+									</div>
+									</div>
+								</a>
+								<div class="name" style="text-align:center; margin: 0 0 30px">
+									Barack Obama
+								</div>
+							</div>
+							<div class="col-lg-3 col-md-6 col-12">
+								<a href="https://en.wikipedia.org/wiki/Donald_Trump">
+									<div class="single-exhibition">
+									<div class="img"><img src="img/2015/2015_1.jpg" alt=""></div>
+									<div class="content">
+										<h6 class="name">Occurrence: 500165</h6>
+										<h6 class="name">Party: Republican Party</h6>
+										<h6 class="name">Gender: Male</h6>
+										<h6 class="name">Nationality: USA</h6>
+									</div>
+									</div>
+								</a>
+								<div class="name" style="text-align:center; margin: 0 0 30px">
+									Donald Trump
+								</div>
+							</div>
+							<div class="col-lg-3 col-md-6 col-12">
+								<a href="https://en.wikipedia.org/wiki/Hillary_Clinton">
+									<div class="single-exhibition">
+									<div class="img"><img src="img/2015/2015_2.jpg" alt=""></div>
+									<div class="content">
+										<h6 class="name">Occurrence: 242552</h6>
+										<h6 class="name">Party: Democratic Party</h6>
+										<h6 class="name">Gender: Female</h6>
+										<h6 class="name">Nationality: USA</h6>
+									</div>
+									</div>
+								</a>
+								<div class="name" style="text-align:center; margin: 0 0 30px">
+									Hillary Clinton
+								</div>
+							</div>
+							<div class="col-lg-3 col-md-6 col-12">
+								<a href="https://en.wikipedia.org/wiki/Pope_Francis">
+									<div class="single-exhibition">
+									<div class="img"><img src="img/2015/2015_3.jpg" alt=""></div>
+									<div class="content">
+										<h6 class="name">Occurrence: 233483</h6>
+										<h6 class="name">Gender: Male</h6>
+										<h6 class="name">Nationality: Vatican City</h6>
+									</div>
+									</div>
+								</a>	
+								<div class="name" style="text-align:center; margin: 0 0 30px">
+									Pope Francis
+								</div>
+							</div>
+							<div class="col-lg-2 col-md-6 col-12">
+								<a href="https://en.wikipedia.org/wiki/Jeb_Bush">
+								<div class="single-exhibition">
+									<div class="img"><img src="img/2015/2015_4.jpg" alt=""></div>
+									<div class="content">
+										<h6 class="name">140557</h6>
+										<h6 class="name">Republican Party</h6>
+										<h6 class="name">Male</h6>
+										<h6 class="name">USA</h6>
+									</div>
+								</div>
+								</a>
+								<div class="name" style="text-align:center; margin: 0 0 30px">
+									Jeb Bush
+								</div>
+							</div>
+							<div class="col-lg-2 col-md-6 col-12">
+								<a href="https://en.wikipedia.org/wiki/John_Kerry">
+								<div class="single-exhibition">
+									<div class="img"><img src="img/2015/2015_5.jpg" alt=""></div>
+									<div class="content">
+										<h6 class="name">119908</h6>
+										<h6 class="name">Democratic Party</h6>
+										<h6 class="name">Male</h6>
+										<h6 class="name">USA</h6>
+									</div>
+								</div>
+								</a>
+								<div class="name" style="text-align:center; margin: 0 0 30px">
+									John Kerry
+								</div>
+							</div>
+							<div class="col-lg-2 col-md-6 col-12">
+								<a href="https://en.wikipedia.org/wiki/Tony_Abbott">
+								<div class="single-exhibition">
+									<div class="img"><img src="img/2015/2015_6.jpg" alt=""></div>
+									<div class="content">
+										<h6 class="name">111127</h6>
+										<h6 class="name">Liberal Party of Australia</h6>
+										<h6 class="name">Male</h6>
+										<h6 class="name">Australia</h6>
+									</div>
+								</div>
+								</a>
+								<div class="name" style="text-align:center; margin: 0 0 30px">
+									Tony Abbott
+								</div>
+							</div>
+							<div class="col-lg-2 col-md-6 col-12">
+								<a href="https://en.wikipedia.org/wiki/Ted_Cruz">
+								<div class="single-exhibition">
+									<div class="img"><img src="img/2015/2015_7.jpg" alt=""></div>
+									<div class="content">
+										<h6 class="name">94684</h6>
+										<h6 class="name">Republican Party</h6>
+										<h6 class="name">Male</h6>
+										<h6 class="name">USA</h6>
+									</div>
+								</div>
+								</a>
+								<div class="name" style="text-align:center; margin: 0 0 30px">
+									Ted Cruz
+								</div>
+							</div>
+							<div class="col-lg-2 col-md-6 col-12">
+								<a href="https://en.wikipedia.org/wiki/David_Cameron">
+								<div class="single-exhibition">
+									<div class="img"><img src="img/2015/2015_8.jpg" alt=""></div>
+									<div class="content">
+										<h6 class="name">94213</h6>
+										<h6 class="name">Conservative Party</h6>
+										<h6 class="name">Male</h6>
+										<h6 class="name">UK</h6>
+									</div>
+								</div>
+								</a>
+								<div class="name" style="text-align:center; margin: 0 0 30px">
+									David Cameron
+								</div>
+							</div>
+							<div class="col-lg-2 col-md-6 col-12">
+								<a href="https://en.wikipedia.org/wiki/Narendra_Modi">
+								<div class="single-exhibition">
+									<div class="img"><img src="img/2015/2015_9.jpg" alt=""></div>
+									<div class="content">
+										<h6 class="name">92479</h6>
+										<h6 class="name">Bharatiya Janata Party</h6>
+										<h6 class="name">Male</h6>
+										<h6 class="name">India</h6>
+									</div>
+								</div>
+								</a>
+								<div class="name" style="text-align:center; margin: 0 0 30px">
+									Narendra Modi
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="tab-pane fade" id="service" role="tabpanel" aria-labelledby="service-tab">
+					<div class="content-exhibitions">
+						<div class="row">
+							<div class="col-lg-3 col-md-6 col-12">
+								<a href="https://en.wikipedia.org/wiki/Donald_Trump">
+								<div class="single-exhibition">
+									<div class="img"><img src="img/2016/2016_0.jpg" alt=""></div>
+									<div class="content">
+										<h6 class="name">Occurrence: 1275176</h6>
+										<h6 class="name">Party: Republican Party</h6>
+										<h6 class="name">Gender: Male</h6>
+										<h6 class="name">Nationality: USA</h6>
+									</div>
+								</div>
+								</a>
+								<div class="name" style="text-align:center; margin: 0 0 30px">
+									Donald Trump
+								</div>
+							</div>
+							<div class="col-lg-3 col-md-6 col-12">
+								<a href="https://en.wikipedia.org/wiki/Hillary_Clinton">
+								<div class="single-exhibition">
+									<div class="img"><img src="img/2016/2016_1.jpg" alt=""></div>
+									<div class="content">
+										<h6 class="name">Occurrence: 377842</h6>
+										<h6 class="name">Party: Democratic Party</h6>
+										<h6 class="name">Gender: Female</h6>
+										<h6 class="name">Nationality: USA</h6>
+									</div>
+								</div>
+								</a>
+								<div class="name" style="text-align:center; margin: 0 0 30px">
+									Hillary Clinton
+								</div>
+							</div>
+							<div class="col-lg-3 col-md-6 col-12">
+								<a href="https://en.wikipedia.org/wiki/Barack_Obama">
+								<div class="single-exhibition">
+									<div class="img"><img src="img/2016/2016_2.jpg" alt=""></div>
+									<div class="content">
+										<h6 class="name">Occurrence: 375720</h6>
+										<h6 class="name">Party: Democratic Party</h6>
+										<h6 class="name">Gender: Male</h6>
+										<h6 class="name">Nationality: USA</h6>
+									</div>
+								</div>
+								</a>
+								<div class="name" style="text-align:center; margin: 0 0 30px">
+									Barack Obama
+								</div>
+							</div>
+							<div class="col-lg-3 col-md-6 col-12">
+								<a href="https://en.wikipedia.org/wiki/Bernie_Sanders">
+								<div class="single-exhibition">
+									<div class="img"><img src="img/2016/2016_3.jpg" alt=""></div>
+									<div class="content">
+										<h6 class="name">Occurrence: 118080</h6>
+										<h6 class="name">Gender: Male</h6>
+										<h6 class="name">Nationality: USA</h6>
+									</div>
+								</div>
+								</a>
+								<div class="name" style="text-align:center; margin: 0 0 30px">
+									Bernie Sanders
+								</div>
+							</div>
+							<div class="col-lg-2 col-md-6 col-12">
+								<a href="https://en.wikipedia.org/wiki/Ted_Cruz">
+								<div class="single-exhibition">
+									<div class="img"><img src="img/2016/2016_4.jpg" alt=""></div>
+									<div class="content">
+										<h6 class="name">87448</h6>
+										<h6 class="name">Republican Party</h6>
+										<h6 class="name">Male</h6>
+										<h6 class="name">USA</h6>
+									</div>
+								</div>
+								</a>
+								<div class="name" style="text-align:center; margin: 0 0 30px">
+									Ted Cruz
+								</div>
+							</div>
+							<div class="col-lg-2 col-md-6 col-12">
+								<a href="https://en.wikipedia.org/wiki/Pope_Francis">
+								<div class="single-exhibition">
+									<div class="img"><img src="img/2016/2016_5.jpg" alt=""></div>
+									<div class="content">
+										<h6 class="name">84509</h6>
+										<h6 class="name">Male</h6>
+										<h6 class="name">Vatican City</h6>
+									</div>
+								</div>
+								</a>
+								<div class="name" style="text-align:center; margin: 0 0 30px">
+									Pope Francis
+								</div>
+							</div>
+							<div class="col-lg-2 col-md-6 col-12">
+								<a href="https://en.wikipedia.org/wiki/John_Kerry">
+								<div class="single-exhibition">
+									<div class="img"><img src="img/2016/2016_6.jpg" alt=""></div>
+									<div class="content">
+										<h6 class="name">81075</h6>
+										<h6 class="name">Democratic Party</h6>
+										<h6 class="name">Male</h6>
+										<h6 class="name">USA</h6>
+									</div>
+								</div>
+								</a>
+								<div class="name" style="text-align:center; margin: 0 0 30px">
+									John Kerry
+								</div>
+							</div>
+							<div class="col-lg-2 col-md-6 col-12">
+								<a href="https://en.wikipedia.org/wiki/Malcolm_Turnbull">
+								<div class="single-exhibition">
+									<div class="img"><img src="img/2016/2016_7.jpg" alt=""></div>
+									<div class="content">
+										<h6 class="name">80054</h6>
+										<h6 class="name">Liberal Party of Australia</h6>
+										<h6 class="name">Male</h6>
+										<h6 class="name">Australia</h6>
+									</div>
+								</div>
+								</a>
+								<div class="name" style="text-align:center; margin: 0 0 30px">
+									Malcolm Turnbull
+								</div>
+							</div>
+							<div class="col-lg-2 col-md-6 col-12">
+								<a href="https://en.wikipedia.org/wiki/Mike_Pence">
+								<div class="single-exhibition">
+									<div class="img"><img src="img/2016/2016_8.jpg" alt=""></div>
+									<div class="content">
+										<h6 class="name">76660</h6>
+										<h6 class="name">Republican Party</h6>
+										<h6 class="name">Male</h6>
+										<h6 class="name">USA</h6>
+									</div>
+								</div>
+								</a>
+								<div class="name" style="text-align:center; margin: 0 0 30px">
+									Mike Pence
+								</div>
+							</div>
+							<div class="col-lg-2 col-md-6 col-12">
+								<a href="https://en.wikipedia.org/wiki/Paul_Ryan">
+								<div class="single-exhibition">
+									<div class="img"><img src="img/2016/2016_9.jpg" alt=""></div>
+									<div class="content">
+										<h6 class="name">75946</h6>
+										<h6 class="name">Republican Party</h6>
+										<h6 class="name">Male</h6>
+										<h6 class="name">USA</h6>
+									</div>
+								</div>
+								</a>
+								<div class="name" style="text-align:center; margin: 0 0 30px">
+									Paul Ryan
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="tab-pane fade" id="interviews" role="tabpanel" aria-labelledby="interviews-tab">
+					<div class="content-exhibitions">
+						<div class="row">
+							<div class="col-lg-3 col-md-6 col-12">
+								<a href="https://en.wikipedia.org/wiki/Donald_Trump">
+								<div class="single-exhibition">
+									<div class="img"><img src="img/2017/2017_0.jpg" alt=""></div>
+									<div class="content">
+										<h6 class="name">Occurrence: 3381066</h6>
+										<h6 class="name">Party: Republican Party</h6>
+										<h6 class="name">Gender: Male</h6>
+										<h6 class="name">Nationality: USA</h6>
+									</div>
+								</div>
+								</a>
+								<div class="name" style="text-align:center; margin: 0 0 30px">
+									Donald Trump
+								</div>
+							</div>
+							<div class="col-lg-3 col-md-6 col-12">
+								<a href="https://en.wikipedia.org/wiki/Theresa_May">
+								<div class="single-exhibition">
+									<div class="img"><img src="img/2017/2017_1.jpg" alt=""></div>
+									<div class="content">
+										<h6 class="name">Occurrence: 335676</h6>
+										<h6 class="name">Party: Conservative Party</h6>
+										<h6 class="name">Gender: Female</h6>
+										<h6 class="name">Nationality: UK</h6>
+									</div>
+								</div>
+								</a>
+								<div class="name" style="text-align:center; margin: 0 0 30px">
+									Theresa May
+								</div>
+							</div>
+							<div class="col-lg-3 col-md-6 col-12">
+								<a href="https://en.wikipedia.org/wiki/Rex_Tillerson">
+								<div class="single-exhibition">
+									<div class="img"><img src="img/2017/2017_2.jpg" alt=""></div>
+									<div class="content">
+										<h6 class="name">Occurrence: 281111</h6>
+										<h6 class="name">Party: Republican Party</h6>
+										<h6 class="name">Gender: Male</h6>
+										<h6 class="name">Nationality: USA</h6>
+									</div>
+								</div>
+								</a>
+								<div class="name" style="text-align:center; margin: 0 0 30px">
+									Rex Tillerson
+								</div>
+							</div>
+							<div class="col-lg-3 col-md-6 col-12">
+								<a href="https://en.wikipedia.org/wiki/Melania_Trump">
+								<div class="single-exhibition">
+									<div class="img"><img src="img/2017/2017_3.jpg" alt=""></div>
+									<div class="content">
+										<h6 class="name">Occurrence: 221401</h6>
+										<h6 class="name">Party: Republican Party</h6>
+										<h6 class="name">Gender: Female</h6>
+										<h6 class="name">Nationality: Slovenia</h6>
+									</div>
+								</div>
+								</a>
+								<div class="name" style="text-align:center; margin: 0 0 30px">
+									Melania Trump
+								</div>
+							</div>
+							<div class="col-lg-2 col-md-6 col-12">
+								<a href="https://en.wikipedia.org/wiki/Paul_Ryan">
+								<div class="single-exhibition">
+									<div class="img"><img src="img/2017/2017_4.jpg" alt=""></div>
+									<div class="content">
+										<h6 class="name">207694</h6>
+										<h6 class="name">Republican Party</h6>
+										<h6 class="name">Male</h6>
+										<h6 class="name">USA</h6>
+									</div>
+								</div>
+								</a>
+								<div class="name" style="text-align:center; margin: 0 0 30px">
+									Paul Ryan
+								</div>
+							</div>
+							<div class="col-lg-2 col-md-6 col-12">
+								<a href="https://en.wikipedia.org/wiki/Sean_Spicer">
+								<div class="single-exhibition">
+									<div class="img"><img src="img/2017/2017_5.jpg" alt=""></div>
+									<div class="content">
+										<h6 class="name">201727</h6>
+										<h6 class="name">Republican Party</h6>
+										<h6 class="name">Male</h6>
+										<h6 class="name">USA</h6>
+									</div>
+								</div>
+								</a>
+								<div class="name" style="text-align:center; margin: 0 0 30px">
+									Sean Spicer
+								</div>
+							</div>
+							<div class="col-lg-2 col-md-6 col-12">
+								<a href="https://en.wikipedia.org/wiki/Jeff_Sessions">
+								<div class="single-exhibition">
+									<div class="img"><img src="img/2017/2017_6.jpg" alt=""></div>
+									<div class="content">
+										<h6 class="name">192094</h6>
+										<h6 class="name">Republican Party</h6>
+										<h6 class="name">Male</h6>
+										<h6 class="name">USA</h6>
+									</div>
+								</div>
+								</a>
+								<div class="name" style="text-align:center; margin: 0 0 30px">
+									Jeff Sessions
+								</div>
+							</div>
+							<div class="col-lg-2 col-md-6 col-12">
+								<a href="https://en.wikipedia.org/wiki/Sarah_Sanders">
+								<div class="single-exhibition">
+									<div class="img"><img src="img/2017/2017_7.jpg" alt=""></div>
+									<div class="content">
+										<h6 class="name">189883</h6>
+										<h6 class="name">Republican Party</h6>
+										<h6 class="name">Female</h6>
+										<h6 class="name">USA</h6>
+									</div>
+								</div>
+								</a>
+								<div class="name" style="text-align:center; margin: 0 0 30px">
+									Sarah Sanders
+								</div>
+							</div>
+							<div class="col-lg-2 col-md-6 col-12">
+								<a href="https://en.wikipedia.org/wiki/Mike Pence">
+								<div class="single-exhibition">
+									<div class="img"><img src="img/2017/2017_8.jpg" alt=""></div>
+									<div class="content">
+										<h6 class="name">166330</h6>
+										<h6 class="name">Republican Party</h6>
+										<h6 class="name">Male</h6>
+										<h6 class="name">USA</h6>
+									</div>
+								</div>
+								</a>
+								<div class="name" style="text-align:center; margin: 0 0 30px">
+									Mike Pence
+								</div>
+							</div>
+							<div class="col-lg-2 col-md-6 col-12">
+								<a href="https://en.wikipedia.org/wiki/Mitch_McConnell">
+								<div class="single-exhibition">
+									<div class="img"><img src="img/2017/2017_9.jpg" alt=""></div>
+									<div class="content">
+										<h6 class="name">162313</h6>
+										<h6 class="name">Republican Party</h6>
+										<h6 class="name">Male</h6>
+										<h6 class="name">USA</h6>
+									</div>
+								</div>
+								</a>
+								<div class="name" style="text-align:center; margin: 0 0 30px">
+									Mitch McConnell
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="tab-pane fade" id="awards" role="tabpanel" aria-labelledby="awards-tab">
+					<div class="content-exhibitions">
+						<div class="row">
+							<div class="col-lg-3 col-md-6 col-12">
+								<a href="https://en.wikipedia.org/wiki/Donald_Trump">
+								<div class="single-exhibition">
+									<div class="img"><img src="img/2018/2018_0.jpg" alt=""></div>
+									<div class="content">
+										<h6 class="name">Occurrence: 3158179</h6>
+										<h6 class="name">Party: Republican Party</h6>
+										<h6 class="name">Gender: Male</h6>
+										<h6 class="name">Nationality: USA</h6>
+									</div>
+								</div>
+								</a>
+								<div class="name" style="text-align:center; margin: 0 0 30px">
+									Donald Trump
+								</div>
+							</div>
+							<div class="col-lg-3 col-md-6 col-12">
+								<a href="https://en.wikipedia.org/wiki/Theresa_May">
+								<div class="single-exhibition">
+									<div class="img"><img src="img/2018/2018_1.jpg" alt=""></div>
+									<div class="content">
+										<h6 class="name">Occurrence: 334243</h6>
+										<h6 class="name">Party: Conservative Party</h6>
+										<h6 class="name">Gender: Female</h6>
+										<h6 class="name">Nationality: UK</h6>
+									</div>
+								</div>
+								</a>
+								<div class="name" style="text-align:center; margin: 0 0 30px">
+									Theresa May
+								</div>
+							</div>
+							<div class="col-lg-3 col-md-6 col-12">
+								<a href="https://en.wikipedia.org/wiki/Sarah_Sanders">
+								<div class="single-exhibition">
+									<div class="img"><img src="img/2018/2018_2.jpg" alt=""></div>
+									<div class="content">
+										<h6 class="name">Occurrence: 207240</h6>
+										<h6 class="name">Party: Republican Party</h6>
+										<h6 class="name">Gender: Female</h6>
+										<h6 class="name">Nationality: USA</h6>
+									</div>
+								</div>
+								</a>
+								<div class="name" style="text-align:center; margin: 0 0 30px">
+									Sarah Sanders
+								</div>
+							</div>
+							<div class="col-lg-3 col-md-6 col-12">
+								<a href="https://en.wikipedia.org/wiki/Mike_Pompeo">
+								<div class="single-exhibition">
+									<div class="img"><img src="img/2018/2018_3.jpg" alt=""></div>
+									<div class="content">
+										<h6 class="name">Occurrence: 196191</h6>
+										<h6 class="name">Party: Republican Party</h6>
+										<h6 class="name">Gender: Male</h6>
+										<h6 class="name">Nationality: USA</h6>
+									</div>
+								</div>
+								</a>
+								<div class="name" style="text-align:center; margin: 0 0 30px">
+									Mike Pompeo
+								</div>
+							</div>
+							<div class="col-lg-2 col-md-6 col-12">
+								<a href="https://en.wikipedia.org/wiki/Melania_Trump">
+								<div class="single-exhibition">
+									<div class="img"><img src="img/2018/2018_4.jpg" alt=""></div>
+									<div class="content">
+										<h6 class="name">170371</h6>
+										<h6 class="name">Republican Party</h6>
+										<h6 class="name">Female</h6>
+										<h6 class="name">Slovenia</h6>
+									</div>
+								</div>
+								</a>
+								<div class="name" style="text-align:center; margin: 0 0 30px">
+									Melania Trump
+								</div>
+							</div>
+							<div class="col-lg-2 col-md-6 col-12">
+								<a href="https://en.wikipedia.org/wiki/José_Mourinho">
+								<div class="single-exhibition">
+									<div class="img"><img src="img/2018/2018_5.jpg" alt=""></div>
+									<div class="content">
+										<h6 class="name">170150</h6>
+										<h6 class="name">Male</h6>
+										<h6 class="name">Portugal</h6>
+									</div>
+								</div>
+								</a>
+								<div class="name" style="text-align:center; margin: 0 0 30px">
+									Jose Mourinho
+								</div>
+							</div>
+							<div class="col-lg-2 col-md-6 col-12">
+								<a href="https://en.wikipedia.org/wiki/Pope_Francis">
+								<div class="single-exhibition">
+									<div class="img"><img src="img/2018/2018_6.jpg" alt=""></div>
+									<div class="content">
+										<h6 class="name">152795</h6>
+										<h6 class="name">Male</h6>
+										<h6 class="name">Vatican City</h6>
+									</div>
+								</div>
+								</a>
+								<div class="name" style="text-align:center; margin: 0 0 30px">
+									Pope Francis
+								</div>	
+							</div>
+							<div class="col-lg-2 col-md-6 col-12">
+								<a href="https://en.wikipedia.org/wiki/Vladimir_Putin">
+								<div class="single-exhibition">
+									<div class="img"><img src="img/2018/2018_7.jpg" alt=""></div>
+									<div class="content">
+										<h6 class="name">135936</h6>
+										<h6 class="name">Male</h6>
+										<h6 class="name">Russian</h6>
+									</div>
+								</div>
+								</a>
+								<div class="name" style="text-align:center; margin: 0 0 30px">
+									Vladimir Putin
+								</div>
+							</div>
+							<div class="col-lg-2 col-md-6 col-12">
+								<a href="https://en.wikipedia.org/wiki/Emmanuel_Macron">
+								<div class="single-exhibition">
+									<div class="img"><img src="img/2018/2018_8.jpg" alt=""></div>
+									<div class="content">
+										<h6 class="name">134775</h6>
+										<h6 class="name">La République En Marche</h6>
+										<h6 class="name">Male</h6>
+										<h6 class="name">France</h6>
+									</div>
+								</div>
+								</a>
+								<div class="name" style="text-align:center; margin: 0 0 30px">
+									Emmanuel Macron
+								</div>
+							</div>
+							<div class="col-lg-2 col-md-6 col-12">
+								<a href="https://en.wikipedia.org/wiki/Jeremy_Corbyn">
+								<div class="single-exhibition">
+									<div class="img"><img src="img/2018/2018_9.jpg" alt=""></div>
+									<div class="content">
+										<h6 class="name">131878</h6>
+										<h6 class="name">Labour Party</h6>
+										<h6 class="name">Male</h6>
+										<h6 class="name">UK</h6>
+									</div>
+								</div>
+								</a>
+								<div class="name" style="text-align:center; margin: 0 0 30px">
+									Jeremy Corbyn
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				
+				<div class="tab-pane fade" id="exhibitions" role="tabpanel" aria-labelledby="exhibitions-tab">
+					<div class="content-exhibitions">
+						<div class="row">
+							<div class="col-lg-3 col-md-6 col-12">
+								<a href="https://en.wikipedia.org/wiki/Donald_Trump">
+								<div class="single-exhibition">
+									<div class="img"><img src="img/2019/2019_0.jpg" alt=""></div>
+									<div class="content">
+										<h6 class="name">Occurrence: 1573814</h6>
+										<h6 class="name">Party: Republican Party</h6>
+										<h6 class="name">Gender: Male</h6>
+										<h6 class="name">Nationality: USA</h6>
+									</div>
+								</div>
+								</a>
+								<div class="name" style="text-align:center; margin: 0 0 30px">
+									Donald Trump
+								</div>
+							</div>
+							<div class="col-lg-3 col-md-6 col-12">
+								<a href="https://en.wikipedia.org/wiki/Boris_Johnson">
+								<div class="single-exhibition">
+									<div class="img"><img src="img/2019/2019_1.jpg" alt=""></div>
+									<div class="content">
+										<h6 class="name">Occurrence: 291742</h6>
+										<h6 class="name">Party: Conservative Party</h6>
+										<h6 class="name">Gender: Male</h6>
+										<h6 class="name">Nationality: UK</h6>
+									</div>
+								</div>
+								</a>
+								<div class="name" style="text-align:center; margin: 0 0 30px">
+									Boris Johnson
+								</div>
+							</div>
+							<div class="col-lg-3 col-md-6 col-12">
+								<a href="https://en.wikipedia.org/wiki/Nancy_Pelosi">
+								<div class="single-exhibition">
+									<div class="img"><img src="img/2019/2019_2.jpg" alt=""></div>
+									<div class="content">
+										<h6 class="name">Occurrence: 204648</h6>
+										<h6 class="name">Party: Democratic Party</h6>
+										<h6 class="name">Gender: Female</h6>
+										<h6 class="name">Nationality: USA</h6>
+									</div>
+								</div>
+								</a>
+								<div class="name" style="text-align:center; margin: 0 0 30px">
+									Nancy Pelosi
+								</div>
+							</div>
+							<div class="col-lg-3 col-md-6 col-12">
+								<a href="https://en.wikipedia.org/wiki/Joe_Biden">
+								<div class="single-exhibition">
+									<div class="img"><img src="img/2019/2019_3.jpg" alt=""></div>
+									<div class="content">
+										<h6 class="name">Occurrence: 190687</h6>
+										<h6 class="name">Party: Democratic Party</h6>
+										<h6 class="name">Gender: Male</h6>
+										<h6 class="name">Nationality: USA</h6>
+									</div>
+								</div>
+								</a>
+								<div class="name" style="text-align:center; margin: 0 0 30px">
+									Joe Biden
+								</div>
+							</div>
+							<div class="col-lg-2 col-md-6 col-12">
+								<a href="https://en.wikipedia.org/wiki/Jeremy_Corbyn">
+								<div class="single-exhibition">
+									<div class="img"><img src="img/2019/2019_4.jpg" alt=""></div>
+									<div class="content">
+										<h6 class="name">186809</h6>
+										<h6 class="name">Labour Party</h6>
+										<h6 class="name">Male</h6>
+										<h6 class="name">UK</h6>
+									</div>
+								</div>
+								</a>
+								<div class="name" style="text-align:center; margin: 0 0 30px">
+									Jeremy Corbyn
+								</div>
+							</div>
+							<div class="col-lg-2 col-md-6 col-12">
+								<a href="https://en.wikipedia.org/wiki/Narendra_Modi">
+								<div class="single-exhibition">
+									<div class="img"><img src="img/2019/2019_5.jpg" alt=""></div>
+									<div class="content">
+										<h6 class="name">153489</h6>
+										<h6 class="name">Bharatiya Janata Party</h6>
+										<h6 class="name">Male</h6>
+										<h6 class="name">India</h6>
+									</div>
+								</div>
+								</a>
+								<div class="name" style="text-align:center; margin: 0 0 30px">
+									Narendra Modi
+								</div>
+							</div>
+							<div class="col-lg-2 col-md-6 col-12">
+								<a href="https://en.wikipedia.org/wiki/Mike_Pompeo">
+								<div class="single-exhibition">
+									<div class="img"><img src="img/2019/2019_6.jpg" alt=""></div>
+									<div class="content">
+										<h6 class="name">146920</h6>
+										<h6 class="name">Republican Party</h6>
+										<h6 class="name">Male</h6>
+										<h6 class="name">USA</h6>
+									</div>
+								</div>
+								</a>
+								<div class="name" style="text-align:center; margin: 0 0 30px">
+									Mike Pompeo
+								</div>
+							</div>
+							<div class="col-lg-2 col-md-6 col-12">
+								<a href="https://en.wikipedia.org/wiki/Theresa_May">
+								<div class="single-exhibition">
+									<div class="img"><img src="img/2019/2019_7.jpg" alt=""></div>
+									<div class="content">
+										<h6 class="name">131230</h6>
+										<h6 class="name">Conservative Party</h6>
+										<h6 class="name">Female</h6>
+										<h6 class="name">UK</h6>
+									</div>
+								</div>
+								</a>
+								<div class="name" style="text-align:center; margin: 0 0 30px">
+									Theresa May
+								</div>
+							</div>
+							<div class="col-lg-2 col-md-6 col-12">
+								<a href="https://en.wikipedia.org/wiki/Elizabeth_Warren">
+								<div class="single-exhibition">
+									<div class="img"><img src="img/2019/2019_8.jpg" alt=""></div>
+									<div class="content">
+										<h6 class="name">108792</h6>
+										<h6 class="name">Democratic Party</h6>
+										<h6 class="name">Female</h6>
+										<h6 class="name">USA</h6>
+									</div>
+								</div>
+								</a>
+								<div class="name" style="text-align:center; margin: 0 0 30px">
+									Elizabeth Warren
+								</div>
+							</div>
+							<div class="col-lg-2 col-md-6 col-12">
+								<a href="https://en.wikipedia.org/wiki/Jürgen_Klopp">
+								<div class="single-exhibition">
+									<div class="img"><img src="img/2019/2019_9.jpg" alt=""></div>
+									<div class="content">
+										<h6 class="name">103989</h6>
+										<h6 class="name">Male</h6>
+										<h6 class="name">Germany</h6>
+									</div>
+								</div>
+								</a>
+								<div class="name" style="text-align:center; margin: 0 0 30px">
+									Jurgen Klopp
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="row" style="margin-top: 40px;">
+			<div class="col-lg-6 col-12", style="margin-top: 5px;">
+				<div class="card">
+					<p class="text">
+						“According to the Interparliamentary Union, 77 per cent of the world’s parliamentarians are male, and only two out of 193 parliaments
+						(in Rwanda and Bolivia) comprise at least 50 per cent of women.”
+						<a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/B197672D2B8A6BCB0A65920396151699/S0007123417000795a.pdf/div-class-title-political-leadership-in-the-media-gender-bias-in-leader-stereotypes-during-campaign-and-routine-times-div.pdf">[5]</a>
+					</p>
+				</div>
+			</div>
+			<div class="col-lg-6 col-12">
+				<p class="text">
+					The majority of the data in this dataset (QuoteBank) comes from the news media, where politics is constantly a hot topic.
+					Women, on the other hand, do not hold a dominant position in politics in general.
+					As a result, it's plausible to conclude that the majority of the Top 10 speakers are men,
+					and the number of female quotations is significantly lower than the number of male quotations.
+				</p>
+			</div>
+		</div>
+		
+		<p class="text", style="margin: 10px, 20px;">
+			Is the bias still present if we control for possible causation?
+			Let's take a look at Hillary Clinton and Donald Trump.
+			In 2015, Donald Trump's number of quotations exceeded Hillary Clinton's by nearly <b style="color: #FFC576;">two to one</b>.
+			However, because they were both candidates in the 2016 US presidential election,
+			the difference in their social media exposure and influence (or even the actual vote outcomes) <b style="color: #FFC576;">cannot</b> have such a significant impact on the quotation amount.
+			The only probable source of such bias could be <b style="color: #FFC576;">news organizations</b> and perhaps <b style="color: #FFC576;">society</b>.
+		</p>
+	</div>
+</section>
+
+
+
+<section class="testimonial-area" id="ch2">
+	<div class="container">
+		<div class="section-title">
+			<h2 class="title" style="text-align: center;">
+				2. Insights on gender bias in media sources, nationalities, and partisanships
+			</h2>
+		</div>
+		<div align=center>
+			<img src="img/quote.png" alt="" width="20px">
+			<p class="text" style="margin: 50px 50px"><font size="5">
+				There needs to be a fundamental shift in the way societies view women in government, one that does not see them as mere seat-fillers or stats on a chart,
+				they must be viewed as a vital contributing factor to the betterment of the world.
+			</p>
+			<img src="img/line.png" alt="" width="40px">
+			<p class="text" style="margin-bottom: 60px;text-align: center;">
+				Aysha Taryam
+			</p>
+		</div>
+		
+		<div class="row" style="margin-bottom: 15px;">
+			<div class="col-lg-6 col-12">
+				<p class="text">
+					When it comes to providing background or analysis for reports, journalists have a lot of leeway, and the people who supply it are <b style="color: #FFC576;">overwhelmingly male</b>.
+					This is possibly the most direct driver of gender bias in quotations.
+					To verify our conjecture, we choose seven of the most significant global news agencies and study their gender preferences and evolving trends in quotes to perform a more detailed examination of gender bias in news quotations.
+				</p>
+				<p class="text">
+					In addition, we look into whether the speaker's nationality and political party affiliation introduce gender bias in the quotation.
+					In other words, whether a woman is in a different nation or party has an impact on her ability to speak out.
+				</p>
+			</div>
+			<div class="col-lg-6 col-md-6 col-12">
+				<div><img src="img/among_men.png" alt=""></div>
+			</div>
+		</div>
+		
+
+		<div class="info-tab">
+			<ul class="nav nav-tabs" id="myTab" role="tablist">
+				<li class="nav-item">
+					<a class="nav-link active" id="media-tab" data-toggle="tab" href="#media" role="tab" aria-controls="media" aria-selected="true">Media Sources</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" id="nation-tab" data-toggle="tab" href="#nation" role="tab" aria-controls="nation" aria-selected="false">Speaker's Nationality</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" id="party-tab" data-toggle="tab" href="#party" role="tab" aria-controls="party" aria-selected="false">Speaker's Political party</a>
+				</li>
+			</ul>
+			<div class="tab-content" id="myTabContent">
+				<div class="tab-pane fade show active" id="media" role="tabpanel" aria-labelledby="media-tab">
+					<embed type="text/html" src="https://domain-dash.herokuapp.com/" height="1050" width="100%">
+					<!--<object srdatac="https://domain-dash.herokuapp.com/" height="1050" width="100%"></object>-->
+					<div style="margin: 30px 40px;">
+						<h3>
+							Females are in the disadvantaged situation generally in news outlets
+						</h3>
+					</div>
+					<div class="row" style="margin: 10px 20px;">
+						<div class="col-lg-8 col-12" style="margin-top: 5px;">
+							<div class="card">
+								<p class="text">
+									“But the truth — we are reminded every time we try to quote female experts — is that the gender balance of our articles is only the final step in a process of gender discrimination that begins long before we pick up a phone to begin reporting.
+									We’ve learned to see our role as journalists as important, but also as just the most visible component of a vast social machinery that equates expertise with maleness.” 
+									<br/><br/>
+									– <a href="https://www.nytimes.com/by/amanda-taub" style="font-size: large;">Amanda Taub</a> and <a href="https://www.nytimes.com/by/max-fisher" style="font-size: large;">Max Fisher</a>
+								</p>
+							</div>
+						</div>
+						<div class="col-lg-4 col-12">
+							<p class="text">
+								Many media outlets have recognized the problem of gender inequality in reporting in recent years and have begun to address it
+								(e.g. BBC's 50:50 program<a href="https://www.bbc.co.uk/5050"><sup>[6]</sup></a>), and we have made some progress.
+								According to research, while women do not feature in the news as frequently as men, the percentage of women in the news <b style="color: #FFC576;">increased</b> from 2015 to 2020.
+								However, it is still insufficient.
+							</p>
+							<br/>
+						</div>
+						<p class="text" style="margin-left: 20px;margin-right: 20px; margin-bottom: 15px;">
+							Female speakers are always at a <b style="color: #FFC576;">disadvantage</b> place in a macro level (regardless of the news service).
+							Hence, the percentage differences among news outlets are not substantial (<b style="color: #FFC576;">highly consistent trends</b>). This tendency leads us to believe that media preferences may have a <b style="color: #FFC576;">minor impact</b> on the formation of gender bias. They are merely a genuine depiction of society's societal disregard of women, as New York Times journalists Amanda Taub and Max Fisher put it.
+						</p>
+					</div>
+					
+					
+				</div>
+				<div class="tab-pane fade" id="nation" role="tabpanel" aria-labelledby="nation-tab">
+					<embed type="text/html" src="https://nationality-dash.herokuapp.com/" height="1050" width="100%">
+					<!--<object data="https://nationality-dash.herokuapp.com/" height="1050" width="100%"></object>-->
+					<div style="margin: 30px 40px;">
+						<h3>The bias is also obvious (and terrible) among nationalities</h3>
+					</div>
+					<p class="text" style="margin: 0 40px;">
+						We group speakers based on their nationality in this part and select the Top 7 countries with the largest quotation quantity.
+						In addition, to investigate the impact of a country's development level on this prejudice, we choose <b style="color: #FFC576;">India</b> as a representative for developing countries.
+					</p>
+					<br/>
+					<p class="text" style="margin: 0 40px;">
+						What impact do female leaders have on the voices of women? Is it going to be "louder"? <b style="color: #FFC576;">Britain</b> can give supporting evidence to answer our inquiry between mid-2016 and early-2019.
+						From mid-2016 to early 2019, when Theresa May became Prime Minister of the United Kingdom, the percentage of female quotations in England had climbed to <b style="color: #FFC576;">23.76</b> percent.
+						Thus, compared to male leaders, female leaders have a larger influence on <b style="color: #FFC576;">reducing</b> existing gender bias.
+					</p>
+					<br/>
+					<div class="row" style="margin-top: 20px;">
+						<div class="col-lg-7 col-12">
+							<table class="table table-condensed">
+								<thead>
+								  <tr>
+									<th scope="col">Nation</th>
+									<th scope="col">Gender Inequality Index</th>
+									<th scope="col">Rank</th>
+								  </tr>
+								</thead>
+								<tbody>
+									<tr>
+										<th scope="row">France</th>
+										<td>0.049</td>
+										<td>8</td>
+									</tr>
+									<tr>
+										<th scope="row">Canada</th>
+										<td>0.080</td>
+										<td>19</td>
+									</tr>
+									<tr>
+										<th scope="row">Germany</th>
+										<td>0.084</td>
+										<td>20</td>
+									</tr>
+									<tr>
+										<th scope="row">Australia</th>
+										<td>0.097</td>
+										<td>25</td>
+									</tr>
+									<tr>
+										<th scope="row">UK</th>
+										<td>0.118</td>
+										<td>31</td>
+									</tr>
+								  	<tr>
+										<th scope="row">USA</th>
+										<td>0.204</td>
+										<td>46</td>
+								  	</tr>
+									<tr>
+										<th scope="row">India</th>
+										<td>0.488</td>
+										<td>123</td>
+								  	</tr>
+								</tbody>
+							</table>
+						</div>
+						<div class="col-lg-5 col-12">
+							<p class="text" style="margin-left: 30px; margin-right: 30px; margin-bottom: 10px;">
+								What about the stage of development? The table of Gender Inequality Index<sup>[7]</sup> in 2020 is shown on the left.
+								Despite that India's Inequality Index (<b style="color: #FFC576;">0.488</b>, rank 123)
+								is much higher than that of other developed countries in the data
+								(e.g. 0.204, rank 46 in the United States and 0.049, rank 8 in France),
+								there has been no significant progress or improvement in the percentage of women's voices, according to the UN Development Programme's Gender Inequality Index.
+								As a result, we can deduce that a country's degree of development has <b style="color: #FFC576;">no discernible impact</b> on lowering gender bias.
+						   </p>
+						</div>
+					</div>
+				</div>
+				<div class="tab-pane fade" id="party" role="tabpanel" aria-labelledby="party-tab">
+					<embed type="text/html" src="https://party-dash.herokuapp.com/" height="1050" width="100%">
+					<!--<object data="https://party-dash.herokuapp.com/" height="1050" width="100%"></object>-->
+					<div style="margin: 30px 40px;">
+						<h3>Partisanship: Something different?</h3>
+					</div>
+					<p class="text" style="margin: 0 40px;">
+						Compared to news outlets and nationalities, the gender bias differs more among various parties in this scenario. The Republican Party, for example, has a clear male bias (<b style="color: #FFC576;">88.35</b> percent),
+						whereas the Democratic Party has <b style="color: #FFC576;">34.03</b> percent female speakers. This observation could be explained by the Democratic Party's goals.
+					</p>
+					<div class="row" style="margin: 30px 20px;">
+						<div class="col-lg-6 col-12" style="margin-bottom: 15px;">
+							<div class="card">
+								<p class="text">
+									“We are committed to ensuring full equality for women.
+									Democrats will fight to end gender discrimination in the areas of education, employment, health care, or any other sphere.
+									We will combat biases across economic, political, and social life that hold women back and limit their opportunities.”
+									<a href="https://democrats.org/who-we-are/who-we-serve/women/"><sup>[8]</sup></a>
+								</p>
+							</div>
+						</div>
+						<div class="col-lg-6 col-12">
+							<p class="text">
+								We know that the Democratic Party <b style="color: #FFC576;">favors female candidates</b> and <b style="color: #FFC576;">defends the legitimate rights</b> of minorities
+								(females, ethnic minorities, etc.), implying that it encourages women to speak up. It also highlights the potential for a feminist divide between the Democratic and Republican parties.
+								This is also supported by our statistical findings: among the Democratic Party's most-quoted female speakers are <b style="color: #FFC576;">Nancy Pelosi</b>, <b style="color: #FFC576;">Elizabeth Warren</b>,
+								<b style="color: #FFC576;">Alexandria Ocasio-Cortez</b>, and <b style="color: #FFC576;">Kamala Harris</b>.
+							</p>
+						</div>
+					</div>
+								
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<section class="testimonial-area" id="ch3">
+	<div class="container">
+		<div class="section-title">
+			<h2 class="title" style="text-align: center;">
+				3. Do topics reveal potential gender bias? How?
+			</h2>
+		</div>
+
+		<div align=center>
+			<img src="img/quote.png" alt="" width="20px">
+			<p class="text" style="margin: 50px 50px"><font size="5">
+				A gender-equal society would be one where the word ‘gender’ does not exist: where everyone can be themselves.
+			</p>
+			<img src="img/line.png" alt="" width="40px">
+			<p class="text" style="margin-bottom: 60px;text-align: center;">
+				Gloria Steinem
+			</p>
+		</div>
+
+		<div class="row">
+			<div class="col-lg-7 col-md-6">
+				<p class="text">
+					Obviously, the terms used by males and females may have varying levels of exposure under different news topics.
+					It makes sense to at the gender ratio of quoted speakers under various topics in order to conduct a more detailed analysis.
+					To extract related quotations from the data, we manually select <b style="color: #FFC576;">9</b> common news topics and define keywords for each of these topics.
+					In addition, we look at the sentiment of statements in three ways
+					(<b style="color: #FFC576;">Positive</b>, <b style="color: #FFC576;">Negative</b>, and <b style="color: #FFC576;">Neutral</b>)
+					to see how they differ between men and women on various issues.
+				</p>
+			</div>
+			<div class="col-lg-5 col-md-6">
+				<div><img src="img/women.jpeg" alt=""></div>
+			</div>
+		</div>
+		<div style="padding:30px 0px;">
+			<h3>Women seem to be sensual and benevolent, men seem to be aspiring and sports-focused</h3>
+		</div>
+		<iframe scrolling="no" style="border:none;" seamless="seamless" src="./plotly/heatmap.html" height="400" width="100%">
+		</iframe>
+		<p class="text">
+			We begin by plotting the percentage of women speakers by month for each topic.
+			As shown on the vertical axis of the chart, these themes encompass a wide range of domains commonly appeared in the news.
+			As can be seen, news media treat male and female voices differently depending on the subject.
+		</p>
+		<p class="text">
+			For women, quotes related to <b style="color: #FFC576;">education</b>, <b style="color: #FFC576;">health</b>,
+			<b style="color: #FFC576;">lifestyle</b> and <b style="color: #FFC576;">entertainment</b> are more prevalent than the average level.
+			Whereas in <b style="color: #FFC576;">politics</b>, <b style="color: #FFC576;">people</b>,
+			<b style="color: #FFC576;">business</b> and <b style="color: #FFC576;">sports</b>, women percentages are below the global average as shown in the three pie graphs.
+			To our surprise, under the topic of <b style="color: #FFC576;">gender</b>, the percentage of women speaking out is at its highest level,
+			but their voices are just almost equal to men's (<b style="color: #FFC576;">still less</b>).
+		</p>
+		<p class="text">
+			Looking at the topics with a mostly masculine quote count, it is easy to see that these fields tend to be dominated by men.
+			Take sports for example, according to the Forbes 2021 ranking of the top 50 highest-paid athletes, the highest-ranked woman: Naomi Osaka, is only 12th.
+			And its annual revenue of $60 million is only 1/3 of the premier sports star Conor McGregor<a href="https://www.forbes.com/athletes/"><sup>[9]</sup></a>.
+		</p>
+		<p class="text">
+			To summarize briefly, female quotation sources are more often in caregiving roles whereas male quotations are closely related to sporting and business fields.
+			This reflects the position of women as <b style="color: #FFC576;">caregivers</b> but men as <b style="color: #FFC576;">sports mania</b> and <b style="color: #FFC576;">breadwinners</b>.
+		</p>
+
+		<div style="padding:30px 0px;">
+			<h3>Sentiment Analysis for specific Topics</h3>
+		</div>
+		<iframe scrolling="no" style="border:none;" seamless="seamless" src="https://stackbar-dash-app.herokuapp.com" height="500" width="100%">
+		</iframe>
+		<p class="text">
+			Let’s first look at <b style="color: #FFC576;">gender</b>.
+			You can notice that for certain painful topics, such as "<b style="color: #FFC576;">abortion</b>" and "<b style="color: #FFC576;">sexual harassment</b>",
+			men and women tend to express a negative feeling. This may mean that these social problems have not been significantly improved or resolved in society.
+		</p>
+		<p class="text">
+			How about <b style="color: #FFC576;">entertainment</b>?
+			Interestingly, women tend to be positive about "<b style="color: #FFC576;">art</b>", while men are not (<b style="color: #FFC576;">40.53%</b> are negative).
+			But when it comes to "<b style="color: #FFC576;">music</b>", only <b style="color: #FFC576;">9.46%</b> of men are negative.
+			It seems that males prefer "music" more than "art".
+		</p>
+		<p class="text">
+			The most popular keyword in sports for males is “<b style="color: #FFC576;">football</b>”, extremely larger than others, especially for “swimming”, which is consistent with our normal perceptions.
+			When we talk about football games, the first image should be that of male athletes running on the court.
+			For women, they prefer “<b style="color: #FFC576;">tennis</b>” more (even greater than such a common and popular topic, “football”).
+			Put another way, football is considered more "masculine" than tennis.
+		</p>
+		<p class="text">
+			In our conclusion, for certain specific topics, such as "art" and "tennis", we can indeed see a noticeable difference.
+			However, not what one would expect, for the majority of common subjects men and women show a <b style="color: #FFC576;">similar attitude distribution</b>.
+		</p>
+	</div>
+</section>
+
+<section class="testimonial-area" id="ch4">
+	<div class="container">
+		<div class="section-title">
+			<h2 class="title" style="text-align: center;">
+				4. Detecting the linguistic differences between men and women in quotation
+			</h2>
+		</div>
+		<div align=center>
+			<img src="img/quote.png" alt="" width="20px">
+			<p class="text" style="margin: 50px 50px"><font size="5">
+				It is difficult for a woman to define her feelings in language which is chiefly made by men to express theirs.
+			</p>
+			<img src="img/line.png" alt="" width="40px">
+			<p class="text" style="margin-bottom: 60px;text-align: center;">
+				Thomas Hardy
+			</p>
+		</div>
+		<div class="row">
+			<div class="col-lg-3 col-md-6 col-12">
+				<div><img src="img/sentiment.png" alt=""></div>
+			</div>
+			<div class="col-lg-9 col-md-3 col-12">
+				<p class="text">
+					We already know that men and women tend to display dissimilar preferences towards different subjects (from heat map and sentiment analysis).
+					Now we ask ourselves: can we <b style="color: #FFC576;">predict</b> gender (i.e. male or female) when we know the quotations? 
+				</p>
+				<p class="text">
+					If the quotation style discrepancy between males and females is not as significant as we expected.
+					Then the model we developed would be equivalent to a random assumption
+					(we <b style="color: #FFC576;">cannot infer</b> gender from what they say), i.e. 50%.
+					But if the model works better than 50%. it indicates that there is indeed some bias in quotes made by different genders,
+					which is therefore identified by the model as a discriminatory feature.
+				</p>
+			</div>
+		</div>
+		
+
+		<div style="padding:30px 0px;">
+			<h3>How do we design such a machine learning model?
+			</h3>
+		</div>
+		
+		<div class="card-row row">
+			<div class="col-lg-4 col-md-6 col-12">
+				<div class="card-col card">
+					 <p class="text", style="text-align: center; margin-bottom: 0px;font-style: normal;">
+						 <b>Model Designing</b>
+					</p>
+					<p class="text" style="text-align:center;">
+						A <b style="color: #FFC576;">logistic regression</b> model is chosen for this is a binary-classification task.
+						And we label females as 0, males as 1. Hence, large parameters indicate the word is male-oriented.
+					</p>
+				</div>
+			</div>
+			<div class="col-lg-4 col-12">
+				<div class="card-col card">
+					<p class="text", style="text-align: center; margin-bottom: 0px;font-style: normal;">
+						<b>Data Selection</b>
+					</p>
+					<p class="text" style="text-align: center">
+						We randomly select 1 million quotations for each gender sequentially from 2015 to 2020, constituting a
+						<b style="color: #FFC576;">balanced</b> training data of 12 million quotations.
+					</p>
+				</div>
+			</div>
+			<div class="col-lg-4 col-12">
+				<div class="card-col card">
+					<p class="text", style="text-align: center; margin-bottom: 0px;font-style: normal;">
+						<b>Data Processing</b>
+					</p>
+					<p class="text" style="text-align: center;">
+						We use the <b style="color: #FFC576;">bag-of-words</b> model and <b style="color: #FFC576;">TF-IDF</b>
+						to convert the quotation into vectors and select the top <b style="color: #FFC576;">2,000</b>
+						most frequent words as features to make predictions. 
+					</p>
+				</div>
+			</div>
+		</div>
+
+		<div style="padding:30px 0px;">
+			<h3>How can we infer the gender bias from the weights in the model?
+			</h3>
+		</div>
+		<p class="text">In our task, R-Square is <b style="color: #FFC576;">59.65%</b>.
+			As discussed above, this model does have some capacity for interpretation.
+			Let us look at these most predictable words and see what we get.
+		</p>
+		<p class="text">
+			The figure below shows the <b style="color: #FFC576;">top 50</b> most predictable words for males and females respectively.
+			These words reflect how some topics are more likely to appear in an overview given the gender.
+			Here we can see that the representative words for male quotes are dominated by sports and business-related words,
+			which is in line with our previous finds in Heatmap.
+			Therefore, it confirms our observation:
+			men are portraited as "<b style="color: #FFC576;">ambitious</b>" and "<b style="color: #FFC576;">active</b>"
+			while women are more related to <b style="color: #FFC576;">family</b>.
+		</p>
+		<iframe scrolling="no" style="border:none;" seamless="seamless" src="./plotly/wordcloud_men.html" height="370" width="100%">
+		</iframe>
+		<p class="text" style="text-align: center;">
+			Top 50 predictable words for male
+		</p>
+		<iframe scrolling="no" style="border:none;" seamless="seamless" src="./plotly/wordcloud_women.html" height="370" width="100%">
+		</iframe>
+		<p class="text" style="text-align: center;">
+			Top 50 predictable words for female
+		</p>
+		<p class="text">
+			In fact, in a long time period, these areas (e.g. business, sports, politics) tend to be governed by men,
+			where females are already outnumbered, let alone the reflection in quotes.
+			For women, these are more their own characteristics and <b style="color: #FFC576;">life-like</b> words, which is also consistent with our earlier analysis.
+			It mirrors the reality of women in the social division of labour:
+			to be a good <b style="color: #FFC576;">wife</b>, a good <b style="color: #FFC576;">mother</b>, and to concentrate on life rather than dominate a particular industry.
+		</p>
+	</div>
+</section>
+
+<section class="testimonial-area" id="ch5">
+	<div class="container">
+		<div class="section-title">
+			<h2 class="title" style="text-align: center;">5. There is a long way to go towards gender equality!
+			</h2>
+		</div>
+		<div align=center>
+			<img src="img/quote.png" alt="" width="20px">
+			<p class="text" style="margin: 50px 50px"><font size="5">
+				I raise up my voice — not so that I can shout, but so that those without a voice can be heard... 
+				We cannot all succeed when half of us are held back.
+			</p>
+			<img src="img/line.png" alt="" width="40px">
+			<p class="text" style="margin-bottom: 60px;text-align: center;">Malala Yousafzai
+			</p>
+		</div>
+		<p class="text">
+			A lot of people may think nowadays women's social status is on par with men's, even if not equal to, only slightly lower than men's.
+			However, through the analysis of quotations, we have proof of the belief that gender bias does not only exist only in society, but also in gender itself.
+			In general, gender bias in the quotation can be summarized in the following three areas:
+		</p>
+		<p class="text">
+			<b style="color: #FFC576;">&#10148</b>
+			Overall, the sound of women is <b style="color: #FFC576;">much weaker</b> than that of men, although small progress does exist.
+		</p>
+		<p class="text">
+			<b style="color: #FFC576;">&#10148</b>
+			The factors causing gender bias are <b style="color: #FFC576;">not as significant as</b> we might expect from either news outlets or nations, problems hidden in the whole world (not occurring in just one country) might be the most possible reason.</p>
+		<p class="text">		
+			<b style="color: #FFC576;">&#10148</b>The sentiment distributions are <b style="color: #FFC576;">similar</b> between men and women in most topics.
+			Nevertheless, at the social level, people expect some words to be gender specific implictly or explicitly.
+			Females are anticipated to be a “<b style="color: #FFC576;">home-carer</b>” for children and husbands.		<p class="text">	
+			Gender bias still exists now, in retrospect.
+			It is not only the responsibility of journalists to eliminate gender bias in quotations, but it is also the obligation of each of us to take it seriously so that women could have more diverse identities and other possibilities.
+			<!--and to increase the voice of women in various professions.-->
+			As a result, women's voices can be quoted in the news alongside men's voices.
+		</p>
+		
+	</div>
+</section>
+
+<section class="testimonial-area" id="ch6">
+	<div class="container">
+		<div class="section-title">
+			<h2 class="title" style="text-align: center;">
+				About the team
+			</h2>
+		</div>
+		<div class=row>
+			<div class="col-lg-3 col-12">
+				<img src="./img/team/xiaoyu.jpg" class="round_icon"  alt="">
+				<br/>
+				<h3 style="text-align: center;">Xiaoyu Chen</h3>
+				<p style="text-align: center;">Msc Cyber Security</p>
+			</div>
+			<div class="col-lg-3 col-12" style="text-align: center;">
+				<img src="./img/team/siyi.jpg" class="round_icon"  alt="">
+				<br/>
+				<h3 style="text-align: center;">Siyi Liu</h3>
+				<p style="text-align: center;">Msc Data Science</p>
+			</div>
+			<div class="col-lg-3 col-12" style="text-align: center;">
+				<img src="./img/team/xiaotian.jpg" class="round_icon"  alt=""> 
+				<br/>
+				<h3 style="text-align: center;">Xiaotian Su</h3>
+				<p style="text-align: center;">Msc Data Science</p>
+			</div>
+			<div class="col-lg-3 col-12" style="text-align: center;">
+				<img src="./img/team/xinyu.jpg" class="round_icon"  alt="">
+				<br/>
+				<h3 style="text-align: center;">Xinyu Zhou</h3>
+				<p style="text-align: center;">Msc Data Science</p>
+			</div>
+		</div>
+		<HR style="FILTER: alpha(opacity=100,finishopacity=0,style=3);margin:70px auto 30px auto;" width="84%" color=#FFC576 SIZE=10>
+			<p class="text">
+				<b style="font-size: larger;color: #FFC576; font-style: oblique;">REFERENCES</b></br>
+				[1] <a href="https://zenodo.org/record/4277311#.YbyL0p7MJPZ", style="font-size: 16px;">Quotebank: A Corpus of Quotations from a Decade of News</a></br>
+				[2] <a href =https://sociologicalscience.com/download/vol-6/september/SocSci_v6_526to550.pdf style="font-size: 16px;">A Large-Scale Test of Gender Bias in the Media</a></br>
+				[3] <a href="https://dl.acm.org/doi/abs/10.1145/2740908.2742007?casa_token=PAvKpQE1sV4AAAAA%3ASkAfvOs6ZwtksMz-Rdg99zgfH-dcq6F4LIrJagZRuQjQsqlLm4vnAPHgQ4JDrAxelQVVGQYOKUjOrg", style="font-size: 16px;">Measuring Gender Bias in News Images</a></br>
+				[4] <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0245533", style="font-size: 16px;">The Gender Gap Tracker: Using Natural Language Processing to measure gender bias in media</a></br>
+				[5] <a href="https://www.cambridge.org/core/journals/british-journal-of-political-science/article/abs/political-leadership-in-the-media-gender-bias-in-leader-stereotypes-during-campaign-and-routine-times/B197672D2B8A6BCB0A65920396151699", style="font-size: 16px;">Political Leadership in the Media: Gender Bias in Leader Stereotypes during Campaign and Routine Times</a></br>
+				[6] <a href="https://www.bbc.co.uk/5050", style="font-size: 16px;">BBC: 50:50 The Equality Project</a></br>
+				[7] <a href="http://hdr.undp.org/en/content/gender-inequality-index-gii?utm_source=EN&utm_medium=GSR&utm_content=US_UNDP_PaidSearch_Brand_English&utm_campaign=CENTRAL&c_src=CENTRAL&c_src2=GSR&gclid=CjwKCAiAh_GNBhAHEiwAjOh3ZH2ZpPMqULKG061yitwx2QzQkxdmKe23Oiwjvs_52kLSZNhtgm5KBxoC23cQAvD_BwE", style="font-size: 16px;">UNITED NATIONS DEVELOPMENT PROGRAMME Human Development Reports</a></br>
+				[8] <a href="https://democrats.org/who-we-are/who-we-serve/women/", style="font-size: 16px;">DEMOCRATIC PARTY PLATFORM</a></br>
+				[9] <a href="https://www.forbes.com/athletes/", style="font-size: 16px;">Forbes: HIGHEST-PAID ATHLETES</a></br>
+			</p>
+	</div>
+</section>
+
+<!-- Scripts -->
+<script src="js/jquery-3.3.1.min.js"></script>
+<script src="js/jquery-ui.js"></script>
+<script src="js/owl.carousel.min.js"></script>
+<script src="js/jquery.counterup.min.js"></script>
+<script src="js/countdown.js"></script>
+<script src="js/stellarnav.min.js"></script>
+<script src="js/imagesloaded.pkgd.min.js"></script>
+<script src="js/isotope.pkgd.min.js"></script>
+<script src="js/jquery.magnific-popup.min.js"></script>
+<script src="js/jquery.scrollUp.js"></script>
+<script src="js/jquery.waypoints.min.js"></script>
+<script src="js/popper.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/theme.js"></script>
+<script src="js/jquery.number-run.js"></script>
+<script src="js/jquery.number-run.min.js"></script>
+<script src="https://www.jq22.com/jquery/jquery-1.10.2.js"></script>
+<script src="js/jquery.waypoints.min.js"></script>
+<script type="text/javascript" src="js/jquery.counterup.min.js"></script>
+<script type="text/javascript">
+	$('.counter').countUp();
+</script>
+</body>
+</html>
